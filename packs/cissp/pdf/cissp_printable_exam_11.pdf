@@ -1,0 +1,1286 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 3844 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 11 - Domain 3 - Security Architecture and Engineering) Tj
+0 -13 Td
+/F2 11 Tf
+(Practice Exam 02 - Domain 3) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP2-040\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An engineering team is designing a remote maintenance service for medical imaging) Tj
+0 -13 Td
+/F1 9 Tf
+(equipment. Its initial diagram lists components but omits trust boundaries, privileged data) Tj
+0 -13 Td
+/F1 9 Tf
+(flows, and attacker entry points.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security architect do NEXT to make the threat model useful for design) Tj
+0 -13 Td
+/F1 10 Tf
+(decisions?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Delay threat analysis until penetration testing begins on the completed service.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Select controls from the prior product release without evaluating the new) Tj
+0 -13 Td
+/F1 9 Tf
+(   architecture.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Map assets, data flows, trust boundaries, entry points, and credible threats before) Tj
+0 -13 Td
+/F1 9 Tf
+(   selecting mitigations.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Rate every component as equally critical so the same controls apply throughout.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP2-041\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A university is automating creation of research collaboration spaces. New spaces) Tj
+0 -13 Td
+/F1 9 Tf
+(currently allow organization-wide discovery and permit external sharing unless the owner) Tj
+0 -13 Td
+/F1 9 Tf
+(changes the settings.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which provisioning change BEST implements secure defaults?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Keep broad access but send owners monthly reminders to review membership.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Create spaces as private with external sharing disabled, requiring an explicit) Tj
+0 -13 Td
+/F1 9 Tf
+(   approved change for broader access.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Allow external sharing by default but record each download for later investigation.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Let each department choose defaults without an organization-wide minimum baseline.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP2-042\)) Tj
+0 -13 Td
+/F1 10 Tf
+(Which formal model is MOST directly concerned with preventing subjects at lower integrity) Tj
+0 -13 Td
+/F1 10 Tf
+(levels from contaminating higher-integrity information?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Bell-LaPadula) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Biba) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Brewer-Nash) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Graham-Denning) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP2-043\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A logistics company must continue operating a legacy native application while its) Tj
+0 -13 Td
+/F1 9 Tf
+(replacement is developed. Testing shows that memory-corruption defects may permit execution) Tj
+0 -13 Td
+/F1 9 Tf
+(of injected code.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which architecture-level mitigation provides the BEST immediate defense in depth?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Disable operating-system updates to avoid changing the application's memory layout.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Increase the application's file-storage quota and preserve its current execution) Tj
+0 -13 Td
+/F1 9 Tf
+(   privileges.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use full-disk encryption as the only compensating control for runtime memory) Tj
+0 -13 Td
+/F1 9 Tf
+(   defects.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Enable data execution prevention and address-space layout randomization on a) Tj
+0 -13 Td
+/F1 9 Tf
+(   supported platform while isolating the application.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4224 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 10 Tf
+(Question 5 \(CISSP2-044\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A transit authority is planning an analytics platform that estimates passenger) Tj
+0 -13 Td
+/F1 9 Tf
+(congestion. The initial design stores precise travel histories tied to persistent rider) Tj
+0 -13 Td
+/F1 9 Tf
+(identifiers even though aggregate patterns meet the stated business need.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO changes BEST apply privacy by design? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Collect only the location precision and retention period needed for congestion) Tj
+0 -13 Td
+/F1 9 Tf
+(   analysis.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Grant all analysts access to raw travel records to simplify collaboration.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Retain identifiable histories indefinitely in case a future project finds them) Tj
+0 -13 Td
+/F1 9 Tf
+(   useful.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Replace direct rider identifiers with controlled pseudonymous values and restrict) Tj
+0 -13 Td
+/F1 9 Tf
+(   reidentification capability.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Rely exclusively on a privacy notice while leaving data collection unchanged.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP2-045\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A nonprofit adopts a hosted document service. The provider secures the underlying) Tj
+0 -13 Td
+/F1 9 Tf
+(service, but a review finds public-link sharing enabled, dormant privileged accounts, and) Tj
+0 -13 Td
+/F1 9 Tf
+(unrestricted third-party integrations in the tenant.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which action should the tenant security owner take FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Ask the provider to replace storage hardware used by the service.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Establish a secure tenant baseline that restricts sharing, privileged access, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   integration permissions.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Purchase additional availability capacity before changing access settings.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Move all documents to unmanaged employee devices while the review continues.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP2-046\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A hosting environment places hypervisor management interfaces on the same logical) Tj
+0 -13 Td
+/F1 9 Tf
+(segment used by guest workloads. Administrators also browse email from the workstations used) Tj
+0 -13 Td
+/F1 9 Tf
+(to manage hosts.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the MOST effective architectural improvement?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Encrypt virtual disks but retain shared management and workload connectivity.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Increase guest virtual-machine memory so workloads are less likely to affect the) Tj
+0 -13 Td
+/F1 9 Tf
+(   hosts.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Isolate the management plane, restrict access through dedicated hardened) Tj
+0 -13 Td
+/F1 9 Tf
+(   administration paths, and enforce strong privileged controls.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Add endpoint monitoring to administrator workstations without changing management-) Tj
+0 -13 Td
+/F1 9 Tf
+(   plane exposure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP2-047\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An insurance platform consists of many independently deployed services. Once a) Tj
+0 -13 Td
+/F1 9 Tf
+(request enters the internal service mesh, downstream services accept the caller's claimed) Tj
+0 -13 Td
+/F1 9 Tf
+(identity and requested operation without performing their own authorization checks.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which design change BEST limits the impact of one compromised service?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Use longer internal service names to make unauthorized calls more difficult.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Increase the number of service replicas while retaining transitive trust.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Log the first external request and suppress duplicate downstream authorization) Tj
+0 -13 Td
+/F1 9 Tf
+(   events.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Require each service to authenticate its caller and authorize the requested) Tj
+0 -13 Td
+/F1 9 Tf
+(   resource operation using least privilege.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4011 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP2-048\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A scientific computing cluster will process projects with different sensitivity) Tj
+0 -13 Td
+/F1 9 Tf
+(levels. Jobs share a scheduler, high-speed interconnect, temporary storage, and compute) Tj
+0 -13 Td
+/F1 9 Tf
+(nodes to maximize utilization.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which control strategy BEST reduces cross-project exposure without assuming that performance) Tj
+0 -13 Td
+/F1 10 Tf
+(controls alone provide security?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Prioritize sensitive jobs in the queue while using one service identity for all) Tj
+0 -13 Td
+/F1 9 Tf
+(   projects.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Increase processor allocation for sensitive jobs but leave shared storage) Tj
+0 -13 Td
+/F1 9 Tf
+(   permissions unchanged.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Apply sensitivity-based workload isolation, scheduler authorization, storage) Tj
+0 -13 Td
+/F1 9 Tf
+(   separation, and verified cleanup before node reuse.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Rely on researchers to delete temporary files after their jobs complete.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP2-049\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A building-automation vendor is redesigning controllers after researchers showed) Tj
+0 -13 Td
+/F1 9 Tf
+(that devices accept unsigned firmware and can be downgraded to vulnerable releases.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO device capabilities MOST directly address these weaknesses? Select 2 of the 5) Tj
+0 -13 Td
+/F1 10 Tf
+(options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Permit local unsigned installation when network connectivity is unavailable.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Verify a trusted digital signature before installing firmware.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Increase the frequency of device status messages sent to the management console.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Compress firmware packages to reduce update time.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Enforce an authorized version policy that prevents rollback to prohibited releases.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP2-050\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A legal services firm must encrypt large case archives for several authorized) Tj
+0 -13 Td
+/F1 9 Tf
+(recipients who do not share a preexisting secret. The design must remain efficient as) Tj
+0 -13 Td
+/F1 9 Tf
+(archive size grows.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which cryptographic design is MOST appropriate?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Encrypt each archive with a random symmetric data key, then protect that key for) Tj
+0 -13 Td
+/F1 9 Tf
+(   each recipient using the recipient's public key.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Hash each archive and treat the hash value as encrypted content.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Encrypt the entire archive separately with each recipient's asymmetric key and omit) Tj
+0 -13 Td
+/F1 9 Tf
+(   symmetric encryption.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Use one permanent symmetric key for every recipient and every archive.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP2-051\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An internal application validates certificate signatures and expiration dates but) Tj
+0 -13 Td
+/F1 9 Tf
+(never checks whether certificates have been revoked before expiration.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the PKI architect add to address this gap?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A larger subject-name field to improve certificate identification) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A longer validity period so certificates require less frequent renewal) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A defined certificate-status check using current revocation information, with an) Tj
+0 -13 Td
+/F1 9 Tf
+(   explicit failure policy) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A second copy of each certificate stored beside the application) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP2-052\)) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 3976 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(Scenario: A global manufacturer uses a legacy cryptographic algorithm in applications,) Tj
+0 -13 Td
+/F1 9 Tf
+(embedded equipment, backups, and supplier integrations. The algorithm remains operational) Tj
+0 -13 Td
+/F1 9 Tf
+(but is expected to become unacceptable during the systems' service lives.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST initial enterprise response?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Replace only the algorithm name in policy documents while leaving implementations) Tj
+0 -13 Td
+/F1 9 Tf
+(   unchanged.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Wait for a practical break before documenting where the algorithm is used.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Increase password complexity in systems that use the algorithm and retain the) Tj
+0 -13 Td
+/F1 9 Tf
+(   design.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Inventory cryptographic dependencies and data lifetimes, then create a prioritized) Tj
+0 -13 Td
+/F1 9 Tf
+(   migration plan with replaceable algorithms and keys.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP2-053\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An analyst studying an obsolete encryption implementation possesses several) Tj
+0 -13 Td
+/F1 9 Tf
+(ciphertexts and the exact original plaintext corresponding to some of them. The analyst uses) Tj
+0 -13 Td
+/F1 9 Tf
+(those pairs to infer information that may help attack other ciphertexts.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which cryptanalytic attack condition is MOST accurately described?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Ciphertext-only) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Known-plaintext) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Frequency analysis) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Brute force) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP2-054\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A compliance archive must allow reviewers to detect any alteration to a report and) Tj
+0 -13 Td
+/F1 9 Tf
+(verify which authorized signing identity approved it. Keeping the report content secret is) Tj
+0 -13 Td
+/F1 9 Tf
+(handled separately.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which operation directly supports the stated integrity and origin-verification requirement?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Generate a report digest and sign it with the approver's protected private key.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Encrypt the report with the approver's public key.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Encrypt the report with the reviewer's private key.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Store an unsigned digest in the same writable repository as the report.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP2-055\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A civic records facility is located beside a public street, and its server room) Tj
+0 -13 Td
+/F1 9 Tf
+(wall is close to an employee parking area. The risk assessment identifies unauthorized) Tj
+0 -13 Td
+/F1 9 Tf
+(vehicle approach as a material threat.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which site-design change BEST addresses the identified threat?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Move visitor parking closer to the wall so personnel can observe arriving vehicles.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Add interior badge readers while retaining unrestricted vehicle access beside the) Tj
+0 -13 Td
+/F1 9 Tf
+(   server room.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Install additional server-room cameras without changing the vehicle approach path.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Create adequate standoff distance using rated barriers and route authorized) Tj
+0 -13 Td
+/F1 9 Tf
+(   vehicles through controlled access points.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP2-056\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A records-processing center experiences brief hot spots and large humidity swings) Tj
+0 -13 Td
+/F1 9 Tf
+(even though the average room temperature appears acceptable. Equipment alarms occur mainly) Tj
+0 -13 Td
+/F1 9 Tf
+(after one cooling unit cycles off.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 3873 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+(What is the MOST appropriate corrective design?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Use distributed temperature and humidity sensing with alerting, airflow management,) Tj
+0 -13 Td
+/F1 9 Tf
+(   and sufficient redundant conditioning capacity.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Measure temperature only at the room entrance and increase the alarm threshold.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Operate one larger cooling unit without monitoring local environmental variation.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Reduce preventive maintenance so cooling units remain available for production) Tj
+0 -13 Td
+/F1 9 Tf
+(   hours.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP2-057\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A call center must keep critical computing systems available through short power) Tj
+0 -13 Td
+/F1 9 Tf
+(disturbances and extended utility outages while an orderly shutdown remains possible if) Tj
+0 -13 Td
+/F1 9 Tf
+(backup generation fails.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO capabilities are MOST important to this design? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Surge protection that limits voltage spikes but provides no stored energy) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A documented load-shedding plan without an alternate power source) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. An uninterruptible power supply sized to bridge interruptions and support) Tj
+0 -13 Td
+/F1 9 Tf
+(   controlled shutdown) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A tested backup generator with adequate fuel planning for the required outage) Tj
+0 -13 Td
+/F1 9 Tf
+(   duration) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Redundant rack power supplies connected to the same unprotected utility circuit) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP2-058\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A pharmaceutical research facility regularly receives maintenance contractors.) Tj
+0 -13 Td
+/F1 9 Tf
+(Visitors are issued temporary badges at reception but can move unescorted through corridors) Tj
+0 -13 Td
+/F1 9 Tf
+(that lead to laboratories and network rooms.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which improvement BEST reduces unauthorized visitor movement?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Verify and log visitors, issue time- and area-limited credentials, require) Tj
+0 -13 Td
+/F1 9 Tf
+(   appropriate escorts, and recover badges at departure.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Use a different badge color while preserving unrestricted corridor access.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Require contractors to sign a confidentiality agreement as the sole facility) Tj
+0 -13 Td
+/F1 9 Tf
+(   control.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Review visitor records quarterly without changing access permissions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 20 \(CISSP2-059\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A secure operations building is adding a new public training wing. Construction) Tj
+0 -13 Td
+/F1 9 Tf
+(will temporarily open exterior walls, reroute utilities, and place contractors near the) Tj
+0 -13 Td
+/F1 9 Tf
+(existing restricted area.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the facility security lead do FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Transfer all responsibility for restricted-area protection to the construction) Tj
+0 -13 Td
+/F1 9 Tf
+(   contractor.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Apply the existing visitor procedure without considering construction-specific) Tj
+0 -13 Td
+/F1 9 Tf
+(   access or exposed utilities.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Wait until the training wing opens, then test whether the old perimeter remains) Tj
+0 -13 Td
+/F1 9 Tf
+(   effective.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Conduct a change-specific risk assessment and define temporary and permanent) Tj
+0 -13 Td
+/F1 9 Tf
+(   boundaries, access routes, monitoring, and utility protections before work begins.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4442 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP2-040\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(A useful threat model connects assets and data flows to trust boundaries, entry points, and) Tj
+0 -13 Td
+/F1 9 Tf
+(credible attacker actions, allowing controls to address specific design risks. Reusing prior) Tj
+0 -13 Td
+/F1 9 Tf
+(controls may miss changed threats. Waiting until testing forfeits early design influence,) Tj
+0 -13 Td
+/F1 9 Tf
+(while treating every component identically prevents risk-based prioritization.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP2-041\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A private initial state with external sharing disabled minimizes exposure until an) Tj
+0 -13 Td
+/F1 9 Tf
+(authorized owner deliberately enables additional access. Reminders and logging are useful) Tj
+0 -13 Td
+/F1 9 Tf
+(detective measures but do not prevent unintended disclosure. Departmental flexibility) Tj
+0 -13 Td
+/F1 9 Tf
+(without a minimum baseline can preserve insecure initial configurations.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP2-042\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Biba focuses on preserving information integrity by restricting flows that could allow) Tj
+0 -13 Td
+/F1 9 Tf
+(lower-integrity subjects or objects to corrupt higher-integrity data. Bell-LaPadula protects) Tj
+0 -13 Td
+/F1 9 Tf
+(confidentiality. Brewer-Nash addresses conflicts of interest, while Graham-Denning describes) Tj
+0 -13 Td
+/F1 9 Tf
+(secure creation, deletion, and transfer of access rights.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP2-043\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Data execution prevention impedes execution from nonexecutable memory regions, address-space) Tj
+0 -13 Td
+/F1 9 Tf
+(layout randomization makes target locations less predictable, and isolation limits impact.) Tj
+0 -13 Td
+/F1 9 Tf
+(Storage capacity does not address exploitation. Full-disk encryption protects data at rest,) Tj
+0 -13 Td
+/F1 9 Tf
+(not active memory, and withholding platform updates can leave additional vulnerabilities) Tj
+0 -13 Td
+/F1 9 Tf
+(exposed.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP2-044\) - Correct: A, D) Tj
+0 -13 Td
+/F1 9 Tf
+(Data minimization and limited retention reduce the amount and duration of personal-data) Tj
+0 -13 Td
+/F1 9 Tf
+(exposure, while controlled pseudonymization reduces direct identifiability. Indefinite) Tj
+0 -13 Td
+/F1 9 Tf
+(retention and broad analyst access expand risk. Notice supports transparency but does not) Tj
+0 -13 Td
+/F1 9 Tf
+(substitute for privacy-preserving architecture.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP2-045\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(The customer controls tenant configuration, identities, sharing, and permitted integrations,) Tj
+0 -13 Td
+/F1 9 Tf
+(so a secure baseline directly addresses the observed exposure. Provider hardware is outside) Tj
+0 -13 Td
+/F1 9 Tf
+(the tenant's operational role. Additional capacity does not reduce unauthorized access, and) Tj
+0 -13 Td
+/F1 9 Tf
+(unmanaged devices introduce further data-control risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP2-046\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Separating the management plane and requiring hardened, tightly controlled administrative) Tj
+0 -13 Td
+/F1 9 Tf
+(paths reduces attack paths to the hypervisor and limits exposure from ordinary workstation) Tj
+0 -13 Td
+/F1 9 Tf
+(activity. More guest memory is unrelated. Disk encryption protects stored data, and endpoint) Tj
+0 -13 Td
+/F1 9 Tf
+(monitoring alone does not remove direct management connectivity.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP2-047\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Independent authentication and resource-level authorization at service boundaries prevent) Tj
+0 -13 Td
+/F1 9 Tf
+(one trusted position from granting unrestricted transitive access. Replication improves) Tj
+0 -13 Td
+/F1 9 Tf
+(availability but preserves the trust flaw. Entry logging cannot enforce downstream) Tj
+0 -13 Td
+/F1 9 Tf
+(permissions, and naming complexity is not an access-control mechanism.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP2-048\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Sensitivity-based isolation, authorized scheduling, separated storage, and verified cleanup) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4482 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(address multiple HPC sharing paths. Processor allocation and queue priority affect) Tj
+0 -13 Td
+/F1 9 Tf
+(performance rather than confidentiality. A common identity removes accountability and least) Tj
+0 -13 Td
+/F1 9 Tf
+(privilege, while voluntary deletion does not reliably sanitize shared resources.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP2-049\) - Correct: B, E) Tj
+0 -13 Td
+/F1 9 Tf
+(Signature verification establishes firmware authenticity and integrity, while anti-rollback) Tj
+0 -13 Td
+/F1 9 Tf
+(enforcement prevents installation of previously valid but now prohibited versions. Status) Tj
+0 -13 Td
+/F1 9 Tf
+(frequency and compression do not establish update trust. An offline exception for unsigned) Tj
+0 -13 Td
+/F1 9 Tf
+(code recreates the unauthorized-installation weakness.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP2-050\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Hybrid encryption uses efficient symmetric cryptography for bulk data and asymmetric) Tj
+0 -13 Td
+/F1 9 Tf
+(cryptography to protect the data key for each recipient. Hashing does not provide) Tj
+0 -13 Td
+/F1 9 Tf
+(confidentiality. Encrypting all bulk content asymmetrically is inefficient, while one) Tj
+0 -13 Td
+/F1 9 Tf
+(permanent shared key creates excessive exposure and difficult revocation.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP2-051\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Relying applications must consult current revocation status, such as an appropriate) Tj
+0 -13 Td
+/F1 9 Tf
+(certificate revocation list or online status service, and handle unavailable status) Tj
+0 -13 Td
+/F1 9 Tf
+(according to documented risk requirements. Longer validity increases exposure after) Tj
+0 -13 Td
+/F1 9 Tf
+(compromise. Subject-name size and duplicate certificate storage do not reveal revocation.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP2-052\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(An inventory tied to data and system lifetimes reveals exposure and enables prioritized) Tj
+0 -13 Td
+/F1 9 Tf
+(migration toward crypto-agile implementations. Waiting for exploitation eliminates planning) Tj
+0 -13 Td
+/F1 9 Tf
+(time. Password changes do not strengthen a deprecated algorithm, and policy wording without) Tj
+0 -13 Td
+/F1 9 Tf
+(implementation change provides no technical protection.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP2-053\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A known-plaintext attack uses available plaintext and its matching ciphertext to learn about) Tj
+0 -13 Td
+/F1 9 Tf
+(the cipher or key. A ciphertext-only attack lacks corresponding plaintext. Frequency) Tj
+0 -13 Td
+/F1 9 Tf
+(analysis relies on statistical patterns, while brute force systematically searches the key) Tj
+0 -13 Td
+/F1 9 Tf
+(space rather than depending on known pairs.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP2-054\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Signing the digest with the approver's protected private key lets reviewers use the) Tj
+0 -13 Td
+/F1 9 Tf
+(corresponding public key to verify integrity and origin. Encryption with the approver's) Tj
+0 -13 Td
+/F1 9 Tf
+(public key is aimed at confidentiality for that approver. Private-key encryption is not an) Tj
+0 -13 Td
+/F1 9 Tf
+(appropriate confidentiality design, and a colocated unsigned digest can be altered with the) Tj
+0 -13 Td
+/F1 9 Tf
+(report.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP2-055\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Standoff distance, appropriately rated barriers, and controlled vehicle entry directly) Tj
+0 -13 Td
+/F1 9 Tf
+(reduce the opportunity and impact of unauthorized vehicle approach. Interior badges govern) Tj
+0 -13 Td
+/F1 9 Tf
+(people after entry. Cameras add detection but do not stop a vehicle, and moving parking) Tj
+0 -13 Td
+/F1 9 Tf
+(closer increases rather than reduces proximity risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP2-056\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Distributed sensing detects local conditions, airflow management addresses hot spots, and) Tj
+0 -13 Td
+/F1 9 Tf
+(redundant capacity avoids dependence on one cooling unit. An entrance sensor can conceal) Tj
+0 -13 Td
+/F1 9 Tf
+(rack-level extremes. One larger unit creates a concentration of failure risk, while reduced) Tj
+0 -13 Td
+/F1 9 Tf
+(maintenance makes environmental failure more likely.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 1708 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 10 Tf
+(Question 18 \(CISSP2-057\) - Correct: C, D) Tj
+0 -13 Td
+/F1 9 Tf
+(A properly sized uninterruptible power supply provides immediate conditioned power and) Tj
+0 -13 Td
+/F1 9 Tf
+(shutdown time, while a tested generator supplies longer-duration backup with appropriate) Tj
+0 -13 Td
+/F1 9 Tf
+(fuel support. Surge protection does not provide energy during an outage. Load shedding) Tj
+0 -13 Td
+/F1 9 Tf
+(without alternate power cannot sustain service, and redundant supplies on one unprotected) Tj
+0 -13 Td
+/F1 9 Tf
+(circuit retain a common power dependency.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP2-058\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Verified registration, constrained credentials, escorting, and badge recovery create) Tj
+0 -13 Td
+/F1 9 Tf
+(preventive and accountable visitor controls matched to sensitive zones. Badge color improves) Tj
+0 -13 Td
+/F1 9 Tf
+(visibility but not enforcement. An agreement is administrative rather than a physical) Tj
+0 -13 Td
+/F1 9 Tf
+(barrier, and retrospective record review does not prevent unauthorized movement.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 20 \(CISSP2-059\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Construction changes physical boundaries, traffic patterns, and utility exposure, so risks) Tj
+0 -13 Td
+/F1 9 Tf
+(and compensating controls must be assessed before work starts. The ordinary visitor) Tj
+0 -13 Td
+/F1 9 Tf
+(procedure may not cover these conditions. Post-construction testing is too late to protect) Tj
+0 -13 Td
+/F1 9 Tf
+(the work period, and organizational accountability cannot be fully transferred to a) Tj
+0 -13 Td
+/F1 9 Tf
+(contractor.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] /Count 8 >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 19 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004110 00000 n 
+0000004247 00000 n 
+0000008523 00000 n 
+0000008660 00000 n 
+0000012723 00000 n 
+0000012860 00000 n 
+0000016888 00000 n 
+0000017026 00000 n 
+0000020952 00000 n 
+0000021091 00000 n 
+0000025586 00000 n 
+0000025725 00000 n 
+0000030260 00000 n 
+0000030399 00000 n 
+0000032160 00000 n 
+0000032299 00000 n 
+0000032404 00000 n 
+trailer
+<< /Size 21 /Root 20 0 R >>
+startxref
+32455
+%%EOF

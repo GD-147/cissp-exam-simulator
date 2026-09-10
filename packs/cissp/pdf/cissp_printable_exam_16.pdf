@@ -1,0 +1,1118 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4110 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 16 - Domain 8 - Software Development Security) Tj
+0 -13 Td
+/F2 11 Tf
+(Practice Exam 02 - Domain 8) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP2-136\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A public benefits agency is beginning a Waterfall development project. Its) Tj
+0 -13 Td
+/F1 9 Tf
+(requirements document says only that the application must protect confidential information,) Tj
+0 -13 Td
+/F1 9 Tf
+(and the design phase is scheduled to begin next week.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security architect do FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Schedule a penetration test after implementation and use its findings to define the) Tj
+0 -13 Td
+/F1 9 Tf
+(   missing requirements.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Let each developer interpret the policy statement and document the selected) Tj
+0 -13 Td
+/F1 9 Tf
+(   controls in source-code comments.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Convert applicable risks and policies into measurable security requirements,) Tj
+0 -13 Td
+/F1 9 Tf
+(   acceptance criteria, and requirements traceability before design approval.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Defer security requirements until user acceptance testing reveals which functions) Tj
+0 -13 Td
+/F1 9 Tf
+(   handle confidential information.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP2-137\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A logistics company wants to improve software security maturity. Different teams) Tj
+0 -13 Td
+/F1 9 Tf
+(use unrelated checklists, metrics are unavailable, and leaders disagree about which process) Tj
+0 -13 Td
+/F1 9 Tf
+(weaknesses create the greatest business risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which action is the BEST starting point for a sustainable improvement program?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Assess current capabilities against a selected maturity model, define the desired) Tj
+0 -13 Td
+/F1 9 Tf
+(   state, and prioritize gaps according to business risk.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Mandate the highest maturity level for every team before documenting existing) Tj
+0 -13 Td
+/F1 9 Tf
+(   development processes.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Purchase additional testing tools and use the number of generated findings as the) Tj
+0 -13 Td
+/F1 9 Tf
+(   maturity score.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Standardize the easiest existing checklist without determining whether it addresses) Tj
+0 -13 Td
+/F1 9 Tf
+(   the organization's principal risks.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP2-138\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An insurer plans to add a partner-facing interface to an internally used claims) Tj
+0 -13 Td
+/F1 9 Tf
+(application. The change introduces external data flows and a new category of personal) Tj
+0 -13 Td
+/F1 9 Tf
+(information, but the project manager considers it a routine feature release.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the security manager's MOST appropriate response?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Approve the release because the underlying application previously passed its) Tj
+0 -13 Td
+/F1 9 Tf
+(   security evaluation.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Require the partner to accept all application risk because the new interface will) Tj
+0 -13 Td
+/F1 9 Tf
+(   be used externally.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Repeat every historical test regardless of whether the affected controls or data) Tj
+0 -13 Td
+/F1 9 Tf
+(   flows changed.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Conduct a security impact analysis and update the risk assessment, control) Tj
+0 -13 Td
+/F1 9 Tf
+(   validation, and authorization evidence as the change requires.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP2-139\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A research team wants to demonstrate a new customer analytics concept in three) Tj
+0 -13 Td
+/F1 9 Tf
+(weeks. To save time, it proposes using a copy of production data and connecting the) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4189 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(prototype directly to an internal production service. Executives say the demonstration may) Tj
+0 -13 Td
+/F1 9 Tf
+(later become a supported application.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which approach BEST balances rapid learning with secure development?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Permit unrestricted production access because the prototype will initially have few) Tj
+0 -13 Td
+/F1 9 Tf
+(   users.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Use minimized or synthetic data in an isolated environment, define prototype) Tj
+0 -13 Td
+/F1 9 Tf
+(   security constraints, and require full lifecycle review before any production) Tj
+0 -13 Td
+/F1 9 Tf
+(   transition.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Treat the prototype as production-ready if its functional demonstration succeeds) Tj
+0 -13 Td
+/F1 9 Tf
+(   within the deadline.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Prohibit prototyping and require the team to complete the entire production release) Tj
+0 -13 Td
+/F1 9 Tf
+(   process before testing the concept.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP2-140\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regional utility is preparing a normal release that changes authorization logic) Tj
+0 -13 Td
+/F1 9 Tf
+(in a customer portal. The change advisory group must decide whether the release is ready for) Tj
+0 -13 Td
+/F1 9 Tf
+(production.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO items provide the MOST relevant security evidence for the approval decision?) Tj
+0 -13 Td
+/F1 10 Tf
+(Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. The number of lines of code written by each developer during the release.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A documented security impact analysis identifying affected assets, threats, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   controls.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A statement that the release compiled successfully on the lead developer's) Tj
+0 -13 Td
+/F1 9 Tf
+(   workstation.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A list of unrelated defects deferred from older versions of the application.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Results of risk-appropriate testing plus an approved deployment and rollback plan.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP2-141\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A game studio discovers that an unapproved integrated development environment) Tj
+0 -13 Td
+/F1 9 Tf
+(extension copied portions of proprietary source code to an external service. Developers) Tj
+0 -13 Td
+/F1 9 Tf
+(currently install extensions without review because they improve productivity.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which control would BEST reduce recurrence while supporting legitimate development needs?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Maintain an approved extension catalog, validate source and permissions, centrally) Tj
+0 -13 Td
+/F1 9 Tf
+(   enforce installation policy, and monitor exceptions.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Permit any digitally signed marketplace extension because the signature establishes) Tj
+0 -13 Td
+/F1 9 Tf
+(   that its behavior is safe.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Rely on endpoint data loss prevention rules while allowing developers to install) Tj
+0 -13 Td
+/F1 9 Tf
+(   extensions from any source.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Review an extension's source and permissions only after monitoring identifies) Tj
+0 -13 Td
+/F1 9 Tf
+(   suspicious outbound activity.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP2-142\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A community platform stores user profile text in a database. When another user) Tj
+0 -13 Td
+/F1 9 Tf
+(views a profile, the application inserts that text directly into an HTML page, allowing) Tj
+0 -13 Td
+/F1 9 Tf
+(stored script content to execute in the viewer's browser.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST primary remediation?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Encrypt the profile table so scripts cannot be read directly from database storage.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Require longer passwords for users who are permitted to edit profile text.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Apply context-appropriate output encoding and safe templating, supplemented by) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4127 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   server-side input validation where suitable.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Hide the profile editing link from users whose browsers do not support client-side) Tj
+0 -13 Td
+/F1 9 Tf
+(   scripting.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP2-143\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A laboratory scheduling application returns database statements, internal file) Tj
+0 -13 Td
+/F1 9 Tf
+(paths, and stack traces to users when requests fail. Developers rely on these messages to) Tj
+0 -13 Td
+/F1 9 Tf
+(troubleshoot production incidents.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(How should the development team correct this weakness?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Continue displaying the details but add a notice telling users not to share error) Tj
+0 -13 Td
+/F1 9 Tf
+(   messages.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Suppress all error records so internal implementation details are not retained) Tj
+0 -13 Td
+/F1 9 Tf
+(   anywhere.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Send stack traces only to users who confirm that they work for the organization.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Return generic client messages with correlation identifiers and record detailed) Tj
+0 -13 Td
+/F1 9 Tf
+(   diagnostics in protected, access-controlled logs.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP2-144\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A document service accepts a user-supplied URL and instructs its server to) Tj
+0 -13 Td
+/F1 9 Tf
+(retrieve the referenced file. Testing shows that crafted URLs can cause requests to internal) Tj
+0 -13 Td
+/F1 9 Tf
+(administration endpoints and cloud instance metadata addresses.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which design change would MOST effectively reduce this risk?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Reject hostnames on a block list of currently known internal services while) Tj
+0 -13 Td
+/F1 9 Tf
+(   allowing all other destinations.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Restrict destinations and protocols with server-side allow lists, safely resolve) Tj
+0 -13 Td
+/F1 9 Tf
+(   and validate addresses, and block access to internal and metadata ranges.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Route requests through an outbound proxy that records destinations but does not) Tj
+0 -13 Td
+/F1 9 Tf
+(   enforce a destination policy.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Validate the initially resolved address but permit redirects without applying the) Tj
+0 -13 Td
+/F1 9 Tf
+(   validation again.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP2-145\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An open collaboration project runs proposed code changes from external) Tj
+0 -13 Td
+/F1 9 Tf
+(contributors on a persistent continuous integration worker. The worker has network access to) Tj
+0 -13 Td
+/F1 9 Tf
+(internal services and holds credentials used for production releases.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST way to reduce the resulting development ecosystem risk?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Run untrusted jobs in ephemeral isolated workers without production secrets or) Tj
+0 -13 Td
+/F1 9 Tf
+(   unnecessary internal access, and use a separate trusted release stage.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Keep the persistent worker and limit the production credential to the permissions) Tj
+0 -13 Td
+/F1 9 Tf
+(   normally required for a release.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Scan proposed code before execution while retaining the worker's internal) Tj
+0 -13 Td
+/F1 9 Tf
+(   connectivity and production secrets.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Run external contributions under a separate operating system account on the same) Tj
+0 -13 Td
+/F1 9 Tf
+(   persistent worker with access to the same network and secrets.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP2-146\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A pharmacy software team has extensive automated functional tests. It wants) Tj
+0 -13 Td
+/F1 9 Tf
+(security findings that combine knowledge of executing code paths, data flow, and runtime) Tj
+0 -13 Td
+/F1 9 Tf
+(behavior without waiting for a separate end-of-cycle scan.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4203 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+(Which testing technique BEST fits this requirement?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Static application security testing performed after each build without executing) Tj
+0 -13 Td
+/F1 9 Tf
+(   the application.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Dynamic application security testing that probes exposed interfaces without) Tj
+0 -13 Td
+/F1 9 Tf
+(   internal runtime instrumentation.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Interactive application security testing through instrumentation while the) Tj
+0 -13 Td
+/F1 9 Tf
+(   functional tests exercise the application.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A manual penetration test conducted against the completed application at the end of) Tj
+0 -13 Td
+/F1 9 Tf
+(   the release cycle.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP2-147\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A transit authority is evaluating commercial software for a system expected to) Tj
+0 -13 Td
+/F1 9 Tf
+(remain in service for eight years. The application will support a critical business process) Tj
+0 -13 Td
+/F1 9 Tf
+(and cannot be replaced quickly if the supplier ends support.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO factors are MOST important to evaluate before acquisition? Select 2 of the 5) Tj
+0 -13 Td
+/F1 10 Tf
+(options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Documented support and end-of-life plans, including expected maintenance for the) Tj
+0 -13 Td
+/F1 9 Tf
+(   required service period.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A point-in-time penetration test summary for a demonstration version with no) Tj
+0 -13 Td
+/F1 9 Tf
+(   commitment to address future findings.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A current security certification that does not define product support, update, or) Tj
+0 -13 Td
+/F1 9 Tf
+(   vulnerability handling obligations.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Contractual vulnerability notification, remediation, update, and security incident) Tj
+0 -13 Td
+/F1 9 Tf
+(   obligations.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. A one-time source-code review performed before deployment with no provision for) Tj
+0 -13 Td
+/F1 9 Tf
+(   later versions or maintenance releases.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP2-148\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A vulnerability is disclosed in a common compression component. An industrial) Tj
+0 -13 Td
+/F1 9 Tf
+(company uses dozens of internally developed and acquired applications, and the component may) Tj
+0 -13 Td
+/F1 9 Tf
+(be included indirectly within other packages.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which capability would MOST improve the company's ability to determine its exposure quickly?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A list of application owners that omits component and version information.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A maintained software bill of materials linked to deployed versions and including) Tj
+0 -13 Td
+/F1 9 Tf
+(   direct and transitive dependencies.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. An external vulnerability scan of application endpoints that cannot identify) Tj
+0 -13 Td
+/F1 9 Tf
+(   components embedded inside packages.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Supplier statements that deployed products are current without an inventory of) Tj
+0 -13 Td
+/F1 9 Tf
+(   included component versions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP2-149\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An API automatically maps every property in a client request to an internal) Tj
+0 -13 Td
+/F1 9 Tf
+(account object. A tester adds an undocumented privilege property to an otherwise valid) Tj
+0 -13 Td
+/F1 9 Tf
+(profile update and changes the account's role.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which remediation MOST directly addresses the coding weakness?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Document the privilege property so clients know that it should not be changed.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Require the tester to use a longer access token when sending profile updates.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Rename sensitive internal properties so ordinary clients are less likely to guess) Tj
+0 -13 Td
+/F1 9 Tf
+(   them.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Bind only explicitly permitted request fields and enforce server-side authorization) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 1290 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   for every sensitive property change.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP2-150\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A records-management product accepts complex files from untrusted external) Tj
+0 -13 Td
+/F1 9 Tf
+(parties. Reviewers are concerned that unusual combinations of lengths, headers, and nested) Tj
+0 -13 Td
+/F1 9 Tf
+(structures could trigger crashes or unsafe parser behavior that ordinary test cases do not) Tj
+0 -13 Td
+/F1 9 Tf
+(cover.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which assessment method would BEST target this concern?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Perform a manual source review focused on documented parsing paths and expected) Tj
+0 -13 Td
+/F1 9 Tf
+(   file structures.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Run load tests using a large collection of well-formed files that follow the) Tj
+0 -13 Td
+/F1 9 Tf
+(   published specification.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use coverage-guided fuzz testing with malformed and mutated inputs while monitoring) Tj
+0 -13 Td
+/F1 9 Tf
+(   for crashes and anomalous behavior.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Repeat functional acceptance tests with representative valid files and compare the) Tj
+0 -13 Td
+/F1 9 Tf
+(   resulting records.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4404 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP2-136\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(In a sequential lifecycle, measurable security requirements and acceptance criteria should) Tj
+0 -13 Td
+/F1 9 Tf
+(be established before design so they can guide architecture, implementation, and testing. A) Tj
+0 -13 Td
+/F1 9 Tf
+(late penetration test can validate controls but is not a substitute for requirements.) Tj
+0 -13 Td
+/F1 9 Tf
+(Individual interpretations create inconsistency, and waiting for acceptance testing makes) Tj
+0 -13 Td
+/F1 9 Tf
+(fundamental security defects costly to correct.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP2-137\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A maturity initiative needs an evidence-based current-state baseline, a business-aligned) Tj
+0 -13 Td
+/F1 9 Tf
+(target, and prioritized gaps. Declaring the highest level without understanding existing) Tj
+0 -13 Td
+/F1 9 Tf
+(processes is unrealistic. Tool output alone does not measure institutionalized capability,) Tj
+0 -13 Td
+/F1 9 Tf
+(and adopting the easiest checklist may standardize practices that do not address material) Tj
+0 -13 Td
+/F1 9 Tf
+(risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP2-138\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(New exposure and data use can alter the system's risk profile, so the organization should) Tj
+0 -13 Td
+/F1 9 Tf
+(analyze the change and reassess affected controls before release. Prior evaluation does not) Tj
+0 -13 Td
+/F1 9 Tf
+(automatically cover materially different data flows. Risk accountability cannot simply be) Tj
+0 -13 Td
+/F1 9 Tf
+(transferred to the partner, while repeating every test without scoping wastes effort and may) Tj
+0 -13 Td
+/F1 9 Tf
+(still miss change-specific risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP2-139\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Isolation, safe data, and explicit constraints reduce experimentation risk, while a defined) Tj
+0 -13 Td
+/F1 9 Tf
+(transition gate prevents temporary shortcuts from entering production unnoticed. Few users) Tj
+0 -13 Td
+/F1 9 Tf
+(do not eliminate data or service risk. Functional success is not security assurance, and) Tj
+0 -13 Td
+/F1 9 Tf
+(banning prototypes sacrifices legitimate learning when proportionate controls can contain) Tj
+0 -13 Td
+/F1 9 Tf
+(exposure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP2-140\) - Correct: B, E) Tj
+0 -13 Td
+/F1 9 Tf
+(The impact analysis explains how the authorization change affects risk, while relevant test) Tj
+0 -13 Td
+/F1 9 Tf
+(results and controlled deployment and rollback plans show whether the change can be) Tj
+0 -13 Td
+/F1 9 Tf
+(introduced safely. Code volume is not evidence of security. A local compilation demonstrates) Tj
+0 -13 Td
+/F1 9 Tf
+(little about control effectiveness, and unrelated historical defects do not establish this) Tj
+0 -13 Td
+/F1 9 Tf
+(release's readiness.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP2-141\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A governed catalog with provenance, permission review, technical enforcement, and exception) Tj
+0 -13 Td
+/F1 9 Tf
+(monitoring addresses extension supply-chain risk without eliminating useful tools. A) Tj
+0 -13 Td
+/F1 9 Tf
+(signature establishes origin and integrity, not safe behavior. Data loss prevention is only) Tj
+0 -13 Td
+/F1 9 Tf
+(a partial safeguard, and reviewing an extension after suspicious activity is reactive rather) Tj
+0 -13 Td
+/F1 9 Tf
+(than preventive.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP2-142\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Context-aware output encoding prevents stored untrusted text from being interpreted as) Tj
+0 -13 Td
+/F1 9 Tf
+(executable markup or script, and safe templating helps apply that control consistently.) Tj
+0 -13 Td
+/F1 9 Tf
+(Input validation can provide defense in depth but should not replace encoding at the output) Tj
+0 -13 Td
+/F1 9 Tf
+(context. Database encryption, password length, and hidden interface links do not neutralize) Tj
+0 -13 Td
+/F1 9 Tf
+(malicious content rendered to an authorized viewer.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP2-143\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Generic responses prevent disclosure of internal structure, while correlation identifiers) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4673 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(connect user reports to detailed server-side logs available to authorized support staff. A) Tj
+0 -13 Td
+/F1 9 Tf
+(warning does not protect exposed data. Eliminating logs impairs investigation, and) Tj
+0 -13 Td
+/F1 9 Tf
+(employment status alone does not establish a user's operational need for sensitive) Tj
+0 -13 Td
+/F1 9 Tf
+(diagnostic details.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP2-144\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Server-side destination controls, robust parsing and resolution, and explicit blocks for) Tj
+0 -13 Td
+/F1 9 Tf
+(internal and metadata addresses constrain where the trusted server can connect. A block list) Tj
+0 -13 Td
+/F1 9 Tf
+(can miss aliases and newly exposed destinations. Logging without enforcement detects but) Tj
+0 -13 Td
+/F1 9 Tf
+(does not prevent access, and redirects must be revalidated because they can resolve to a) Tj
+0 -13 Td
+/F1 9 Tf
+(forbidden target after the initial check.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP2-145\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Ephemeral isolation limits persistence and lateral movement, removal of production secrets) Tj
+0 -13 Td
+/F1 9 Tf
+(enforces least privilege, and a separate trusted release stage prevents unreviewed code from) Tj
+0 -13 Td
+/F1 9 Tf
+(inheriting deployment authority. Narrowing a release credential does not justify exposing it) Tj
+0 -13 Td
+/F1 9 Tf
+(to untrusted jobs. Scanning is valuable but cannot replace containment, and a separate) Tj
+0 -13 Td
+/F1 9 Tf
+(account on the same privileged worker may still reach shared secrets and internal services.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP2-146\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(IAST instruments the application during execution and can correlate runtime behavior with) Tj
+0 -13 Td
+/F1 9 Tf
+(code and data flow while existing functional tests exercise relevant paths. SAST provides) Tj
+0 -13 Td
+/F1 9 Tf
+(code insight without runtime observation, while DAST observes exposed behavior without the) Tj
+0 -13 Td
+/F1 9 Tf
+(requested internal instrumentation. An end-of-cycle penetration test provides useful) Tj
+0 -13 Td
+/F1 9 Tf
+(assurance but not continuous feedback during the automated functional tests.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP2-147\) - Correct: A, D) Tj
+0 -13 Td
+/F1 9 Tf
+(Support and end-of-life plans reveal whether the product can remain maintainable across the) Tj
+0 -13 Td
+/F1 9 Tf
+(intended service period, while contractual security obligations establish how) Tj
+0 -13 Td
+/F1 9 Tf
+(vulnerabilities, updates, and incidents will be handled. Point-in-time tests,) Tj
+0 -13 Td
+/F1 9 Tf
+(certifications, and code reviews may provide useful evidence about one version, but without) Tj
+0 -13 Td
+/F1 9 Tf
+(ongoing commitments they do not manage security across the required eight-year lifecycle.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP2-148\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A current SBOM tied to deployed versions provides the component and dependency relationships) Tj
+0 -13 Td
+/F1 9 Tf
+(needed to identify affected software, including indirect inclusion. Owner lists help) Tj
+0 -13 Td
+/F1 9 Tf
+(coordination but cannot establish technical exposure without component data. External scans) Tj
+0 -13 Td
+/F1 9 Tf
+(may not reveal packaged dependencies, and general supplier statements do not provide the) Tj
+0 -13 Td
+/F1 9 Tf
+(component-version detail needed for rapid correlation.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP2-149\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Explicit field allow-listing prevents arbitrary client properties from being bound to) Tj
+0 -13 Td
+/F1 9 Tf
+(trusted objects, and authorization checks protect legitimate sensitive update paths.) Tj
+0 -13 Td
+/F1 9 Tf
+(Documentation and obscure names do not enforce security. Token length relates to credential) Tj
+0 -13 Td
+/F1 9 Tf
+(strength, not whether an authenticated client may modify a privileged field.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP2-150\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Fuzz testing systematically exercises unexpected input combinations and is well suited to) Tj
+0 -13 Td
+/F1 9 Tf
+(finding parser crashes, boundary errors, and unsafe behavior outside ordinary functional) Tj
+0 -13 Td
+/F1 9 Tf
+(cases. Manual review can help but may miss complex input interactions. Load and functional) Tj
+0 -13 Td
+/F1 9 Tf
+(tests using valid files assess performance and expected behavior rather than resilience to) Tj
+0 -13 Td
+/F1 9 Tf
+(malformed structures.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 7 >>
+endobj
+18 0 obj
+<< /Type /Catalog /Pages 17 0 R >>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004376 00000 n 
+0000004513 00000 n 
+0000008754 00000 n 
+0000008891 00000 n 
+0000013070 00000 n 
+0000013207 00000 n 
+0000017462 00000 n 
+0000017600 00000 n 
+0000018943 00000 n 
+0000019082 00000 n 
+0000023539 00000 n 
+0000023678 00000 n 
+0000028404 00000 n 
+0000028543 00000 n 
+0000028641 00000 n 
+trailer
+<< /Size 19 /Root 18 0 R >>
+startxref
+28692
+%%EOF

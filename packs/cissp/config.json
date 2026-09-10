@@ -20,7 +20,8 @@
       "examQuestions": 24,
       "type": "mcq",
       "examFiles": [
-        "cissp_exam_01.json"
+        "cissp_exam_01.json",
+        "cissp_exam_02.json"
       ],
       "domain": "Security and Risk Management"
     },
@@ -32,7 +33,8 @@
       "examQuestions": 15,
       "type": "mcq",
       "examFiles": [
-        "cissp_exam_01.json"
+        "cissp_exam_01.json",
+        "cissp_exam_02.json"
       ],
       "domain": "Asset Security"
     },
@@ -44,7 +46,8 @@
       "examQuestions": 20,
       "type": "mcq",
       "examFiles": [
-        "cissp_exam_01.json"
+        "cissp_exam_01.json",
+        "cissp_exam_02.json"
       ],
       "domain": "Security Architecture and Engineering"
     },
@@ -56,7 +59,8 @@
       "examQuestions": 19,
       "type": "mcq",
       "examFiles": [
-        "cissp_exam_01.json"
+        "cissp_exam_01.json",
+        "cissp_exam_02.json"
       ],
       "domain": "Communication and Network Security"
     },
@@ -68,7 +72,8 @@
       "examQuestions": 20,
       "type": "mcq",
       "examFiles": [
-        "cissp_exam_01.json"
+        "cissp_exam_01.json",
+        "cissp_exam_02.json"
       ],
       "domain": "Identity and Access Management (IAM)"
     },
@@ -80,7 +85,8 @@
       "examQuestions": 18,
       "type": "mcq",
       "examFiles": [
-        "cissp_exam_01.json"
+        "cissp_exam_01.json",
+        "cissp_exam_02.json"
       ],
       "domain": "Security Assessment and Testing"
     },
@@ -92,7 +98,8 @@
       "examQuestions": 19,
       "type": "mcq",
       "examFiles": [
-        "cissp_exam_01.json"
+        "cissp_exam_01.json",
+        "cissp_exam_02.json"
       ],
       "domain": "Security Operations"
     },
@@ -104,7 +111,8 @@
       "examQuestions": 15,
       "type": "mcq",
       "examFiles": [
-        "cissp_exam_01.json"
+        "cissp_exam_01.json",
+        "cissp_exam_02.json"
       ],
       "domain": "Software Development Security"
     },
@@ -116,7 +124,8 @@
       "examQuestions": 150,
       "type": "mcq",
       "examFiles": [
-        "cissp_exam_01.json"
+        "cissp_exam_01.json",
+        "cissp_exam_02.json"
       ]
     }
   ],
@@ -152,11 +161,44 @@
     {
       "label": "CISSP Printable Practice Exam 08 — Domain 8 — Software Development Security",
       "file": "cissp_printable_exam_08.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 09 — Domain 1 — Security and Risk Management",
+      "file": "cissp_printable_exam_09.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 10 — Domain 2 — Asset Security",
+      "file": "cissp_printable_exam_10.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 11 — Domain 3 — Security Architecture and Engineering",
+      "file": "cissp_printable_exam_11.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 12 — Domain 4 — Communication and Network Security",
+      "file": "cissp_printable_exam_12.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 13 — Domain 5 — Identity and Access Management (IAM)",
+      "file": "cissp_printable_exam_13.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 14 — Domain 6 — Security Assessment and Testing",
+      "file": "cissp_printable_exam_14.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 15 — Domain 7 — Security Operations",
+      "file": "cissp_printable_exam_15.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 16 — Domain 8 — Software Development Security",
+      "file": "cissp_printable_exam_16.pdf"
     }
   ],
   "homeText": "CISSP certification exam preparation platform with full-length practice exams, domain-focused practice, realistic scenario-based questions, detailed explanations, progress tracking, and printable practice materials.",
   "disclaimer": "This practice platform uses original preparation materials and is not affiliated with or endorsed by ISC2.",
   "examFiles": [
-    "cissp_exam_01.json"
+    "cissp_exam_01.json",
+    "cissp_exam_02.json"
   ]
 }

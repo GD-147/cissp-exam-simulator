@@ -1,0 +1,1196 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4137 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 12 - Domain 4 - Communication and Network Security) Tj
+0 -13 Td
+/F2 11 Tf
+(Practice Exam 02 - Domain 4) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP2-060\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A security reviewer finds that an internally developed file-transfer service) Tj
+0 -13 Td
+/F1 9 Tf
+(listens on TCP port 443. The network team considers the traffic safe because that port is) Tj
+0 -13 Td
+/F1 9 Tf
+(commonly associated with HTTPS, but the service does not implement HTTP or TLS.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the MOST accurate conclusion?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. The port number alone does not establish the application protocol or provide) Tj
+0 -13 Td
+/F1 9 Tf
+(   encryption.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Any service using TCP port 443 automatically receives transport encryption.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. The service is secure if a stateful firewall permits the connection.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Changing the service to a high-numbered port would provide confidentiality.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP2-061\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: Employees on an IPv6-enabled office LAN intermittently receive an unauthorized) Tj
+0 -13 Td
+/F1 9 Tf
+(default gateway after a compromised workstation begins advertising itself as a router.) Tj
+0 -13 Td
+/F1 9 Tf
+(Existing perimeter filtering does not stop the local messages.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which control would BEST mitigate this attack at the relevant location?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Apply IPv6 router advertisement filtering or guard functions on access switches.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Block outbound HTTPS at the Internet firewall.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Increase the lease duration on the IPv4 address server.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Configure public address translation for all internal IPv6 hosts.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP2-062\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A design studio plans to carry ordinary user data and latency-sensitive storage) Tj
+0 -13 Td
+/F1 9 Tf
+(traffic over shared high-speed network links. A disruption affecting user traffic must not) Tj
+0 -13 Td
+/F1 9 Tf
+(be allowed to compromise storage availability or expose storage flows.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which design is the BEST response?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Use logical separation, tightly restricted flow policy, capacity planning, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   traffic-class monitoring.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Place both traffic types in one unrestricted broadcast domain to simplify) Tj
+0 -13 Td
+/F1 9 Tf
+(   troubleshooting.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Rely only on higher link speed because congestion and access control are equivalent) Tj
+0 -13 Td
+/F1 9 Tf
+(   risks.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Permit every endpoint to initiate storage sessions so failover remains flexible.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP2-063\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An enterprise receives fragmented IP traffic whose initial fragment contains) Tj
+0 -13 Td
+/F1 9 Tf
+(transport information while later fragments do not. Different security devices make) Tj
+0 -13 Td
+/F1 9 Tf
+(inconsistent permit decisions, creating an opportunity to evade policy.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the MOST effective architectural response?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Normalize or reassemble fragments at a controlled boundary before applying a) Tj
+0 -13 Td
+/F1 9 Tf
+(   consistent inspection policy.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Approve later fragments because they do not contain a visible destination port.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Inspect only Ethernet source addresses for all fragmented Internet traffic.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Increase application session timeouts so every fragment remains active longer.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 3919 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP2-064\)) Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO statements about layered communication are accurate? Select 2 of the 5 options) Tj
+0 -13 Td
+/F1 10 Tf
+(below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A router forwarding an ordinary IP packet can make a path decision without) Tj
+0 -13 Td
+/F1 9 Tf
+(   interpreting its application payload.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A TCP destination port identifies the physical switch port where a cable is) Tj
+0 -13 Td
+/F1 9 Tf
+(   attached.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Link-layer headers can change at each routed hop while the end-to-end IP packet is) Tj
+0 -13 Td
+/F1 9 Tf
+(   forwarded.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Encapsulation guarantees that every intermediate device can read all inner-layer) Tj
+0 -13 Td
+/F1 9 Tf
+(   data.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. A UDP header supplies the reliability and ordered delivery guarantees of TCP.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP2-065\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A warehouse separates handheld scanners from administrative workstations with) Tj
+0 -13 Td
+/F1 9 Tf
+(VLANs. An audit finds that user-facing switch ports negotiate trunking dynamically and) Tj
+0 -13 Td
+/F1 9 Tf
+(accept traffic tagged for multiple VLANs.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which remediation should be implemented FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Configure user-facing ports statically as access ports and restrict trunking to) Tj
+0 -13 Td
+/F1 9 Tf
+(   explicitly approved links.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Expand the administrative VLAN so it includes every warehouse endpoint.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Enable dynamic trunk negotiation on all switch ports for consistency.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Move inter-VLAN filtering from the gateway to each handheld application.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP2-066\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A corporate campus detects a wireless network using a name similar to the employee) Tj
+0 -13 Td
+/F1 9 Tf
+(network. The signal appears to originate inside the building, but the device is absent from) Tj
+0 -13 Td
+/F1 9 Tf
+(the approved inventory.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST next action for the security team?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Use authorized wireless monitoring and switch records to locate, validate, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   isolate the device.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Increase the power of approved access points until the other signal is obscured.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Rename the employee network and treat the unknown device as resolved.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Connect to the unknown network with production credentials to identify its owner.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP2-067\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A transportation operator relies on a software-defined network for operational) Tj
+0 -13 Td
+/F1 9 Tf
+(communications. Several forwarding devices may temporarily lose contact with the controller,) Tj
+0 -13 Td
+/F1 9 Tf
+(but critical approved flows must remain available without opening broad new paths.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which design decision BEST addresses this condition?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Define tested local failover rules that preserve only essential authorized flows) Tj
+0 -13 Td
+/F1 9 Tf
+(   until controller service returns.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Configure the devices to permit all traffic whenever controller communication) Tj
+0 -13 Td
+/F1 9 Tf
+(   fails.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Erase every forwarding rule immediately, including those needed for safety) Tj
+0 -13 Td
+/F1 9 Tf
+(   operations.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow endpoints to modify forwarding policy during the outage.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP2-068\)) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4092 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(Scenario: A global nonprofit has separate cloud networks for finance, analytics, and) Tj
+0 -13 Td
+/F1 9 Tf
+(development. Ad hoc peering has produced unintended transitive routes, and the organization) Tj
+0 -13 Td
+/F1 9 Tf
+(needs one auditable point for approving inter-network communication.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which architecture BEST meets the objective?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A controlled hub-and-spoke design with explicit route and inspection policy between) Tj
+0 -13 Td
+/F1 9 Tf
+(   segments) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Full-mesh peering with every route automatically propagated) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. One flat cloud subnet shared by all business functions) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Independent Internet gateways used as the normal path between internal networks) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP2-069\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A field organization uses enterprise wireless authentication at temporary offices.) Tj
+0 -13 Td
+/F1 9 Tf
+(Users have previously accepted prompts from unrecognized authentication servers, and) Tj
+0 -13 Td
+/F1 9 Tf
+(attackers can imitate the approved network name.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO controls BEST reduce the risk? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Configure managed clients to validate the authentication server's certificate and) Tj
+0 -13 Td
+/F1 9 Tf
+(   expected identity.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Treat a matching network name as sufficient proof that an access point is) Tj
+0 -13 Td
+/F1 9 Tf
+(   authorized.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use wireless monitoring to identify access points that do not match the approved) Tj
+0 -13 Td
+/F1 9 Tf
+(   inventory.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Instruct users to approve any certificate prompt when signal strength is high.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Publish the employee authentication secret for use at every temporary office.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP2-070\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A ticketing service remains reachable, but its perimeter firewall exhausts its) Tj
+0 -13 Td
+/F1 9 Tf
+(state table during a surge of incomplete connection attempts. Adding application servers) Tj
+0 -13 Td
+/F1 9 Tf
+(does not improve the condition.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which response would MOST directly address the bottleneck?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Apply connection-rate protections and capacity controls at or before the stateful) Tj
+0 -13 Td
+/F1 9 Tf
+(   boundary.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Add storage capacity to the application database.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Extend the timeout for every incomplete connection.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Enable unrestricted inbound access on an alternate firewall interface.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP2-071\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A mining company learns that a device connected to a remote network segment can) Tj
+0 -13 Td
+/F1 9 Tf
+(advertise unauthorized routes to an infrastructure router. Only designated neighboring) Tj
+0 -13 Td
+/F1 9 Tf
+(routers should participate in route exchange.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the network security architect recommend?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Authenticate routing peers, restrict permitted neighbors, and filter accepted route) Tj
+0 -13 Td
+/F1 9 Tf
+(   advertisements.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Accept routes from any adjacent device and rely on shortest-path selection.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Disable logging of routing changes to reduce control-plane load.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow user workstations to override routes during connectivity problems.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP2-072\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A laboratory must run a high-bandwidth network link between two controlled) Tj
+0 -13 Td
+/F1 9 Tf
+(buildings through a shared utility corridor. The security objective is to reduce) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4105 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(electromagnetic interception risk and detect physical tampering.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which design is MOST appropriate?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Use fiber in protected conduit with controlled termination points and tamper) Tj
+0 -13 Td
+/F1 9 Tf
+(   monitoring.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Use unshielded copper laid openly because higher bandwidth prevents interception.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use an unencrypted public wireless bridge with a hidden network name.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Place repeaters throughout the corridor with publicly accessible management ports.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP2-073\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A benefits administrator wants external clients to reach a web application without) Tj
+0 -13 Td
+/F1 9 Tf
+(exposing origin server addresses. It also needs centralized request filtering and connection) Tj
+0 -13 Td
+/F1 9 Tf
+(termination before traffic reaches the application tier.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which network component BEST fulfills this role?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A reverse proxy positioned in front of the origin servers) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A forward proxy configured on employee browsers) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. An unmanaged Layer 2 hub beside each server) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A routing protocol neighbor on the internal core) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP2-074\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An endpoint protection platform identifies a compromised laptop that is actively) Tj
+0 -13 Td
+/F1 9 Tf
+(scanning internal systems. The response team must stop lateral communication while) Tj
+0 -13 Td
+/F1 9 Tf
+(preserving limited connectivity needed to collect evidence remotely.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO actions BEST satisfy the requirement? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Dynamically place the laptop in a restricted containment network.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Allow the laptop unrestricted access until the investigation is complete.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Permit only explicitly required response and evidence-collection connections.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Disable monitoring alerts so the analyst can work without interruption.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Move sensitive servers into the laptop's current segment.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP2-075\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A defense supplier allows remote employees to connect to sensitive internal) Tj
+0 -13 Td
+/F1 9 Tf
+(applications while their devices also maintain direct Internet access. Security policy) Tj
+0 -13 Td
+/F1 9 Tf
+(requires corporate inspection of remote traffic and prohibits a device from bridging trusted) Tj
+0 -13 Td
+/F1 9 Tf
+(and untrusted paths.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which configuration BEST aligns with the policy?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Disable split tunneling and route remote-device traffic through the controlled) Tj
+0 -13 Td
+/F1 9 Tf
+(   corporate security path.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Enable split tunneling for every destination to reduce corporate bandwidth use.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Allow users to choose the routing mode separately for each session.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Replace the encrypted remote channel with direct access to internal applications.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP2-076\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: Employees connecting to an internal payroll portal receive a certificate-name) Tj
+0 -13 Td
+/F1 9 Tf
+(mismatch warning after a network change. The site is reachable, but the security team has) Tj
+0 -13 Td
+/F1 9 Tf
+(not yet confirmed whether the endpoint is legitimate.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should users be instructed to do?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Stop the connection and report the warning so the endpoint and certificate can be) Tj
+0 -13 Td
+/F1 9 Tf
+(   validated.) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 2380 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   B. Bypass the warning because encryption remains trustworthy without server) Tj
+0 -13 Td
+/F1 9 Tf
+(   authentication.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Enter credentials first and verify the server identity afterward.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Disable certificate validation for all internal web services.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP2-077\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An insurance company transfers regulated records from its private cloud network to) Tj
+0 -13 Td
+/F1 9 Tf
+(a managed cloud service. The security architect wants traffic to avoid public addressing,) Tj
+0 -13 Td
+/F1 9 Tf
+(follow a defined private route, and be restricted to the approved service endpoint.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which approach BEST meets the objective?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Use provider-supported private service connectivity with endpoint-specific routing) Tj
+0 -13 Td
+/F1 9 Tf
+(   and access policy.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Assign public addresses to every workload and rely on obscurity of the service URL.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Send records through an open Internet relay to simplify routing.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Permit all cloud destinations so service endpoint changes cannot interrupt) Tj
+0 -13 Td
+/F1 9 Tf
+(   transfers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP2-078\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A pharmaceutical distributor will exchange automated inventory messages with a) Tj
+0 -13 Td
+/F1 9 Tf
+(business partner. The channel must authenticate both endpoints, limit the partner to one) Tj
+0 -13 Td
+/F1 9 Tf
+(service, and support prompt termination without redesigning the internal network.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST design?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Terminate mutually authenticated connectivity in a controlled partner zone and) Tj
+0 -13 Td
+/F1 9 Tf
+(   permit only the required service flow.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Extend the internal user network to the partner and rely on application naming) Tj
+0 -13 Td
+/F1 9 Tf
+(   conventions.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use one permanent shared credential for all current and future partners.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow the partner to select internal routes dynamically after connecting.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4267 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP2-060\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A port number is a convention used to identify an expected service, not proof of the) Tj
+0 -13 Td
+/F1 9 Tf
+(protocol or its security properties. Encryption must be implemented and validated by the) Tj
+0 -13 Td
+/F1 9 Tf
+(communicating systems. Firewall permission, port selection, and use of an ephemeral-looking) Tj
+0 -13 Td
+/F1 9 Tf
+(number do not create confidentiality.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP2-061\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(The malicious router advertisement occurs on the local IPv6 segment, so an access-layer) Tj
+0 -13 Td
+/F1 9 Tf
+(guard that permits such messages only from trusted ports directly addresses it. Perimeter) Tj
+0 -13 Td
+/F1 9 Tf
+(HTTPS rules and IPv4 lease settings operate elsewhere, while address translation does not) Tj
+0 -13 Td
+/F1 9 Tf
+(validate local IPv6 control messages.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP2-062\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Converged infrastructure requires both security separation and engineering for predictable) Tj
+0 -13 Td
+/F1 9 Tf
+(service. Logical segmentation, least-privilege flows, capacity controls, and monitoring) Tj
+0 -13 Td
+/F1 9 Tf
+(address confidentiality and availability together. A flat network, bandwidth alone, or) Tj
+0 -13 Td
+/F1 9 Tf
+(unrestricted initiation leaves important threats untreated.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP2-063\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Controlled normalization or reassembly gives the enforcement point sufficient context to) Tj
+0 -13 Td
+/F1 9 Tf
+(apply one coherent policy and detect evasive fragmentation. Automatically permitting) Tj
+0 -13 Td
+/F1 9 Tf
+(incomplete fragments creates a gap, link-layer addresses do not supply the missing Internet) Tj
+0 -13 Td
+/F1 9 Tf
+(transport context, and longer timeouts do not resolve inconsistent inspection.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP2-064\) - Correct: A, C) Tj
+0 -13 Td
+/F1 9 Tf
+(Routers can forward using network-layer information, and link-layer framing is rebuilt as a) Tj
+0 -13 Td
+/F1 9 Tf
+(packet crosses routed links. TCP ports identify transport endpoints rather than physical) Tj
+0 -13 Td
+/F1 9 Tf
+(jacks, encapsulation may hide inner content, and UDP does not provide TCP's ordered,) Tj
+0 -13 Td
+/F1 9 Tf
+(reliable delivery behavior.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP2-065\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Static access-port configuration and explicitly controlled trunks prevent endpoints from) Tj
+0 -13 Td
+/F1 9 Tf
+(negotiating unintended VLAN access. Expanding the sensitive VLAN or enabling negotiation) Tj
+0 -13 Td
+/F1 9 Tf
+(broadly weakens segmentation, while application controls do not replace enforcement of the) Tj
+0 -13 Td
+/F1 9 Tf
+(network boundary.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP2-066\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Correlating radio observations with wired-network records supports safe identification and) Tj
+0 -13 Td
+/F1 9 Tf
+(containment of a rogue device. Raising transmit power or renaming the network does not) Tj
+0 -13 Td
+/F1 9 Tf
+(remove the threat, and testing it with production credentials could disclose those) Tj
+0 -13 Td
+/F1 9 Tf
+(credentials to an attacker.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP2-067\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Predefined, tested failover behavior can maintain critical service while limiting the) Tj
+0 -13 Td
+/F1 9 Tf
+(authorization scope during a control-plane outage. Permitting everything fails open,) Tj
+0 -13 Td
+/F1 9 Tf
+(deleting every rule sacrifices required availability, and endpoint-controlled policy creates) Tj
+0 -13 Td
+/F1 9 Tf
+(an untrusted management path.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP2-068\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A governed hub-and-spoke model centralizes inter-segment routing and inspection while making) Tj
+0 -13 Td
+/F1 9 Tf
+(approved paths auditable. Full-mesh propagation and a flat subnet increase unintended) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4289 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(reachability, while using public gateways for routine internal communication adds exposure) Tj
+0 -13 Td
+/F1 9 Tf
+(and does not provide the requested central control.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP2-069\) - Correct: A, C) Tj
+0 -13 Td
+/F1 9 Tf
+(Server-certificate validation prevents clients from trusting an imitation authentication) Tj
+0 -13 Td
+/F1 9 Tf
+(service, and wireless monitoring helps detect unauthorized infrastructure. A network name) Tj
+0 -13 Td
+/F1 9 Tf
+(and signal strength do not establish identity, while publishing or casually approving) Tj
+0 -13 Td
+/F1 9 Tf
+(authentication material defeats the trust model.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP2-070\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(The constrained resource is the firewall's connection state, so rate protections, upstream) Tj
+0 -13 Td
+/F1 9 Tf
+(filtering, and appropriate state capacity target the actual failure point. Database storage) Tj
+0 -13 Td
+/F1 9 Tf
+(is unrelated, longer incomplete-session timeouts worsen consumption, and an unrestricted) Tj
+0 -13 Td
+/F1 9 Tf
+(alternate path bypasses protection.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP2-071\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Peer authentication, neighbor restrictions, and route filters provide layered control over) Tj
+0 -13 Td
+/F1 9 Tf
+(who may participate and what routes may be learned. Path selection alone does not establish) Tj
+0 -13 Td
+/F1 9 Tf
+(trust, suppressing logs reduces detection, and endpoint overrides would expand control-plane) Tj
+0 -13 Td
+/F1 9 Tf
+(authority to untrusted systems.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP2-072\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Fiber does not radiate signals like copper, and protected conduit, controlled endpoints, and) Tj
+0 -13 Td
+/F1 9 Tf
+(monitoring address physical interference. Open copper and unsecured wireless increase) Tj
+0 -13 Td
+/F1 9 Tf
+(interception exposure, while accessible repeaters add vulnerable components rather than) Tj
+0 -13 Td
+/F1 9 Tf
+(protecting the link.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP2-073\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A reverse proxy accepts inbound client connections on behalf of origin servers and can) Tj
+0 -13 Td
+/F1 9 Tf
+(centralize filtering and termination while hiding origin addresses. A forward proxy) Tj
+0 -13 Td
+/F1 9 Tf
+(represents outbound clients, and neither a hub nor a routing neighbor performs the required) Tj
+0 -13 Td
+/F1 9 Tf
+(application-intermediary function.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP2-074\) - Correct: A, C) Tj
+0 -13 Td
+/F1 9 Tf
+(Network containment limits lateral movement, while narrowly authorized response connections) Tj
+0 -13 Td
+/F1 9 Tf
+(preserve the evidence-collection path. Unrestricted access leaves the attack active,) Tj
+0 -13 Td
+/F1 9 Tf
+(disabling alerts reduces visibility, and relocating sensitive systems toward the compromised) Tj
+0 -13 Td
+/F1 9 Tf
+(host increases exposure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP2-075\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Routing remote traffic through the controlled enterprise path supports required inspection) Tj
+0 -13 Td
+/F1 9 Tf
+(and avoids simultaneous trusted and untrusted connectivity. Split tunneling conflicts with) Tj
+0 -13 Td
+/F1 9 Tf
+(the stated policy, user-selected routing weakens consistent enforcement, and direct access) Tj
+0 -13 Td
+/F1 9 Tf
+(removes the protected channel.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP2-076\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A name mismatch means the client has not established that the certificate represents the) Tj
+0 -13 Td
+/F1 9 Tf
+(intended server, so the safe response is to stop and validate the endpoint. Encryption) Tj
+0 -13 Td
+/F1 9 Tf
+(without authenticated identity can terminate at an impostor, and entering credentials or) Tj
+0 -13 Td
+/F1 9 Tf
+(broadly disabling validation increases that risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP2-077\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Private service connectivity keeps the network path off public addressing and can combine) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 742 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(explicit routing with endpoint policy. Public workloads, open relays, and unrestricted) Tj
+0 -13 Td
+/F1 9 Tf
+(destinations expand exposure and fail to enforce the approved communication path.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP2-078\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A controlled partner zone, mutual endpoint authentication, and a narrowly permitted service) Tj
+0 -13 Td
+/F1 9 Tf
+(path provide strong identity, least privilege, and a clear revocation point. Extending an) Tj
+0 -13 Td
+/F1 9 Tf
+(internal network, sharing credentials broadly, or delegating route control creates excessive) Tj
+0 -13 Td
+/F1 9 Tf
+(and poorly attributable access.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] /Count 8 >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 19 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004403 00000 n 
+0000004540 00000 n 
+0000008511 00000 n 
+0000008648 00000 n 
+0000012792 00000 n 
+0000012929 00000 n 
+0000017086 00000 n 
+0000017224 00000 n 
+0000019657 00000 n 
+0000019796 00000 n 
+0000024116 00000 n 
+0000024255 00000 n 
+0000028597 00000 n 
+0000028736 00000 n 
+0000029530 00000 n 
+0000029669 00000 n 
+0000029774 00000 n 
+trailer
+<< /Size 21 /Root 20 0 R >>
+startxref
+29825
+%%EOF

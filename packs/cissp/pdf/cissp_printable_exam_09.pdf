@@ -1,0 +1,1487 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 3899 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 09 - Domain 1 - Security and Risk Management) Tj
+0 -13 Td
+/F2 11 Tf
+(Practice Exam 02 - Domain 1) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP2-001\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An independent security consultant finds that a client's control environment does) Tj
+0 -13 Td
+/F1 9 Tf
+(not meet the criteria stated in an assessment agreement. The client offers additional work) Tj
+0 -13 Td
+/F1 9 Tf
+(if the consultant removes the adverse findings and issues a favorable conclusion.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the consultant's BEST response?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Issue the favorable conclusion but retain the adverse findings in private notes) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Refuse to misrepresent the results, report them accurately, and follow the) Tj
+0 -13 Td
+/F1 9 Tf
+(   engagement's escalation terms) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. End the assessment immediately and disclose all client records publicly) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Let the client rewrite the conclusion because the client owns the final report) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP2-002\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A municipal payment system remains continuously accessible, and no account data is) Tj
+0 -13 Td
+/F1 9 Tf
+(exposed. However, an unauthorized user changes payment amounts before they are submitted for) Tj
+0 -13 Td
+/F1 9 Tf
+(settlement.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which security objective is MOST directly compromised?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Availability) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Confidentiality) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Non-repudiation) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Integrity) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP2-003\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A diversified company has a security steering committee, but meetings produce) Tj
+0 -13 Td
+/F1 9 Tf
+(recommendations that business units routinely ignore. The committee has no approved charter,) Tj
+0 -13 Td
+/F1 9 Tf
+(decision rights, or escalation path.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which improvement should executive leadership make FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Approve a charter defining membership, authority, accountability, reporting, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   escalation) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Ask the security operations team to enforce every recommendation independently) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Replace business representatives with only technical specialists) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Measure the committee solely by the number of meetings it conducts) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP2-004\)) Tj
+0 -13 Td
+/F1 10 Tf
+(An enterprise adopts a recognized security control framework as the common basis for its) Tj
+0 -13 Td
+/F1 10 Tf
+(program. Which 2 outcomes should this MOST directly support? Select 2 of the 5 options) Tj
+0 -13 Td
+/F1 10 Tf
+(below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A structured method for selecting and organizing controls according to risk) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Automatic elimination of all residual risk after implementation) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A common vocabulary for communicating and assessing control expectations) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Replacement of business ownership for security risk) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Exemption from legal and contractual obligations) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP2-005\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A corporation will sell one of its divisions. For six months after closing, the) Tj
+0 -13 Td
+/F1 9 Tf
+(seller will continue operating several shared services while data and personnel are) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 23 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 3761 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(separated between the two organizations.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security leaders establish as the HIGHEST governance priority before) Tj
+0 -13 Td
+/F1 10 Tf
+(closing?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A plan to give the buyer unrestricted access to all shared systems during) Tj
+0 -13 Td
+/F1 9 Tf
+(   transition) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A requirement to erase every record associated with the division before legal) Tj
+0 -13 Td
+/F1 9 Tf
+(   review) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A separation plan defining data ownership, access boundaries, retained obligations,) Tj
+0 -13 Td
+/F1 9 Tf
+(   monitoring, and exit milestones) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. An agreement that the seller will accept every risk created after the sale) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP2-006\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A nonprofit completed a documented risk assessment and identified excessive) Tj
+0 -13 Td
+/F1 9 Tf
+(exposure involving donor records. Management then funded proportionate safeguards, assigned) Tj
+0 -13 Td
+/F1 9 Tf
+(control owners, and verifies that the safeguards continue to operate.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which concept is MOST clearly demonstrated by management's actions after the assessment?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Risk avoidance through discontinuing the activity) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Due care through reasonable protection and continued control operation) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Risk transfer through assigning internal control owners) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Non-repudiation through documenting the original assessment) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP2-007\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A business sues a former service provider for monetary damages, alleging that) Tj
+0 -13 Td
+/F1 9 Tf
+(negligent handling of confidential data breached the parties' agreement. No government) Tj
+0 -13 Td
+/F1 9 Tf
+(prosecutor is seeking punishment.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(How is this matter BEST classified?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A criminal prosecution requiring proof beyond a reasonable doubt) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. An administrative licensing action decided only by a regulator) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. An industry audit with no possible legal consequences) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A civil action generally decided under a preponderance-of-the-evidence standard) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP2-008\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A laboratory has an approved policy requiring prompt revocation of access when) Tj
+0 -13 Td
+/F1 9 Tf
+(personnel leave. Administrators need an authorized, repeatable sequence showing exactly how) Tj
+0 -13 Td
+/F1 9 Tf
+(to receive notice, disable accounts, recover credentials, document completion, and escalate) Tj
+0 -13 Td
+/F1 9 Tf
+(exceptions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which document should contain this sequence?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Procedure) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Guideline) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Policy) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Risk appetite statement) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP2-009\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: Corporate counsel informs a communications company that litigation is reasonably) Tj
+0 -13 Td
+/F1 9 Tf
+(anticipated. Potentially relevant messages are scheduled for routine deletion under the) Tj
+0 -13 Td
+/F1 9 Tf
+(normal retention schedule.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the investigation and records teams do NEXT?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Continue routine deletion until a court issues a final judgment) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 23 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4026 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   B. Preserve only records that clearly favor the organization) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Issue and document a legal hold covering relevant custodians and data sources) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Immediately provide all organizational records to the opposing party) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP2-010\)) Tj
+0 -13 Td
+/F1 10 Tf
+(A company wants to protect original training videos and a novel, useful technical invention) Tj
+0 -13 Td
+/F1 10 Tf
+(for which it is prepared to disclose the design in an application. Which 2 forms of) Tj
+0 -13 Td
+/F1 10 Tf
+(intellectual property protection are MOST directly applicable? Select 2 of the 5 options) Tj
+0 -13 Td
+/F1 10 Tf
+(below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Trademark for the functional invention) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Copyright for the original training videos) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Trade secret protection after publicly disclosing every implementation detail) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Patent protection for the qualifying technical invention) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. A nondisclosure agreement as automatic ownership registration for both assets) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP2-011\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An aerospace supplier plans to let engineers in another country remotely access) Tj
+0 -13 Td
+/F1 9 Tf
+(controlled technical documentation and security-related source material. The project manager) Tj
+0 -13 Td
+/F1 9 Tf
+(considers remote access different from an export because no physical media will cross a) Tj
+0 -13 Td
+/F1 9 Tf
+(border.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security and legal teams determine BEFORE granting access?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Whether remote access makes the information public and therefore unrestricted) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Whether export-control classification, destination, recipient, licensing, or) Tj
+0 -13 Td
+/F1 9 Tf
+(   authorization requirements apply) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Whether the foreign engineers agree to use the same operating system) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Whether a confidentiality label alone eliminates government restrictions) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP2-012\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regulator requests records related to a suspected compliance failure. Several) Tj
+0 -13 Td
+/F1 9 Tf
+(employees have access to the source repository, and the organization must be able to show) Tj
+0 -13 Td
+/F1 9 Tf
+(that collected records were not altered after acquisition.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which practice provides the STRONGEST support for evidence integrity?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Allow investigators to edit originals so annotations remain with each record) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Rely on employee recollection to establish which files were collected) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Print selected records and discard the original electronic versions) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Use documented collection, cryptographic hashes, controlled storage, and a complete) Tj
+0 -13 Td
+/F1 9 Tf
+(   chain of custody) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP2-013\)) Tj
+0 -13 Td
+/F1 10 Tf
+(In an illustrative analysis, an information asset is valued at $600,000 and a single event) Tj
+0 -13 Td
+/F1 10 Tf
+(is expected to cause a 30 percent loss. What is the single loss expectancy?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. $18,000) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. $60,000) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. $180,000) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. $2,000,000) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP2-014\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A publishing company purchases cyber insurance covering defined response expenses.) Tj
+0 -13 Td
+/F1 9 Tf
+(An executive then proposes removing the insured scenarios from the risk register because the) Tj
+0 -13 Td
+/F1 9 Tf
+(insurer will pay covered claims.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 23 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4014 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+(How should the risk manager respond?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Keep the risks under management because insurance transfers specified financial) Tj
+0 -13 Td
+/F1 9 Tf
+(   impact but leaves exclusions, residual exposure, and accountability) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Remove the risks because an insurance policy eliminates their likelihood) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Transfer ownership of the affected business processes to the insurer) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Stop maintaining preventive controls for every insured event) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP2-015\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A cultural institution must prioritize emerging risks, but it lacks credible) Tj
+0 -13 Td
+/F1 9 Tf
+(frequency and loss data for several scenarios. Subject-matter experts can compare likelihood) Tj
+0 -13 Td
+/F1 9 Tf
+(and impact using defined criteria.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which approach is MOST appropriate?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Invent precise monetary values so every risk appears quantitative) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Use documented qualitative scales and calibration criteria to rank likelihood and) Tj
+0 -13 Td
+/F1 9 Tf
+(   impact) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Treat every scenario as equally severe until a loss occurs) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Exclude risks that cannot be assigned an exact annualized loss expectancy) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP2-016\)) Tj
+0 -13 Td
+/F1 10 Tf
+(A threat-modeling team identifies one scenario in which a user can deny submitting a request) Tj
+0 -13 Td
+/F1 10 Tf
+(because actions are not reliably recorded, and another in which excessive requests make a) Tj
+0 -13 Td
+/F1 10 Tf
+(service unavailable. Which 2 STRIDE categories apply? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Spoofing) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Tampering) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Repudiation) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Information disclosure) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Denial of service) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP2-017\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A payroll provider meets the customer's initial security requirements but plans to) Tj
+0 -13 Td
+/F1 9 Tf
+(move critical processing to a new subcontractor. The existing agreement does not require) Tj
+0 -13 Td
+/F1 9 Tf
+(disclosure or approval of material subcontractor changes.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST governance response?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Treat the subcontractor as irrelevant because the direct provider passed its) Tj
+0 -13 Td
+/F1 9 Tf
+(   original review) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Allow the change if the direct provider promises verbally to remain responsible) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Prohibit every subcontractor regardless of business need or assessed risk) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Assess the new dependency and establish contractual notice, flow-down controls,) Tj
+0 -13 Td
+/F1 9 Tf
+(   monitoring, and accountability) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP2-018\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A design company depends on an external platform for a time-critical workflow. The) Tj
+0 -13 Td
+/F1 9 Tf
+(draft service-level agreement says only that the provider will use reasonable security and) Tj
+0 -13 Td
+/F1 9 Tf
+(make best efforts to restore service.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which revision would MOST improve the company's ability to manage the risk?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Replace all security language with a general statement of trust) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Let the provider define performance after an outage occurs) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Add measurable availability, recovery, incident-notification, reporting,) Tj
+0 -13 Td
+/F1 9 Tf
+(   escalation, and remedy provisions) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. State that outsourcing makes the provider the sole owner of business risk) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 23 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 4101 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP2-019\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A food distributor lists order fulfillment as its most time-sensitive process.) Tj
+0 -13 Td
+/F1 9 Tf
+(During a business impact analysis workshop, the process owner identifies warehouse staffing,) Tj
+0 -13 Td
+/F1 9 Tf
+(identity services, carrier interfaces, and supplier data as prerequisites.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(How should the continuity planner use this information?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Incorporate the dependencies into recovery priorities, sequencing, and strategy) Tj
+0 -13 Td
+/F1 9 Tf
+(   requirements) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Set recovery priorities using only the replacement cost of the ordering application) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Exclude third-party dependencies because the organization cannot operate them) Tj
+0 -13 Td
+/F1 9 Tf
+(   directly) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Assign every dependency the same recovery objective without impact analysis) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 20 \(CISSP2-020\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A hospitality group is revising pre-employment screening across several) Tj
+0 -13 Td
+/F1 9 Tf
+(jurisdictions. Some roles handle cash or sensitive records, while others have limited) Tj
+0 -13 Td
+/F1 9 Tf
+(access. Local rules differ regarding notice, consent, and permissible checks.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which approach is MOST appropriate?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Perform the most intrusive available investigation for every applicant) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Skip screening because jurisdictional differences make consistent governance) Tj
+0 -13 Td
+/F1 9 Tf
+(   impossible) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Let each hiring manager request any personal information considered interesting) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Define role-based screening that is relevant, consistently applied, documented, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   compliant with applicable law) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 21 \(CISSP2-021\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A new financial systems administrator starts next week. The manager requests broad) Tj
+0 -13 Td
+/F1 9 Tf
+(access on the first day so the employee can explore the environment while responsibilities) Tj
+0 -13 Td
+/F1 9 Tf
+(are finalized.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security team require?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Broad temporary access because short-lived privileges do not create material risk) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Approved role-based access, required agreements and policy acknowledgment, and job-) Tj
+0 -13 Td
+/F1 9 Tf
+(   specific security training) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use of a predecessor's account until the new role is fully documented) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Access approval by the new employee without business-owner involvement) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 22 \(CISSP2-022\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regional transit authority has updated its continuity plan but has not exercised) Tj
+0 -13 Td
+/F1 9 Tf
+(it. Leaders want to validate decision-making without disrupting live service and also verify) Tj
+0 -13 Td
+/F1 9 Tf
+(that departmental recovery procedures can be performed in sequence.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which 2 exercise activities BEST meet these goals? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A facilitated tabletop exercise for leaders using an evolving disruption scenario) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A structured walkthrough in which teams review responsibilities and procedural) Tj
+0 -13 Td
+/F1 9 Tf
+(   steps) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. An unannounced shutdown of all production services as the first exercise) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A document-signing session with no scenario discussion or procedural review) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. A permanent waiver of future testing after management approves the plan) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 23 \(CISSP2-023\)) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 23 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 1735 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+(Which statement BEST describes the relationship between business continuity and disaster) Tj
+0 -13 Td
+/F1 10 Tf
+(recovery?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Disaster recovery governs every business workaround, while business continuity) Tj
+0 -13 Td
+/F1 9 Tf
+(   covers only data restoration) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The terms are interchangeable because both address only technology outages) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Business continuity sustains critical operations, while disaster recovery focuses) Tj
+0 -13 Td
+/F1 9 Tf
+(   more specifically on restoring technology and related capabilities) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Business continuity begins only after all disaster recovery work is complete) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 24 \(CISSP2-024\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A construction company sees a rise in fraudulent payment-change requests directed) Tj
+0 -13 Td
+/F1 9 Tf
+(at project coordinators. Its existing awareness program focuses mainly on physical office) Tj
+0 -13 Td
+/F1 9 Tf
+(security and is reviewed only every three years.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST program response?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Update the program using current risk information, deliver targeted practice to) Tj
+0 -13 Td
+/F1 9 Tf
+(   exposed roles, and measure reporting and verification behavior) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Wait for the scheduled three-year review so awareness remains consistent) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Send the same physical-security material more frequently to all personnel) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Transfer responsibility for payment verification entirely to the awareness team) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 23 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4510 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP2-001\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Honest, competent, and responsible professional service requires the consultant to report) Tj
+0 -13 Td
+/F1 9 Tf
+(supported conclusions and resist pressure to misrepresent evidence. Contractual escalation) Tj
+0 -13 Td
+/F1 9 Tf
+(provisions provide an appropriate path for resolving the dispute. Private notes do not cure) Tj
+0 -13 Td
+/F1 9 Tf
+(a false report, public disclosure could violate confidentiality, and client ownership does) Tj
+0 -13 Td
+/F1 9 Tf
+(not justify an inaccurate professional conclusion.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP2-002\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Integrity concerns the accuracy, completeness, and authorized modification of information.) Tj
+0 -13 Td
+/F1 9 Tf
+(Altering payment amounts directly violates that objective. The system remains available, no) Tj
+0 -13 Td
+/F1 9 Tf
+(disclosure indicates a confidentiality loss, and non-repudiation concerns evidence that a) Tj
+0 -13 Td
+/F1 9 Tf
+(party performed an action rather than the correctness of the payment data itself.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP2-003\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A formally approved charter establishes the committee's mandate, decision rights,) Tj
+0 -13 Td
+/F1 9 Tf
+(accountability, representation, and escalation route. Operational enforcement without) Tj
+0 -13 Td
+/F1 9 Tf
+(delegated authority bypasses governance. Removing business representatives weakens alignment) Tj
+0 -13 Td
+/F1 9 Tf
+(and risk ownership, while meeting counts measure activity rather than the quality or effect) Tj
+0 -13 Td
+/F1 9 Tf
+(of decisions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP2-004\) - Correct: A, C) Tj
+0 -13 Td
+/F1 9 Tf
+(A recognized framework provides an organized basis for choosing, describing, and assessing) Tj
+0 -13 Td
+/F1 9 Tf
+(controls and gives stakeholders a consistent vocabulary. It does not eliminate residual) Tj
+0 -13 Td
+/F1 9 Tf
+(risk, transfer business accountability, or supersede laws and contracts. The framework) Tj
+0 -13 Td
+/F1 9 Tf
+(supports governance decisions; it does not make those decisions or obligations disappear.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP2-005\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(A divestiture needs an approved separation plan that assigns ownership, limits access,) Tj
+0 -13 Td
+/F1 9 Tf
+(preserves required records and obligations, monitors transition risk, and defines how shared) Tj
+0 -13 Td
+/F1 9 Tf
+(services will end. Unrestricted access creates exposure, blanket deletion may violate) Tj
+0 -13 Td
+/F1 9 Tf
+(retention duties, and unlimited risk acceptance fails to allocate responsibilities) Tj
+0 -13 Td
+/F1 9 Tf
+(realistically.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP2-006\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Due care is demonstrated by taking and sustaining reasonable protective measures in response) Tj
+0 -13 Td
+/F1 9 Tf
+(to known risk. The earlier assessment reflects due diligence, while the funded safeguards) Tj
+0 -13 Td
+/F1 9 Tf
+(and assigned operation show care in practice. The activity was not discontinued, internal) Tj
+0 -13 Td
+/F1 9 Tf
+(ownership does not transfer the risk, and assessment documentation alone does not provide) Tj
+0 -13 Td
+/F1 9 Tf
+(non-repudiation.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP2-007\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(A private claim seeking damages for negligence and breach is a civil action, and civil cases) Tj
+0 -13 Td
+/F1 9 Tf
+(generally use the preponderance-of-the-evidence standard. It is not a criminal prosecution) Tj
+0 -13 Td
+/F1 9 Tf
+(because the government is not seeking penal sanctions. The facts also do not describe a) Tj
+0 -13 Td
+/F1 9 Tf
+(regulator's licensing action or merely an industry audit.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP2-008\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A procedure provides the detailed, repeatable steps used to carry out a requirement. The) Tj
+0 -13 Td
+/F1 9 Tf
+(policy states management's direction, while a guideline supplies recommended rather than) Tj
+0 -13 Td
+/F1 9 Tf
+(mandatory advice. A risk appetite statement defines the broad amount and type of risk the) Tj
+0 -13 Td
+/F1 9 Tf
+(organization is willing to pursue or retain, not an operational workflow.) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 23 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 4536 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP2-009\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Once litigation is reasonably anticipated, relevant information must be preserved through a) Tj
+0 -13 Td
+/F1 9 Tf
+(documented legal hold that identifies custodians, systems, and affected retention processes.) Tj
+0 -13 Td
+/F1 9 Tf
+(Continuing routine deletion risks spoliation, selective preservation undermines integrity,) Tj
+0 -13 Td
+/F1 9 Tf
+(and preservation does not mean indiscriminately disclosing every organizational record.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP2-010\) - Correct: B, D) Tj
+0 -13 Td
+/F1 9 Tf
+(Copyright protects original expressive works such as training videos, while a qualifying) Tj
+0 -13 Td
+/F1 9 Tf
+(novel and useful invention may be protected through the patent process in exchange for) Tj
+0 -13 Td
+/F1 9 Tf
+(disclosure. Trademark identifies the source of goods or services rather than protecting) Tj
+0 -13 Td
+/F1 9 Tf
+(function. Public disclosure is inconsistent with preserving a trade secret, and a) Tj
+0 -13 Td
+/F1 9 Tf
+(nondisclosure agreement does not itself register ownership rights.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP2-011\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Export controls can apply to transfers of controlled technical information or technology) Tj
+0 -13 Td
+/F1 9 Tf
+(through electronic and remote access, not only physical shipment. Classification,) Tj
+0 -13 Td
+/F1 9 Tf
+(destination, recipient, end use, and licensing or authorization must be evaluated. A shared) Tj
+0 -13 Td
+/F1 9 Tf
+(operating system is irrelevant to legal authorization, and neither remote delivery nor a) Tj
+0 -13 Td
+/F1 9 Tf
+(confidentiality label removes applicable restrictions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP2-012\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Documented acquisition, integrity hashes, controlled preservation, and a complete chain of) Tj
+0 -13 Td
+/F1 9 Tf
+(custody provide defensible evidence that records remained unchanged and handling was) Tj
+0 -13 Td
+/F1 9 Tf
+(accountable. Editing originals compromises integrity, recollection is weak documentation,) Tj
+0 -13 Td
+/F1 9 Tf
+(and discarding native electronic records can remove important metadata and undermine the) Tj
+0 -13 Td
+/F1 9 Tf
+(investigation.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP2-013\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Single loss expectancy equals asset value multiplied by exposure factor: $600,000 x 0.30 =) Tj
+0 -13 Td
+/F1 9 Tf
+($180,000. The annualized rate of occurrence is not needed for this calculation; it would be) Tj
+0 -13 Td
+/F1 9 Tf
+(used later with SLE to estimate annualized loss expectancy. The other values result from) Tj
+0 -13 Td
+/F1 9 Tf
+(misplaced decimals or division rather than multiplication.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP2-014\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Insurance transfers defined financial consequences subject to limits, exclusions, and) Tj
+0 -13 Td
+/F1 9 Tf
+(conditions; it does not remove the event's likelihood, operational harm, reputational) Tj
+0 -13 Td
+/F1 9 Tf
+(effects, or the organization's accountability. The business still owns its processes and) Tj
+0 -13 Td
+/F1 9 Tf
+(must maintain appropriate controls and monitoring. Therefore, the risks remain in the risk-) Tj
+0 -13 Td
+/F1 9 Tf
+(management process.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP2-015\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Defined qualitative scales allow consistent expert judgment when reliable numerical inputs) Tj
+0 -13 Td
+/F1 9 Tf
+(are unavailable. Calibration criteria reduce ambiguity and help prioritize treatment.) Tj
+0 -13 Td
+/F1 9 Tf
+(Fabricated precision makes results misleading, equal rankings prevent useful prioritization,) Tj
+0 -13 Td
+/F1 9 Tf
+(and excluding hard-to-quantify risk can hide significant exposure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP2-016\) - Correct: C, E) Tj
+0 -13 Td
+/F1 9 Tf
+(The inability to hold a user accountable for a submitted request is a repudiation threat.) Tj
+0 -13 Td
+/F1 9 Tf
+(Making a service unavailable through excessive requests is denial of service. Spoofing) Tj
+0 -13 Td
+/F1 9 Tf
+(concerns impersonation, tampering concerns unauthorized modification, and information) Tj
+0 -13 Td
+/F1 9 Tf
+(disclosure concerns unauthorized exposure; none describes the two stated scenarios as) Tj
+0 -13 Td
+/F1 9 Tf
+(directly.) Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 23 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 4550 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP2-017\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Material subcontractors can introduce fourth-party exposure, so governance should require) Tj
+0 -13 Td
+/F1 9 Tf
+(visibility, risk assessment, appropriate flow-down requirements, monitoring, and clear) Tj
+0 -13 Td
+/F1 9 Tf
+(accountability. The initial review does not cover a changed dependency, verbal assurances) Tj
+0 -13 Td
+/F1 9 Tf
+(are weak, and a universal ban disregards proportionate, risk-based business decisions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP2-018\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Measurable service, recovery, notification, reporting, escalation, and remedy terms let the) Tj
+0 -13 Td
+/F1 9 Tf
+(customer monitor performance and respond when obligations are missed. Vague trust or best-) Tj
+0 -13 Td
+/F1 9 Tf
+(effort language is difficult to enforce. Post-event definitions provide no advance) Tj
+0 -13 Td
+/F1 9 Tf
+(assurance, and outsourcing does not eliminate the customer's ownership of business risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP2-019\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Critical-process recovery depends on the people, technology, information, facilities, and) Tj
+0 -13 Td
+/F1 9 Tf
+(third parties that enable it. Those dependencies must shape recovery sequence and strategy.) Tj
+0 -13 Td
+/F1 9 Tf
+(Application cost alone does not measure operational impact, external dependencies remain) Tj
+0 -13 Td
+/F1 9 Tf
+(relevant even when not directly controlled, and identical objectives may waste resources or) Tj
+0 -13 Td
+/F1 9 Tf
+(fail business needs.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 20 \(CISSP2-020\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Screening should be proportionate to the role's risk, based on job-related criteria,) Tj
+0 -13 Td
+/F1 9 Tf
+(consistently governed, and conducted under applicable notice, consent, privacy, and) Tj
+0 -13 Td
+/F1 9 Tf
+(employment requirements. Maximum intrusion can be unlawful and unnecessary, abandoning) Tj
+0 -13 Td
+/F1 9 Tf
+(screening ignores legitimate risk, and ad hoc manager requests create inconsistency and) Tj
+0 -13 Td
+/F1 9 Tf
+(privacy exposure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 21 \(CISSP2-021\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Secure onboarding establishes identity, approved least-privilege access, required) Tj
+0 -13 Td
+/F1 9 Tf
+(agreements, policy acknowledgment, and role-specific preparation before sensitive duties) Tj
+0 -13 Td
+/F1 9 Tf
+(begin. Broad exploratory privileges exceed established need, inherited accounts destroy) Tj
+0 -13 Td
+/F1 9 Tf
+(accountability, and employees cannot authorize their own access without accountable) Tj
+0 -13 Td
+/F1 9 Tf
+(ownership and segregation of duties.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 22 \(CISSP2-022\) - Correct: A, B) Tj
+0 -13 Td
+/F1 9 Tf
+(A tabletop exercise tests leadership decisions and coordination through a low-disruption) Tj
+0 -13 Td
+/F1 9 Tf
+(scenario, while a structured walkthrough validates roles, dependencies, and procedural) Tj
+0 -13 Td
+/F1 9 Tf
+(sequence. A full unannounced shutdown is disproportionate for a first exercise, signatures) Tj
+0 -13 Td
+/F1 9 Tf
+(alone do not test capability, and continuity plans require recurring validation as people,) Tj
+0 -13 Td
+/F1 9 Tf
+(systems, and risks change.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 23 \(CISSP2-023\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Business continuity is the broader discipline for sustaining critical organizational) Tj
+0 -13 Td
+/F1 9 Tf
+(activities through disruption. Disaster recovery supports that objective by restoring) Tj
+0 -13 Td
+/F1 9 Tf
+(technology, infrastructure, and related services. Treating the terms as identical or) Tj
+0 -13 Td
+/F1 9 Tf
+(reversing their scope overlooks people, facilities, suppliers, communications, and manual) Tj
+0 -13 Td
+/F1 9 Tf
+(workarounds that continuity planning may address.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 24 \(CISSP2-024\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(An effective program responds to current threats and audience-specific exposure, reinforces) Tj
+0 -13 Td
+/F1 9 Tf
+(the expected verification and reporting behaviors, and measures whether those behaviors) Tj
+0 -13 Td
+/F1 9 Tf
+(improve. Waiting preserves a known gap, repeating unrelated content does not address the) Tj
+0 -13 Td
+/F1 9 Tf
+(risk, and the awareness team educates personnel but does not own operational payment) Tj
+ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 23 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 72 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(controls.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 23 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 21 0 R >>
+endobj
+23 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R] /Count 10 >>
+endobj
+24 0 obj
+<< /Type /Catalog /Pages 23 0 R >>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004165 00000 n 
+0000004302 00000 n 
+0000008115 00000 n 
+0000008252 00000 n 
+0000012330 00000 n 
+0000012467 00000 n 
+0000016533 00000 n 
+0000016671 00000 n 
+0000020825 00000 n 
+0000020964 00000 n 
+0000022752 00000 n 
+0000022891 00000 n 
+0000027454 00000 n 
+0000027593 00000 n 
+0000032182 00000 n 
+0000032321 00000 n 
+0000036924 00000 n 
+0000037063 00000 n 
+0000037186 00000 n 
+0000037325 00000 n 
+0000037445 00000 n 
+trailer
+<< /Size 25 /Root 24 0 R >>
+startxref
+37496
+%%EOF
