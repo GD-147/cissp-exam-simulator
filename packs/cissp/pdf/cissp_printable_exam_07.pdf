@@ -1,0 +1,1238 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4146 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 07 - Domain 7 - Security Operations) Tj
+0 -13 Td
+/F2 11 Tf
+(Domain 7) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP1-117\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A security analyst is investigating a compromised application server that remains) Tj
+0 -13 Td
+/F1 9 Tf
+(powered on and connected to an isolated forensic network. The server contains active) Tj
+0 -13 Td
+/F1 9 Tf
+(processes, network sessions, encryption keys in memory, and persistent storage that can be) Tj
+0 -13 Td
+/F1 9 Tf
+(imaged.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which action should the analyst take FIRST to preserve the most time-sensitive evidence?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Create a bit-for-bit image of each persistent storage device) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Capture volatile memory and current system-state information) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Power off the server and document the shutdown time) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Reinstall the operating system on replacement storage) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP1-118\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regional financial services firm is redesigning its logging architecture after) Tj
+0 -13 Td
+/F1 9 Tf
+(investigators were unable to correlate events across servers, network devices, and cloud) Tj
+0 -13 Td
+/F1 9 Tf
+(workloads. Administrators on monitored systems can currently alter local logs.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which THREE measures would MOST improve the reliability and investigative value of the) Tj
+0 -13 Td
+/F1 10 Tf
+(firm's centralized logs? Select 3 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Synchronize event sources to trusted time services) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Forward logs promptly to a restricted centralized repository) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Allow each system owner to define an independent timestamp format) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Protect stored logs with integrity monitoring and access controls) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Disable collection of successful authentication events to reduce volume) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP1-119\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An internal administrative inquiry into misuse of a privileged account uncovers) Tj
+0 -13 Td
+/F1 9 Tf
+(evidence suggesting deliberate theft of regulated customer data. Senior management may refer) Tj
+0 -13 Td
+/F1 9 Tf
+(the matter to law enforcement.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the security manager's BEST next step?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Continue informal interviews until the suspected employee admits responsibility) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Publish the evidence internally so affected departments can identify the individual) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Engage legal counsel and preserve evidence under documented forensic procedures) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Immediately delete the suspected account and all associated files) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP1-120\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A manufacturing company provisions hundreds of nearly identical servers. Quarterly) Tj
+0 -13 Td
+/F1 9 Tf
+(reviews repeatedly find unauthorized deviations from the approved secure configuration, and) Tj
+0 -13 Td
+/F1 9 Tf
+(manual correction is slow and inconsistent.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which improvement would BEST address the recurring operational problem?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Use version-controlled configuration templates with automated drift detection and) Tj
+0 -13 Td
+/F1 9 Tf
+(   approved remediation) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Permit administrators to maintain personal configuration scripts on each server) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Replace configuration baselines with annual vulnerability scans) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Rebuild every server whenever any configuration difference is detected) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4234 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 10 Tf
+(Question 5 \(CISSP1-121\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: Database administrators at an online retailer use permanently enabled shared) Tj
+0 -13 Td
+/F1 9 Tf
+(administrator credentials for both routine work and emergency changes. Post-incident reviews) Tj
+0 -13 Td
+/F1 9 Tf
+(cannot reliably attribute actions to individuals.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which control would BEST reduce the risk while preserving necessary administrative) Tj
+0 -13 Td
+/F1 10 Tf
+(capability?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Rotate the shared password monthly and distribute it to all administrators) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Record only failed commands executed through the shared account) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Create separate shared accounts for routine and emergency work) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Issue named accounts with just-in-time elevation, approval, and session logging) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP1-122\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A research organization is retiring failed solid-state drives that stored highly) Tj
+0 -13 Td
+/F1 9 Tf
+(sensitive intellectual property. The drives cannot be reliably accessed to perform logical) Tj
+0 -13 Td
+/F1 9 Tf
+(overwriting and will not be reused.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the MOST appropriate disposition method?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Return the drives to general inventory after deleting their asset records) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Physically destroy the drives using an approved process and retain disposition) Tj
+0 -13 Td
+/F1 9 Tf
+(   records) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Quick-format the drives and donate them to another department) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Relabel the drives as unclassified before sending them to standard recycling) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP1-123\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A hospital detects ransomware encrypting files on several workstations. Network) Tj
+0 -13 Td
+/F1 9 Tf
+(telemetry indicates active lateral movement, while unaffected clinical systems remain) Tj
+0 -13 Td
+/F1 9 Tf
+(available. The incident response plan has been activated.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO actions should the incident commander prioritize during initial containment?) Tj
+0 -13 Td
+/F1 10 Tf
+(Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Isolate affected endpoints and restrict the observed lateral-movement paths) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Erase every affected endpoint before collecting incident data) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Preserve relevant volatile data, logs, and forensic evidence through authorized) Tj
+0 -13 Td
+/F1 9 Tf
+(   procedures) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Restore all affected endpoints immediately from the most recent available backup) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Delay internal reporting until the full root cause has been proven) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP1-124\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A logistics provider has restored services after a credential-stuffing incident.) Tj
+0 -13 Td
+/F1 9 Tf
+(The post-incident review identifies slow escalation, unclear ownership, and a detection rule) Tj
+0 -13 Td
+/F1 9 Tf
+(that produced an excessive number of low-value alerts.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which outcome would provide the GREATEST long-term value from the lessons-learned process?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Archive the meeting notes without assigning further work) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Discipline the first analyst who handled the alert) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Keep the response plan unchanged to preserve procedural consistency) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Assign tracked improvements to the playbook, alert logic, ownership, and training) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP1-125\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A media company discovers that a compromised internal workstation is sending) Tj
+0 -13 Td
+/F1 9 Tf
+(encrypted outbound traffic to an unapproved external destination over a port that is) Tj
+0 -13 Td
+/F1 9 Tf
+(normally allowed. Inbound firewall rules did not prevent the activity.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4102 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which measure would MOST directly reduce the likelihood of similar exfiltration succeeding?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Permit outbound connections only through controlled services and monitor) Tj
+0 -13 Td
+/F1 9 Tf
+(   destination behavior) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Increase the retention period for physical access badge records) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Move the workstation to a larger network segment) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Disable all inbound logging at the perimeter) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP1-126\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A utility operates an isolated honeypot containing no legitimate user data. The) Tj
+0 -13 Td
+/F1 9 Tf
+(monitoring team detects interactive access from an internal network address and observes) Tj
+0 -13 Td
+/F1 9 Tf
+(commands consistent with reconnaissance.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security operations team do FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Add production credentials to the honeypot to learn which accounts the actor) Tj
+0 -13 Td
+/F1 9 Tf
+(   prefers) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Allow the honeypot unrestricted outbound access so the actor can be followed) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Validate and escalate the high-fidelity alert while preserving telemetry and) Tj
+0 -13 Td
+/F1 9 Tf
+(   containing related risk) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Ignore the event because honeypots are expected to receive unauthorized traffic) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP1-127\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A critical vulnerability is being actively exploited. The affected internet-facing) Tj
+0 -13 Td
+/F1 9 Tf
+(service supports revenue processing, and a vendor patch is available but has not completed) Tj
+0 -13 Td
+/F1 9 Tf
+(normal regression testing. A tested network-level mitigation can temporarily block the known) Tj
+0 -13 Td
+/F1 9 Tf
+(exploit path.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which response BEST balances immediate risk reduction and service stability?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Wait for the next routine maintenance window without changing any controls) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Apply the temporary mitigation, invoke emergency change procedures, test the patch,) Tj
+0 -13 Td
+/F1 9 Tf
+(   and deploy it promptly) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Install the patch immediately outside all change controls and without a rollback) Tj
+0 -13 Td
+/F1 9 Tf
+(   plan) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Permanently retire the revenue service before evaluating compensating controls) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP1-128\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A system owner requests an urgent production change to resolve recurring) Tj
+0 -13 Td
+/F1 9 Tf
+(performance failures. The technical modification has succeeded in a test environment, but) Tj
+0 -13 Td
+/F1 9 Tf
+(its security impact and production reversal steps have not been documented.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the change authority require BEFORE approving implementation?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Document security impact, implementation validation, authorization, and a tested) Tj
+0 -13 Td
+/F1 9 Tf
+(   rollback approach) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Obtain only the developer's verbal assurance that the change is low risk) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Skip post-implementation review because testing already succeeded) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Transfer permanent approval authority to the system owner) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP1-129\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A professional services firm backs up production data continuously to storage) Tj
+0 -13 Td
+/F1 9 Tf
+(reachable with the same administrative credentials used for production. During a ransomware) Tj
+0 -13 Td
+/F1 9 Tf
+(incident, attackers encrypted both production data and the connected backup copies.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which improvement would BEST address the demonstrated weakness?) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4217 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   A. Increase backup frequency while retaining the shared credentials) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Store every backup exclusively on the production network) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Maintain isolated or immutable backup copies under separate access controls and) Tj
+0 -13 Td
+/F1 9 Tf
+(   test restoration) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Replace restoration testing with checks that backup jobs completed) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP1-130\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A payment processor requires critical transaction services to resume within one) Tj
+0 -13 Td
+/F1 9 Tf
+(hour of a primary-site loss. Management accepts the cost of continuously maintained) Tj
+0 -13 Td
+/F1 9 Tf
+(duplicate infrastructure and near-real-time data replication.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which recovery strategy BEST satisfies these requirements?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A cold site with power and floor space but no installed processing equipment) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A warm site requiring hardware configuration and restoration from shipped media) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A reciprocal agreement to use another organization's spare capacity when available) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A mirrored site with synchronized systems and rapid failover capability) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP1-131\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A public agency wants to demonstrate that its alternate processing environment can) Tj
+0 -13 Td
+/F1 9 Tf
+(run recovered applications using restored data. The production environment must remain) Tj
+0 -13 Td
+/F1 9 Tf
+(active and continue serving the public throughout the exercise.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO characteristics describe the MOST appropriate disaster recovery test? Select 2 of) Tj
+0 -13 Td
+/F1 10 Tf
+(the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Recovery systems are activated and operated alongside production systems) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Production processing is deliberately shut down and transferred completely) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. The exercise is limited to reading the plan individually without discussion) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Restored processing is validated without making it the live production service) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Participants discuss actions around a table without activating recovery systems) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP1-132\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An energy distributor proposes its first full interruption test for a critical) Tj
+0 -13 Td
+/F1 9 Tf
+(business system. Walkthroughs and simulations have found unresolved recovery procedure gaps,) Tj
+0 -13 Td
+/F1 9 Tf
+(and the business has not approved an outage window.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security manager recommend?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Proceed immediately because full interruption testing automatically corrects) Tj
+0 -13 Td
+/F1 9 Tf
+(   procedural gaps) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Resolve material gaps, obtain business authorization, define rollback criteria, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   then schedule the test) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Cancel all future recovery exercises because critical systems should not be tested) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Perform the interruption without notifying system owners to make the test more) Tj
+0 -13 Td
+/F1 9 Tf
+(   realistic) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP1-133\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A food distributor depends on one external logistics provider for time-sensitive) Tj
+0 -13 Td
+/F1 9 Tf
+(deliveries. The business continuity plan states that staff will switch to an alternate) Tj
+0 -13 Td
+/F1 9 Tf
+(provider during a regional disruption, but the alternate has never participated in an) Tj
+0 -13 Td
+/F1 9 Tf
+(exercise.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which action would provide the MOST useful assurance?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Conduct an exercise that validates contacts, capacity, data exchange, decision) Tj
+0 -13 Td
+/F1 9 Tf
+(   authority, and the alternate workflow) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 2306 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   B. Assume the alternate provider can accept the workload because a contract exists) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Test only the security team's incident notification tree) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Remove logistics from the continuity plan because the service is outsourced) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP1-134\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A biotechnology company has strong perimeter access control, but employees from) Tj
+0 -13 Td
+/F1 9 Tf
+(unrestricted office areas can enter a sensitive laboratory by following an authorized worker) Tj
+0 -13 Td
+/F1 9 Tf
+(through an internal door. Investigations show that the door does not reliably latch and no) Tj
+0 -13 Td
+/F1 9 Tf
+(alert is generated when it remains open.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which improvement would BEST address the immediate physical security weakness?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Add more exterior landscaping around the building) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Require stronger passwords for laboratory workstations) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Install controlled individual entry with door-position monitoring and anti-) Tj
+0 -13 Td
+/F1 9 Tf
+(   tailgating procedures) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Extend visitor parking farther from the main entrance) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP1-135\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A branch employee who handles sensitive records may be forced by an aggressor to) Tj
+0 -13 Td
+/F1 9 Tf
+(request after-hours access. The organization wants a control that alerts responders without) Tj
+0 -13 Td
+/F1 9 Tf
+(requiring the employee to openly resist or escalate the confrontation.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which control BEST meets the objective?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A rehearsed duress signal that silently alerts designated responders under a) Tj
+0 -13 Td
+/F1 9 Tf
+(   documented safety procedure) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A policy requiring the employee to physically prevent access in every circumstance) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A public announcement identifying the employee and suspected aggressor) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A quarterly report listing all ordinary after-hours access requests) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4421 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP1-117\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Volatile memory and live system-state data can disappear when power is removed or system) Tj
+0 -13 Td
+/F1 9 Tf
+(activity changes, so they should be captured before persistent storage is imaged. A disk) Tj
+0 -13 Td
+/F1 9 Tf
+(image remains important but is less volatile. Powering off the server would destroy memory-) Tj
+0 -13 Td
+/F1 9 Tf
+(resident evidence, and reinstalling the system is a recovery action that could overwrite) Tj
+0 -13 Td
+/F1 9 Tf
+(evidence rather than preserve it.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP1-118\) - Correct: A, B, D) Tj
+0 -13 Td
+/F1 9 Tf
+(Trusted time synchronization, prompt centralized forwarding, and integrity-protected) Tj
+0 -13 Td
+/F1 9 Tf
+(restricted storage make events easier to correlate and harder for a compromised local) Tj
+0 -13 Td
+/F1 9 Tf
+(administrator to alter. Independent timestamp conventions impede correlation. Successful) Tj
+0 -13 Td
+/F1 9 Tf
+(authentication records often provide essential context for account misuse and should not be) Tj
+0 -13 Td
+/F1 9 Tf
+(categorically discarded merely to reduce volume.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP1-119\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Because the inquiry may become criminal and involves regulated data, legal counsel should) Tj
+0 -13 Td
+/F1 9 Tf
+(guide escalation while investigators preserve evidence with documented, repeatable) Tj
+0 -13 Td
+/F1 9 Tf
+(procedures and chain-of-custody records. Informal interviews could compromise the inquiry,) Tj
+0 -13 Td
+/F1 9 Tf
+(broad publication violates need-to-know, and deleting account data risks destroying) Tj
+0 -13 Td
+/F1 9 Tf
+(evidence. Account access may need containment, but evidence preservation must be coordinated) Tj
+0 -13 Td
+/F1 9 Tf
+(first.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP1-120\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Version-controlled templates establish an authoritative baseline, while automated drift) Tj
+0 -13 Td
+/F1 9 Tf
+(detection and approved remediation provide consistent enforcement at scale. Personal scripts) Tj
+0 -13 Td
+/F1 9 Tf
+(weaken control and traceability. Vulnerability scans do not replace configuration) Tj
+0 -13 Td
+/F1 9 Tf
+(management, and rebuilding every server is disproportionate and may disrupt service without) Tj
+0 -13 Td
+/F1 9 Tf
+(addressing the change-control weakness.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP1-121\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Named accounts with time-limited elevation, approval, and session logging minimize standing) Tj
+0 -13 Td
+/F1 9 Tf
+(privilege while supporting attribution and oversight. Rotating or subdividing shared) Tj
+0 -13 Td
+/F1 9 Tf
+(credentials still prevents individual accountability. Recording only failures omits) Tj
+0 -13 Td
+/F1 9 Tf
+(successful actions, which are often the events most important to an investigation.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP1-122\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Approved physical destruction is appropriate when highly sensitive solid-state media cannot) Tj
+0 -13 Td
+/F1 9 Tf
+(be reliably sanitized and will not be reused; disposition records maintain accountability.) Tj
+0 -13 Td
+/F1 9 Tf
+(Quick formatting does not reliably remove data. Relabeling changes neither the data nor its) Tj
+0 -13 Td
+/F1 9 Tf
+(sensitivity, and deleting asset records before controlled disposition breaks lifecycle) Tj
+0 -13 Td
+/F1 9 Tf
+(tracking.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP1-123\) - Correct: A, C) Tj
+0 -13 Td
+/F1 9 Tf
+(Initial containment should limit further spread while preserving evidence needed to) Tj
+0 -13 Td
+/F1 9 Tf
+(determine scope and cause. Immediate erasure destroys evidence. Restoration belongs to) Tj
+0 -13 Td
+/F1 9 Tf
+(recovery and should follow containment and validation of clean backups. Reporting should) Tj
+0 -13 Td
+/F1 9 Tf
+(follow the response plan and applicable obligations; it should not wait for perfect) Tj
+0 -13 Td
+/F1 9 Tf
+(certainty about root cause.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP1-124\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Lessons learned create value when findings become owned, tracked improvements to people,) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4430 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(process, and technology. Archiving notes alone does not reduce recurrence. Blaming one) Tj
+0 -13 Td
+/F1 9 Tf
+(analyst ignores systemic weaknesses, and preserving a demonstrably weak plan sacrifices) Tj
+0 -13 Td
+/F1 9 Tf
+(improvement for superficial consistency.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP1-125\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Controlled egress paths, destination restrictions, and outbound monitoring directly address) Tj
+0 -13 Td
+/F1 9 Tf
+(unauthorized exfiltration even when traffic uses an ordinarily permitted port. Badge) Tj
+0 -13 Td
+/F1 9 Tf
+(retention does not control network transfer. A larger segment can increase exposure, and) Tj
+0 -13 Td
+/F1 9 Tf
+(disabling inbound logging reduces visibility without constraining outbound activity.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP1-126\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Legitimate users should not interact with the honeypot, so internal interactive access is a) Tj
+0 -13 Td
+/F1 9 Tf
+(high-value signal that should be validated, escalated, preserved, and investigated for) Tj
+0 -13 Td
+/F1 9 Tf
+(related compromise. Adding real credentials creates unnecessary exposure. Unrestricted) Tj
+0 -13 Td
+/F1 9 Tf
+(outbound access could let the system harm others, while ignoring the event wastes the) Tj
+0 -13 Td
+/F1 9 Tf
+(primary purpose of the deception control.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP1-127\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A validated compensating control can reduce immediate exposure while emergency change) Tj
+0 -13 Td
+/F1 9 Tf
+(procedures accelerate testing and deployment of the durable fix. Waiting leaves an actively) Tj
+0 -13 Td
+/F1 9 Tf
+(exploited service exposed. Uncontrolled installation can create avoidable outages, and) Tj
+0 -13 Td
+/F1 9 Tf
+(permanent retirement is disproportionate when effective mitigation and remediation paths) Tj
+0 -13 Td
+/F1 9 Tf
+(exist.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP1-128\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A controlled production change requires assessed security impact, defined validation,) Tj
+0 -13 Td
+/F1 9 Tf
+(appropriate authorization, and a viable rollback method. A verbal assurance is not) Tj
+0 -13 Td
+/F1 9 Tf
+(sufficient evidence. Test success does not remove the need to verify production results, and) Tj
+0 -13 Td
+/F1 9 Tf
+(the system owner should not receive unrestricted authority that bypasses governance and) Tj
+0 -13 Td
+/F1 9 Tf
+(separation of duties.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP1-129\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Isolated or immutable copies with separate administrative controls limit an attacker's) Tj
+0 -13 Td
+/F1 9 Tf
+(ability to destroy recovery data, while restoration tests confirm that the copies are) Tj
+0 -13 Td
+/F1 9 Tf
+(usable. More frequent backups remain vulnerable if the same compromise can reach them.) Tj
+0 -13 Td
+/F1 9 Tf
+(Production-only storage lacks isolation, and successful job status does not prove) Tj
+0 -13 Td
+/F1 9 Tf
+(recoverability.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP1-130\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(A mirrored site provides the continuously maintained infrastructure and synchronized data) Tj
+0 -13 Td
+/F1 9 Tf
+(needed for a very short recovery time objective. Cold and warm sites require substantial) Tj
+0 -13 Td
+/F1 9 Tf
+(activation and restoration time. A reciprocal agreement may lack guaranteed capacity and) Tj
+0 -13 Td
+/F1 9 Tf
+(typically cannot assure the readiness required for critical transaction processing.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP1-131\) - Correct: A, D) Tj
+0 -13 Td
+/F1 9 Tf
+(A parallel test activates recovery resources and validates restored processing while the) Tj
+0 -13 Td
+/F1 9 Tf
+(production environment continues to operate. Completely shutting down and transferring) Tj
+0 -13 Td
+/F1 9 Tf
+(production describes a full interruption test. Individual reading and discussion-based) Tj
+0 -13 Td
+/F1 9 Tf
+(exercises provide less operational assurance because they do not activate the recovery) Tj
+0 -13 Td
+/F1 9 Tf
+(systems.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP1-132\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A full interruption test can provide strong assurance but also creates real operational) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 2150 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(risk. Material deficiencies should be corrected, accountable business owners must authorize) Tj
+0 -13 Td
+/F1 9 Tf
+(the outage, and rollback and stop criteria should be established before proceeding. An) Tj
+0 -13 Td
+/F1 9 Tf
+(interruption does not fix gaps by itself, permanent avoidance leaves recovery unvalidated,) Tj
+0 -13 Td
+/F1 9 Tf
+(and an unannounced disruption lacks responsible authorization.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP1-133\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A realistic exercise should validate that the alternate arrangement works end to end,) Tj
+0 -13 Td
+/F1 9 Tf
+(including capacity, communications, information exchange, authority, and operational) Tj
+0 -13 Td
+/F1 9 Tf
+(procedures. A contract alone does not prove readiness. Testing only security notifications) Tj
+0 -13 Td
+/F1 9 Tf
+(misses the business process, while outsourcing transfers service delivery but not the) Tj
+0 -13 Td
+/F1 9 Tf
+(organization's continuity responsibility.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP1-134\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Controlled individual entry, reliable door-state monitoring, and anti-tailgating procedures) Tj
+0 -13 Td
+/F1 9 Tf
+(directly address unauthorized passage from a general area into the restricted laboratory.) Tj
+0 -13 Td
+/F1 9 Tf
+(Landscaping and parking changes focus on the outer perimeter, not the internal boundary.) Tj
+0 -13 Td
+/F1 9 Tf
+(Strong workstation passwords are useful logical controls but do not prevent unauthorized) Tj
+0 -13 Td
+/F1 9 Tf
+(physical entry.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP1-135\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A discreet, rehearsed duress signal can summon an appropriate response while prioritizing) Tj
+0 -13 Td
+/F1 9 Tf
+(the employee's safety and avoiding overt escalation. Requiring physical resistance increases) Tj
+0 -13 Td
+/F1 9 Tf
+(danger. A public announcement could provoke the aggressor, and retrospective reporting) Tj
+0 -13 Td
+/F1 9 Tf
+(cannot provide immediate assistance during a coercion event.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] /Count 8 >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 19 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004412 00000 n 
+0000004549 00000 n 
+0000008835 00000 n 
+0000008972 00000 n 
+0000013126 00000 n 
+0000013263 00000 n 
+0000017532 00000 n 
+0000017670 00000 n 
+0000020029 00000 n 
+0000020168 00000 n 
+0000024642 00000 n 
+0000024781 00000 n 
+0000029264 00000 n 
+0000029403 00000 n 
+0000031606 00000 n 
+0000031745 00000 n 
+0000031850 00000 n 
+trailer
+<< /Size 21 /Root 20 0 R >>
+startxref
+31901
+%%EOF

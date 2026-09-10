@@ -19,7 +19,9 @@
       "timeLabel": "Recommended exam time: 29 minutes",
       "examQuestions": 24,
       "type": "mcq",
-      "examFiles": [],
+      "examFiles": [
+        "cissp_exam_01.json"
+      ],
       "domain": "Security and Risk Management"
     },
     {
@@ -29,7 +31,9 @@
       "timeLabel": "Recommended exam time: 18 minutes",
       "examQuestions": 15,
       "type": "mcq",
-      "examFiles": [],
+      "examFiles": [
+        "cissp_exam_01.json"
+      ],
       "domain": "Asset Security"
     },
     {
@@ -39,7 +43,9 @@
       "timeLabel": "Recommended exam time: 24 minutes",
       "examQuestions": 20,
       "type": "mcq",
-      "examFiles": [],
+      "examFiles": [
+        "cissp_exam_01.json"
+      ],
       "domain": "Security Architecture and Engineering"
     },
     {
@@ -49,7 +55,9 @@
       "timeLabel": "Recommended exam time: 23 minutes",
       "examQuestions": 19,
       "type": "mcq",
-      "examFiles": [],
+      "examFiles": [
+        "cissp_exam_01.json"
+      ],
       "domain": "Communication and Network Security"
     },
     {
@@ -59,7 +67,9 @@
       "timeLabel": "Recommended exam time: 24 minutes",
       "examQuestions": 20,
       "type": "mcq",
-      "examFiles": [],
+      "examFiles": [
+        "cissp_exam_01.json"
+      ],
       "domain": "Identity and Access Management (IAM)"
     },
     {
@@ -69,7 +79,9 @@
       "timeLabel": "Recommended exam time: 22 minutes",
       "examQuestions": 18,
       "type": "mcq",
-      "examFiles": [],
+      "examFiles": [
+        "cissp_exam_01.json"
+      ],
       "domain": "Security Assessment and Testing"
     },
     {
@@ -79,7 +91,9 @@
       "timeLabel": "Recommended exam time: 23 minutes",
       "examQuestions": 19,
       "type": "mcq",
-      "examFiles": [],
+      "examFiles": [
+        "cissp_exam_01.json"
+      ],
       "domain": "Security Operations"
     },
     {
@@ -89,7 +103,9 @@
       "timeLabel": "Recommended exam time: 17 minutes",
       "examQuestions": 15,
       "type": "mcq",
-      "examFiles": [],
+      "examFiles": [
+        "cissp_exam_01.json"
+      ],
       "domain": "Software Development Security"
     },
     {
@@ -99,11 +115,48 @@
       "timeLabel": "Recommended practice time: 180 minutes",
       "examQuestions": 150,
       "type": "mcq",
-      "examFiles": []
+      "examFiles": [
+        "cissp_exam_01.json"
+      ]
     }
   ],
-  "printables": [],
+  "printables": [
+    {
+      "label": "CISSP Printable Practice Exam 01 — Domain 1 — Security and Risk Management",
+      "file": "cissp_printable_exam_01.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 02 — Domain 2 — Asset Security",
+      "file": "cissp_printable_exam_02.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 03 — Domain 3 — Security Architecture and Engineering",
+      "file": "cissp_printable_exam_03.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 04 — Domain 4 — Communication and Network Security",
+      "file": "cissp_printable_exam_04.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 05 — Domain 5 — Identity and Access Management (IAM)",
+      "file": "cissp_printable_exam_05.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 06 — Domain 6 — Security Assessment and Testing",
+      "file": "cissp_printable_exam_06.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 07 — Domain 7 — Security Operations",
+      "file": "cissp_printable_exam_07.pdf"
+    },
+    {
+      "label": "CISSP Printable Practice Exam 08 — Domain 8 — Software Development Security",
+      "file": "cissp_printable_exam_08.pdf"
+    }
+  ],
   "homeText": "CISSP certification exam preparation platform with full-length practice exams, domain-focused practice, realistic scenario-based questions, detailed explanations, progress tracking, and printable practice materials.",
   "disclaimer": "This practice platform uses original preparation materials and is not affiliated with or endorsed by ISC2.",
-  "examFiles": []
+  "examFiles": [
+    "cissp_exam_01.json"
+  ]
 }

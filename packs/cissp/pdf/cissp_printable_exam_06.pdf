@@ -1,0 +1,1124 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4121 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 06 - Domain 6 - Security Assessment and Testing) Tj
+0 -13 Td
+/F2 11 Tf
+(Domain 6) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP1-099\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regional payment processor is preparing to renew a major client contract. The) Tj
+0 -13 Td
+/F1 9 Tf
+(internal security team designed and operates the controls protecting the service, and the) Tj
+0 -13 Td
+/F1 9 Tf
+(client requires objective assurance about their effectiveness.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which assessment approach would provide the MOST credible assurance to the client?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Have the control owners complete a new self-assessment questionnaire.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Assign an internal administrator to verify the configurations informally.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Engage an independent qualified assessor to test the controls against an agreed) Tj
+0 -13 Td
+/F1 9 Tf
+(   scope.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Ask the client to rely on the processor's existing security policies.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP1-100\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A security manager must plan an internal audit with limited staff. A customer) Tj
+0 -13 Td
+/F1 9 Tf
+(portal processes sensitive records and has unresolved prior findings, while several low-) Tj
+0 -13 Td
+/F1 9 Tf
+(impact internal tools have stable control histories.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the manager do FIRST when establishing the audit scope?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Give every system equal testing time to demonstrate uniform treatment.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Prioritize systems according to business impact, exposure, and unresolved findings.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Limit the audit to controls that can be tested automatically.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Exclude systems previously audited so the team can maximize new coverage.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP1-101\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: During an internal audit, an auditor discovers that privileged access reviews are) Tj
+0 -13 Td
+/F1 9 Tf
+(not being completed. The application owner asks the auditor to redesign and operate the) Tj
+0 -13 Td
+/F1 9 Tf
+(review process before the final report is issued.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the auditor's BEST response?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Design and operate the control so the finding can be closed immediately.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Remove the finding because management has expressed an intent to remediate it.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Describe the issue and criteria, while leaving control ownership and remediation to) Tj
+0 -13 Td
+/F1 9 Tf
+(   management.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Delay all reporting until the application owner independently discovers the same) Tj
+0 -13 Td
+/F1 9 Tf
+(   issue.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP1-102\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A university has approved a third-party penetration test of its student services) Tj
+0 -13 Td
+/F1 9 Tf
+(environment. Testing could affect shared infrastructure and systems managed by an external) Tj
+0 -13 Td
+/F1 9 Tf
+(hosting provider.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO items should be formally established before active testing begins? Select 2 of the) Tj
+0 -13 Td
+/F1 10 Tf
+(5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Written authorization and clearly defined rules of engagement.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A guarantee that every vulnerability in the environment will be found.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Scope boundaries, escalation contacts, and permitted testing windows.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Immediate public disclosure of all discovered vulnerabilities.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Permanent administrative credentials for every production system.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4160 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP1-103\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A cloud service provider supplies a report describing whether specified controls) Tj
+0 -13 Td
+/F1 9 Tf
+(were suitably designed and operated effectively over a defined six-month period. A customer) Tj
+0 -13 Td
+/F1 9 Tf
+(wants assurance covering its fiscal year and its own complementary controls.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the customer security manager do NEXT?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Accept the report as proof that all customer responsibilities were performed.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Confirm the report's scope and period, review exceptions, and evaluate) Tj
+0 -13 Td
+/F1 9 Tf
+(   complementary user-entity controls.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Treat the report as a vulnerability scan of the provider's entire environment.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Replace all internal vendor oversight with the provider's management assertion.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP1-104\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regulated utility expects an external compliance audit shortly after its annual) Tj
+0 -13 Td
+/F1 9 Tf
+(internal audit. Both engagements cover several of the same access-control processes, but the) Tj
+0 -13 Td
+/F1 9 Tf
+(external auditor retains responsibility for its own conclusions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which strategy BEST reduces duplication while preserving assurance?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Cancel the internal audit because the external audit will cover similar controls.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Let the control owners choose which evidence the external auditor may see.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Align schedules and evidence collection, document internal work quality, and allow) Tj
+0 -13 Td
+/F1 9 Tf
+(   the external auditor to determine reliance.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Require the external auditor to adopt every internal conclusion without additional) Tj
+0 -13 Td
+/F1 9 Tf
+(   procedures.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP1-105\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An engineering firm has received a scanner report listing missing patches and) Tj
+0 -13 Td
+/F1 9 Tf
+(insecure configurations. Leadership now wants to know whether an attacker could combine) Tj
+0 -13 Td
+/F1 9 Tf
+(those weaknesses to reach restricted design files.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which activity would BEST answer leadership's question?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A penetration test with an authorized objective of reaching the restricted files.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A second vulnerability scan using the same signatures.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A policy review focused on patch-management documentation.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A count of devices represented in the asset inventory.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP1-106\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A media company wants to determine why its monitoring rules miss certain) Tj
+0 -13 Td
+/F1 9 Tf
+(credential-abuse behaviors. Leadership wants offensive testers and defenders to share) Tj
+0 -13 Td
+/F1 9 Tf
+(observations during the exercise so detections can be tuned and retested immediately.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which team structure BEST supports this objective?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A red team operating without any defined scope or defender contact.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A blue team reviewing alerts without simulated adversary activity.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A purple-team exercise that coordinates offensive actions and defensive validation.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. An audit committee reviewing only the final annual metrics.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP1-107\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: Before releasing a new claims application, a development security lead must) Tj
+0 -13 Td
+/F1 9 Tf
+(identify unsafe code paths and also observe failures that appear only while the application) Tj
+0 -13 Td
+/F1 9 Tf
+(is executing.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4289 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+(Which testing strategy provides the MOST complete coverage of these objectives?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Use only static analysis because runtime behavior is outside the assessment scope.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Combine static analysis of code with dynamic testing of the running application.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use only network discovery because it evaluates application logic directly.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Review user training records instead of testing the application.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP1-108\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An online retailer must verify that a fraud control blocks a prohibited) Tj
+0 -13 Td
+/F1 9 Tf
+(transaction pattern and that the attempted transaction creates the expected alert without) Tj
+0 -13 Td
+/F1 9 Tf
+(using a real customer account.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO actions are MOST appropriate? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Execute a preauthorized synthetic transaction using a controlled test identity.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Disable alerting during the test to prevent misleading evidence.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Confirm the expected rejection and correlate the generated event with the security) Tj
+0 -13 Td
+/F1 9 Tf
+(   alert.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Use an uninformed customer's account so the scenario appears realistic.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Assume the control works because its configuration matches the documented standard.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP1-109\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A test report for a funds-transfer service shows full coverage of approved user) Tj
+0 -13 Td
+/F1 9 Tf
+(workflows. It does not test malformed requests at an external interface or attempts by) Tj
+0 -13 Td
+/F1 9 Tf
+(authorized users to exceed their transaction limits.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the MOST significant concern with the report?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. The testing omitted interface abuse and misuse cases, so stated coverage may) Tj
+0 -13 Td
+/F1 9 Tf
+(   overestimate assurance.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The test team should have measured only the number of successful transactions.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Approved workflow coverage makes negative testing unnecessary.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. The service cannot be tested until every possible input has been enumerated.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP1-110\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A manufacturing company plans recurring automated simulations of selected) Tj
+0 -13 Td
+/F1 9 Tf
+(adversary techniques against production security controls. Operations leaders are concerned) Tj
+0 -13 Td
+/F1 9 Tf
+(that the activity could interrupt industrial support services.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST way to proceed?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Run every available technique without notice to maximize realism.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Define approved techniques, safety constraints, monitoring, and rollback procedures) Tj
+0 -13 Td
+/F1 9 Tf
+(   before execution.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Replace the simulation with a review of written security policies only.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow the simulation platform to expand its own scope whenever it finds a weakness.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP1-111\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An auditor is testing whether user access is removed promptly after employment) Tj
+0 -13 Td
+/F1 9 Tf
+(termination. Human resources policy requires removal within one business day.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which evidence would BEST demonstrate the control's operating effectiveness?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A copy of the approved termination policy by itself.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A sample linking termination timestamps to account-disablement records and) Tj
+0 -13 Td
+/F1 9 Tf
+(   documented exceptions.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A current organizational chart showing reporting relationships.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A statement from the help desk that requests are usually handled quickly.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4028 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP1-112\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A security steering committee reviews two monthly measures: the percentage of) Tj
+0 -13 Td
+/F1 9 Tf
+(critical patches installed within the required service level and the number of internet-) Tj
+0 -13 Td
+/F1 9 Tf
+(facing critical vulnerabilities older than that service level.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(How should these measures be classified?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Both are financial audit measures because they concern resource allocation.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The installation percentage is a performance indicator, while the overdue exposure) Tj
+0 -13 Td
+/F1 9 Tf
+(   count is a risk indicator.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. The installation percentage is a risk indicator, while the overdue exposure count) Tj
+0 -13 Td
+/F1 9 Tf
+(   is a performance indicator.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Neither is useful because security controls cannot be evaluated with metrics.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP1-113\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A hospital's backup dashboard shows that scheduled jobs completed successfully for) Tj
+0 -13 Td
+/F1 9 Tf
+(the past quarter. The audit objective is to determine whether critical records can be) Tj
+0 -13 Td
+/F1 9 Tf
+(recovered within approved recovery targets.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What additional evidence is MOST important?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Documented restoration tests showing data integrity and recovery times for) Tj
+0 -13 Td
+/F1 9 Tf
+(   representative systems.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The total storage capacity purchased for the backup environment.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A list of employees permitted to view the backup dashboard.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A vendor brochure describing general backup features.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP1-114\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A public agency reports that nearly all personnel completed annual security) Tj
+0 -13 Td
+/F1 9 Tf
+(awareness training. The security manager must determine whether the program is improving) Tj
+0 -13 Td
+/F1 9 Tf
+(recognition and reporting of suspicious messages.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO measures would provide the MOST useful evidence of effectiveness? Select 2 of the) Tj
+0 -13 Td
+/F1 10 Tf
+(5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Results from controlled simulations, analyzed by role and trend over time.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The number of training slides included in the annual course.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Timeliness and quality of employee reports from simulations or validated events.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. The amount originally budgeted for training development.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. The seniority of the manager who approved the course.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP1-115\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A disaster recovery exercise missed the recovery time objective for two critical) Tj
+0 -13 Td
+/F1 9 Tf
+(services. The test team found that an outdated dependency map caused the restoration) Tj
+0 -13 Td
+/F1 9 Tf
+(sequence to fail, and service owners have proposed corrective actions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which reporting approach would BEST support management action?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Report only that the exercise failed, without identifying affected objectives.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. List every test log entry chronologically and let executives determine) Tj
+0 -13 Td
+/F1 9 Tf
+(   significance.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Describe the evidence, business impact, root cause, responsible owners, and time-) Tj
+0 -13 Td
+/F1 9 Tf
+(   bound remediation plan.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Remove the result because corrective actions have already been proposed.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP1-116\)) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 941 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(Scenario: During a third-party audit, management approval records indicate that privileged) Tj
+0 -13 Td
+/F1 9 Tf
+(accounts were reviewed quarterly. System logs for the same period suggest that several) Tj
+0 -13 Td
+/F1 9 Tf
+(accounts remained active after their owners changed roles.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the audit lead do FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Accept the approval records because signed evidence takes precedence over technical) Tj
+0 -13 Td
+/F1 9 Tf
+(   data.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Conclude immediately that management intentionally falsified the records.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Reconcile the populations and timestamps, obtain corroborating evidence, and expand) Tj
+0 -13 Td
+/F1 9 Tf
+(   the sample if warranted.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Discard both sources and report that the control cannot be assessed.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4271 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP1-099\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(An independent qualified assessor offers the strongest objectivity when external) Tj
+0 -13 Td
+/F1 9 Tf
+(stakeholders need credible assurance. A self-assessment or informal administrator review) Tj
+0 -13 Td
+/F1 9 Tf
+(lacks sufficient independence, while policies describe intended behavior but do not) Tj
+0 -13 Td
+/F1 9 Tf
+(demonstrate operating effectiveness.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP1-100\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A risk-based scope directs limited assurance resources toward the systems and controls whose) Tj
+0 -13 Td
+/F1 9 Tf
+(failure would matter most. Equal allocation ignores differing risk, automation should not) Tj
+0 -13 Td
+/F1 9 Tf
+(define scope, and prior audits do not justify excluding systems with significant or) Tj
+0 -13 Td
+/F1 9 Tf
+(unresolved risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP1-101\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(The auditor should report the condition and preserve independence by leaving control design,) Tj
+0 -13 Td
+/F1 9 Tf
+(ownership, and operation to management. Operating the control creates a self-review threat,) Tj
+0 -13 Td
+/F1 9 Tf
+(management intent alone does not resolve the finding, and withholding a valid finding) Tj
+0 -13 Td
+/F1 9 Tf
+(undermines the audit.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP1-102\) - Correct: A, C) Tj
+0 -13 Td
+/F1 9 Tf
+(Written authorization and rules of engagement establish legal and operational permission,) Tj
+0 -13 Td
+/F1 9 Tf
+(while scope boundaries, contacts, and testing windows constrain risk and enable incident) Tj
+0 -13 Td
+/F1 9 Tf
+(coordination. Complete discovery cannot be guaranteed, public disclosure is not a) Tj
+0 -13 Td
+/F1 9 Tf
+(prerequisite, and unrestricted permanent credentials would create unnecessary exposure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP1-103\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Third-party assurance must be evaluated against the customer's required scope and period,) Tj
+0 -13 Td
+/F1 9 Tf
+(including noted exceptions and complementary controls assigned to the customer. The report) Tj
+0 -13 Td
+/F1 9 Tf
+(does not prove customer control performance, represent a universal vulnerability scan, or) Tj
+0 -13 Td
+/F1 9 Tf
+(eliminate vendor oversight responsibilities.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP1-104\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Coordinated scheduling and reusable, well-documented evidence can reduce burden, while the) Tj
+0 -13 Td
+/F1 9 Tf
+(external auditor independently decides whether and how much to rely on internal work.) Tj
+0 -13 Td
+/F1 9 Tf
+(Canceling internal assurance may leave governance gaps, selective evidence threatens) Tj
+0 -13 Td
+/F1 9 Tf
+(completeness, and compulsory reliance undermines external independence.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP1-105\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A penetration test attempts controlled exploitation and can demonstrate whether weaknesses) Tj
+0 -13 Td
+/F1 9 Tf
+(can be chained to achieve the defined objective. A vulnerability scan identifies potential) Tj
+0 -13 Td
+/F1 9 Tf
+(weaknesses but does not establish exploitability, while policy and inventory reviews address) Tj
+0 -13 Td
+/F1 9 Tf
+(different assurance questions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP1-106\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(A purple-team approach deliberately connects offensive techniques with defensive) Tj
+0 -13 Td
+/F1 9 Tf
+(observation, tuning, and retesting. An isolated red or blue team provides only one side of) Tj
+0 -13 Td
+/F1 9 Tf
+(the feedback loop, and an audit committee's metric review cannot reproduce or validate) Tj
+0 -13 Td
+/F1 9 Tf
+(technical detection behavior.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP1-107\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Static analysis can expose weaknesses in source or compiled code paths, while dynamic) Tj
+0 -13 Td
+/F1 9 Tf
+(testing observes behavior in an executing application. Combining them addresses) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4379 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(complementary evidence needs. Network discovery does not directly evaluate application) Tj
+0 -13 Td
+/F1 9 Tf
+(logic, and training records do not test software controls.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP1-108\) - Correct: A, C) Tj
+0 -13 Td
+/F1 9 Tf
+(A controlled synthetic transaction tests the business process without exposing a real) Tj
+0 -13 Td
+/F1 9 Tf
+(customer, and correlating the outcome with the alert verifies both prevention and detection.) Tj
+0 -13 Td
+/F1 9 Tf
+(Disabling alerting removes required evidence, using a customer account is inappropriate, and) Tj
+0 -13 Td
+/F1 9 Tf
+(configuration conformity alone does not prove operational effectiveness.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP1-109\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Coverage of normal workflows does not demonstrate resilience against malformed interface) Tj
+0 -13 Td
+/F1 9 Tf
+(input or authorized-user misuse. Transaction counts alone do not address negative paths,) Tj
+0 -13 Td
+/F1 9 Tf
+(approved flows do not replace misuse testing, and exhaustive enumeration of every input is) Tj
+0 -13 Td
+/F1 9 Tf
+(neither necessary nor practical for risk-based assurance.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP1-110\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Threat-informed simulation can validate controls repeatedly, but production use requires) Tj
+0 -13 Td
+/F1 9 Tf
+(explicit scope, safeguards, observation, and recovery procedures. Unrestricted or self-) Tj
+0 -13 Td
+/F1 9 Tf
+(expanding tests create unacceptable operational risk, while policy review alone cannot) Tj
+0 -13 Td
+/F1 9 Tf
+(demonstrate how technical controls respond to simulated techniques.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP1-111\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Timestamped records matched across the triggering and deprovisioning processes provide) Tj
+0 -13 Td
+/F1 9 Tf
+(evidence that the control operated within the required period, while exceptions reveal) Tj
+0 -13 Td
+/F1 9 Tf
+(failures. Policy proves design intent, and an organizational chart or general statement does) Tj
+0 -13 Td
+/F1 9 Tf
+(not substantiate actual performance.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP1-112\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(The installation percentage measures how well the patching process meets its target, making) Tj
+0 -13 Td
+/F1 9 Tf
+(it a key performance indicator. The count of overdue exposed vulnerabilities signals current) Tj
+0 -13 Td
+/F1 9 Tf
+(risk exposure, making it a key risk indicator. Both measures can support control assessment) Tj
+0 -13 Td
+/F1 9 Tf
+(when definitions and data quality are sound.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP1-113\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Successful job status shows that backup operations ran, but restoration testing demonstrates) Tj
+0 -13 Td
+/F1 9 Tf
+(recoverability, integrity, and alignment with recovery targets. Capacity and dashboard) Tj
+0 -13 Td
+/F1 9 Tf
+(access may matter to other controls, while marketing material provides no evidence that this) Tj
+0 -13 Td
+/F1 9 Tf
+(organization's data can be restored.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP1-114\) - Correct: A, C) Tj
+0 -13 Td
+/F1 9 Tf
+(Simulation results and the timeliness and quality of reporting measure observable behavior) Tj
+0 -13 Td
+/F1 9 Tf
+(tied to the program's objective. Slide count, budget, and approver seniority are) Tj
+0 -13 Td
+/F1 9 Tf
+(administrative facts that do not show whether personnel can recognize and report suspicious) Tj
+0 -13 Td
+/F1 9 Tf
+(activity effectively.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP1-115\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(An actionable report connects verified evidence to business impact and root cause, then) Tj
+0 -13 Td
+/F1 9 Tf
+(identifies accountability and remediation timing. A bare failure statement lacks decision) Tj
+0 -13 Td
+/F1 9 Tf
+(context, raw logs overwhelm the audience, and a proposed action does not erase the observed) Tj
+0 -13 Td
+/F1 9 Tf
+(control deficiency.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP1-116\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Contradictory evidence should be reconciled by validating scope, timing, and data sources,) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 371 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(then gathering corroboration and extending testing as risk warrants. Neither signed records) Tj
+0 -13 Td
+/F1 9 Tf
+(nor logs should be accepted uncritically, intent should not be inferred without evidence,) Tj
+0 -13 Td
+/F1 9 Tf
+(and the discrepancy itself justifies further assessment rather than abandonment.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] /Count 8 >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 19 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004387 00000 n 
+0000004524 00000 n 
+0000008736 00000 n 
+0000008873 00000 n 
+0000013214 00000 n 
+0000013351 00000 n 
+0000017431 00000 n 
+0000017569 00000 n 
+0000018562 00000 n 
+0000018701 00000 n 
+0000023025 00000 n 
+0000023164 00000 n 
+0000027596 00000 n 
+0000027735 00000 n 
+0000028158 00000 n 
+0000028297 00000 n 
+0000028402 00000 n 
+trailer
+<< /Size 21 /Root 20 0 R >>
+startxref
+28453
+%%EOF

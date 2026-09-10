@@ -1,0 +1,1313 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 3948 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 05 - Domain 5 - Identity and Access Management \(IAM\)) Tj
+0 -13 Td
+/F2 11 Tf
+(Domain 5) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP1-079\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regional utility permits administrators to manage critical servers from) Tj
+0 -13 Td
+/F1 9 Tf
+(corporate workstations. A stolen administrator password recently allowed an attacker to) Tj
+0 -13 Td
+/F1 9 Tf
+(begin an interactive sign-in, although monitoring stopped the session before changes were) Tj
+0 -13 Td
+/F1 9 Tf
+(made.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which change would MOST directly reduce the likelihood that another stolen password could be) Tj
+0 -13 Td
+/F1 10 Tf
+(used to establish an administrative session?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Require a second authentication factor that is resistant to credential replay) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Shorten the inactivity timeout for all established administrative sessions) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Record every privileged command in a centralized activity log) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Reconfirm each administrator's assigned privileges every quarter) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP1-080\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A manufacturing plant uses one shared maintenance account because several) Tj
+0 -13 Td
+/F1 9 Tf
+(technicians must respond quickly to equipment failures. The account has broad permissions,) Tj
+0 -13 Td
+/F1 9 Tf
+(and investigators cannot determine which technician made a recent configuration change.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST way to preserve rapid response while establishing accountability?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Keep the shared account and require technicians to record their names in a paper) Tj
+0 -13 Td
+/F1 9 Tf
+(   log) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Issue individually attributable accounts and grant the required maintenance role to) Tj
+0 -13 Td
+/F1 9 Tf
+(   each technician) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Change the shared account password after every maintenance event) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow the supervisor to disclose the shared password only when an outage occurs) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP1-081\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An online services organization resets a user's password after confirming account) Tj
+0 -13 Td
+/F1 9 Tf
+(compromise. The application uses long-lived session tokens that remain valid after a) Tj
+0 -13 Td
+/F1 9 Tf
+(password change.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which action should the organization take FIRST to contain continued use of the compromised) Tj
+0 -13 Td
+/F1 10 Tf
+(account?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Reduce the minimum password age for the affected account) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Invalidate the user's existing sessions and authentication tokens) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Add the user's address to a security notification list) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Review the user's business role at the next certification cycle) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP1-082\)) Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO combinations provide two different authentication factor categories? Select 2 of) Tj
+0 -13 Td
+/F1 10 Tf
+(the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A password and a memorized personal identification number) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A hardware security key and a fingerprint) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A passphrase and the answer to a knowledge-based question) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A smart card and a personal identification number) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. A fingerprint and facial recognition) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP1-083\)) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4264 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(Scenario: A nonprofit is replacing an application that stores user passwords with a general-) Tj
+0 -13 Td
+/F1 9 Tf
+(purpose fast hash. The security architect wants a design that limits the value of a stolen) Tj
+0 -13 Td
+/F1 9 Tf
+(credential database and makes large-scale offline guessing more expensive.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which approach BEST meets the architect's objective?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Encrypt all passwords with one reversible key stored on the application server) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Store each password with a unique salt using an adaptive password-hashing function) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Apply the same random salt to every password before using the existing fast hash) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Encode each password and restrict read access to the credential table) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP1-084\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A university wants employees to use their institutional credentials to access a) Tj
+0 -13 Td
+/F1 9 Tf
+(browser-based human resources service operated by an external provider. The university must) Tj
+0 -13 Td
+/F1 9 Tf
+(remain responsible for authenticating its employees, and the provider must consume an) Tj
+0 -13 Td
+/F1 9 Tf
+(assertion to create the service session.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which architecture BEST satisfies this requirement?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. The university acts as a SAML identity provider and the external service acts as a) Tj
+0 -13 Td
+/F1 9 Tf
+(   service provider) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The external service acts as an OAuth resource server and issues university) Tj
+0 -13 Td
+/F1 9 Tf
+(   passwords) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. The university acts as a SAML service provider and delegates authentication to the) Tj
+0 -13 Td
+/F1 9 Tf
+(   external service) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. The external service uses an authorization code as proof of the employee's identity) Tj
+0 -13 Td
+/F1 9 Tf
+(   without an identity assertion) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP1-085\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A development team uses OAuth so a scheduling application can read a user's) Tj
+0 -13 Td
+/F1 9 Tf
+(calendar through an API. The team now proposes treating the OAuth access token by itself as) Tj
+0 -13 Td
+/F1 9 Tf
+(proof that a particular user authenticated to the scheduling application.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the MOST important flaw in the proposal?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. OAuth access tokens can be used only with applications inside one security domain) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. OAuth delegates access to a resource but does not, by itself, define an) Tj
+0 -13 Td
+/F1 9 Tf
+(   authentication assertion for the client) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. OAuth requires the resource owner to disclose credentials directly to every client) Tj
+0 -13 Td
+/F1 9 Tf
+(   application) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. OAuth prevents a resource server from limiting the scope of delegated access) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP1-086\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A media organization is implementing sign-in for several modern web and mobile) Tj
+0 -13 Td
+/F1 9 Tf
+(applications. Its authorization server already supports OAuth, and the applications require) Tj
+0 -13 Td
+/F1 9 Tf
+(standardized claims about the authenticated user.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which addition MOST directly provides the required authentication information?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. OpenID Connect with a validated ID token intended for the client) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A broader OAuth access-token scope for each protected API) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A refresh token stored as the user's permanent identity record) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A resource-server response containing the client's secret) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP1-087\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A logistics company will trust a partner's identity service so partner personnel) Tj
+0 -13 Td
+/F1 9 Tf
+(can access a shared shipment portal. The parties want to reduce unauthorized access caused) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 3998 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(by stale partner accounts and improperly accepted assertions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO controls are MOST important before enabling the federation? Select 2 of the 5) Tj
+0 -13 Td
+/F1 10 Tf
+(options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Define assurance, lifecycle, incident, and account-termination responsibilities in) Tj
+0 -13 Td
+/F1 9 Tf
+(   the trust agreement) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Validate assertion signatures, issuer, audience, and validity period at the relying) Tj
+0 -13 Td
+/F1 9 Tf
+(   service) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Permit all partner identities to receive one common local administrator role) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Retain partner accounts indefinitely so past shipment records remain attributable) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Allow the partner to select any claim names without an agreed mapping) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP1-088\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A global retailer plans to use one cloud identity service for single sign-on to) Tj
+0 -13 Td
+/F1 9 Tf
+(most workforce applications. Executives are concerned that an identity-service outage or) Tj
+0 -13 Td
+/F1 9 Tf
+(compromise could affect many business functions at once.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which design response BEST addresses the concentration of risk without abandoning SSO?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Give each employee a shared emergency account accepted by all applications) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Implement resilient identity-service architecture and tightly controlled break-) Tj
+0 -13 Td
+/F1 9 Tf
+(   glass access for critical systems) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Allow every application to retain a permanent copy of the employee's primary) Tj
+0 -13 Td
+/F1 9 Tf
+(   password) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Disable centralized logging so a compromise cannot alter all authentication records) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP1-089\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A research consortium shares documents among employees, visiting scientists, and) Tj
+0 -13 Td
+/F1 9 Tf
+(contractors. Access depends on project membership, document sensitivity, contract status,) Tj
+0 -13 Td
+/F1 9 Tf
+(geographic location, and whether the request occurs during an approved collaboration period.) Tj
+0 -13 Td
+/F1 9 Tf
+(The combinations change frequently.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which access control model BEST supports these requirements with the least role) Tj
+0 -13 Td
+/F1 10 Tf
+(proliferation?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Attribute-based access control) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Discretionary access control) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Mandatory access control based only on fixed security labels) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Role-based access control using a separate role for every possible combination) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP1-090\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An insurance company is centralizing authorization. One component will evaluate) Tj
+0 -13 Td
+/F1 9 Tf
+(policy using identity and resource attributes, while a gateway in front of each application) Tj
+0 -13 Td
+/F1 9 Tf
+(will intercept requests and carry out the resulting allow-or-deny decision.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(How should the two components be classified?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. The evaluator is the policy enforcement point, and the gateway is the policy) Tj
+0 -13 Td
+/F1 9 Tf
+(   decision point) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The evaluator is the policy decision point, and the gateway is the policy) Tj
+0 -13 Td
+/F1 9 Tf
+(   enforcement point) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Both components are policy decision points because both participate in) Tj
+0 -13 Td
+/F1 9 Tf
+(   authorization) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Both components are policy enforcement points because neither authenticates the) Tj
+0 -13 Td
+/F1 9 Tf
+(   user) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4039 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 10 Tf
+(Question 13 \(CISSP1-091\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A government agency requires documents and users to carry formal security labels.) Tj
+0 -13 Td
+/F1 9 Tf
+(Individual document owners must not be able to grant access at their discretion, and a) Tj
+0 -13 Td
+/F1 9 Tf
+(centrally defined policy must govern interactions between clearances and classifications.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which authorization model is MOST appropriate?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Discretionary access control) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Role-based access control) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Mandatory access control) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Risk-based access control) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP1-092\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A financial services firm assigns application permissions through job roles. It) Tj
+0 -13 Td
+/F1 9 Tf
+(also needs a centrally managed condition that blocks all remote access to a sensitive) Tj
+0 -13 Td
+/F1 9 Tf
+(function outside approved hours, regardless of the user's role.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which mechanism BEST expresses the additional condition?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A discretionary access list maintained separately by each data owner) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A rule-based access control rule evaluated for every request) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A new permanent role for every employee who works during approved hours) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A mandatory classification label assigned to the time of day) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP1-093\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A payment processor wants ordinarily permitted account access to receive) Tj
+0 -13 Td
+/F1 9 Tf
+(additional scrutiny when sign-in behavior is anomalous, the device is unmanaged, or the) Tj
+0 -13 Td
+/F1 9 Tf
+(transaction is unusually sensitive. Existing job entitlements must remain the baseline.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST authorization strategy?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Replace all job entitlements with resource-owner discretion) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Apply risk-based decisions that can require step-up authentication or deny high-) Tj
+0 -13 Td
+/F1 9 Tf
+(   risk requests) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Grant permanent elevated roles to users who frequently trigger risk checks) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Approve access solely from the sensitivity label without considering request) Tj
+0 -13 Td
+/F1 9 Tf
+(   context) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP1-094\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A sales employee with access to customer records is being terminated at the end of) Tj
+0 -13 Td
+/F1 9 Tf
+(a meeting. Human resources, the manager, and the identity team know the scheduled time.) Tj
+0 -13 Td
+/F1 9 Tf
+(Several cloud applications receive accounts from the central identity platform.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which action is MOST important for the identity team to coordinate?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Disable access at the effective termination time and propagate revocation to) Tj
+0 -13 Td
+/F1 9 Tf
+(   connected services) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Wait for the next monthly entitlement review before changing the account) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Remove the employee from the office directory but retain all application sessions) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Transfer the employee's password to the manager for business continuity) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP1-095\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An employee moves from procurement to accounts payable. The organization commonly) Tj
+0 -13 Td
+/F1 9 Tf
+(adds the new department's permissions immediately but leaves removal of old permissions for) Tj
+0 -13 Td
+/F1 9 Tf
+(a later cleanup project.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which lifecycle control BEST prevents privilege accumulation in this situation?) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 3532 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   A. Copy the access of a highly experienced accounts-payable employee) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Treat the transfer as a controlled remove-and-add event based on approved role) Tj
+0 -13 Td
+/F1 9 Tf
+(   requirements) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Retain procurement access in case the employee assists the former team) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow the employee to choose which legacy permissions remain useful) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP1-096\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A hospital wants database administrators to use standard accounts for daily work) Tj
+0 -13 Td
+/F1 9 Tf
+(and receive elevated production privileges only for approved maintenance. The privileges) Tj
+0 -13 Td
+/F1 9 Tf
+(should not remain after the work window.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO controls BEST implement this just-in-time objective? Select 2 of the 5 options) Tj
+0 -13 Td
+/F1 10 Tf
+(below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Require an approved request tied to the administrator's individual identity) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Automatically expire the elevated entitlement at the end of the authorized period) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Publish one standing privileged password to the entire database team) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Convert every administrator's standard account into a permanent privileged account) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Allow administrators to renew elevation indefinitely without additional approval) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP1-097\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A pharmaceutical company finds that managers approve quarterly access lists) Tj
+0 -13 Td
+/F1 9 Tf
+(without understanding cryptic group names. The identity team wants future reviews to produce) Tj
+0 -13 Td
+/F1 9 Tf
+(meaningful decisions about continued business need.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which improvement would MOST increase the effectiveness of the reviews?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Provide reviewers with entitlement descriptions, user context, ownership, and risk) Tj
+0 -13 Td
+/F1 9 Tf
+(   information) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Ask the identity operations team to approve every entitlement on behalf of managers) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Automatically retain access whenever a reviewer does not respond by the deadline) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Show only the date each technical group was created to simplify the review) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 20 \(CISSP1-098\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A transportation company discovers hundreds of service accounts with no recorded) Tj
+0 -13 Td
+/F1 9 Tf
+(owner, no expiration or review date, and privileges accumulated across retired applications.) Tj
+0 -13 Td
+/F1 9 Tf
+(Some credentials are embedded in automation scripts.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the identity governance team do FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Delete every service account immediately, including those used by active systems) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Inventory usage and dependencies, assign accountable owners, and validate each) Tj
+0 -13 Td
+/F1 9 Tf
+(   account's required privileges) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Give all service accounts the same enterprise role to simplify administration) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Exclude nonhuman identities from lifecycle controls because no employee signs in) Tj
+0 -13 Td
+/F1 9 Tf
+(   with them) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4473 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP1-079\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A replay-resistant second factor most directly prevents possession of a stolen password from) Tj
+0 -13 Td
+/F1 9 Tf
+(being sufficient to establish a session. A shorter timeout limits exposure after a session) Tj
+0 -13 Td
+/F1 9 Tf
+(exists, and command logging improves accountability after access. Quarterly privilege) Tj
+0 -13 Td
+/F1 9 Tf
+(reviews address authorization and entitlement appropriateness, not the immediate) Tj
+0 -13 Td
+/F1 9 Tf
+(authentication weakness.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP1-080\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Individual accounts tied to a maintenance role preserve operational access while making) Tj
+0 -13 Td
+/F1 9 Tf
+(activity attributable to a specific technician. A paper log can be incomplete or falsified,) Tj
+0 -13 Td
+/F1 9 Tf
+(and rotating a shared password does not identify the person using it. Supervisor-controlled) Tj
+0 -13 Td
+/F1 9 Tf
+(disclosure limits availability but still leaves activity associated with the same shared) Tj
+0 -13 Td
+/F1 9 Tf
+(identity.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP1-081\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Invalidating active sessions and tokens immediately removes the attacker's continuing) Tj
+0 -13 Td
+/F1 9 Tf
+(authenticated state. Changing password policy does not terminate tokens already issued.) Tj
+0 -13 Td
+/F1 9 Tf
+(Notifications may support response communications, and a later role review may identify) Tj
+0 -13 Td
+/F1 9 Tf
+(excessive privileges, but neither contains the active session first.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP1-082\) - Correct: B, D) Tj
+0 -13 Td
+/F1 9 Tf
+(A hardware key plus a fingerprint combines possession and inherence, while a smart card plus) Tj
+0 -13 Td
+/F1 9 Tf
+(a personal identification number combines possession and knowledge. A password with a) Tj
+0 -13 Td
+/F1 9 Tf
+(personal identification number and a passphrase with a knowledge-based answer each use two) Tj
+0 -13 Td
+/F1 9 Tf
+(knowledge credentials. A fingerprint and facial recognition are both inherence factors, so) Tj
+0 -13 Td
+/F1 9 Tf
+(using both does not create factor-category diversity.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP1-083\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A unique salt defeats precomputed comparisons across accounts, and an adaptive password-) Tj
+0 -13 Td
+/F1 9 Tf
+(hashing function raises the cost of each offline guess. Reversible encryption creates) Tj
+0 -13 Td
+/F1 9 Tf
+(dependence on protecting a decryption key. One common salt still permits efficient) Tj
+0 -13 Td
+/F1 9 Tf
+(comparison across accounts, while encoding provides no cryptographic protection even if) Tj
+0 -13 Td
+/F1 9 Tf
+(database permissions are useful defense in depth.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP1-084\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(In this federation pattern, the university authenticates the employee as the identity) Tj
+0 -13 Td
+/F1 9 Tf
+(provider and sends a signed SAML assertion to the service provider. Reversing those roles) Tj
+0 -13 Td
+/F1 9 Tf
+(would transfer authentication responsibility to the external service. OAuth resource access) Tj
+0 -13 Td
+/F1 9 Tf
+(and an authorization code alone do not provide the requested SAML identity assertion and) Tj
+0 -13 Td
+/F1 9 Tf
+(should not require the provider to issue university passwords.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP1-085\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(OAuth is an authorization framework for delegated resource access; possession of an access) Tj
+0 -13 Td
+/F1 9 Tf
+(token alone is not a standardized assertion that the client authenticated a particular end) Tj
+0 -13 Td
+/F1 9 Tf
+(user. OpenID Connect adds an identity layer for that purpose. OAuth can operate across trust) Tj
+0 -13 Td
+/F1 9 Tf
+(domains, avoids routine credential disclosure to clients in appropriate flows, and supports) Tj
+0 -13 Td
+/F1 9 Tf
+(scoped access.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP1-086\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(OpenID Connect adds authentication to OAuth-based flows and provides an ID token containing) Tj
+0 -13 Td
+/F1 9 Tf
+(claims for the client, subject to validation of issuer, audience, signature, and related) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4480 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(properties. Expanding API scopes changes authorization, not authentication. Refresh tokens) Tj
+0 -13 Td
+/F1 9 Tf
+(obtain new tokens and are not identity records, while a client secret must not be exposed by) Tj
+0 -13 Td
+/F1 9 Tf
+(a resource server.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP1-087\) - Correct: A, B) Tj
+0 -13 Td
+/F1 9 Tf
+(A federation requires both governance of the identity lifecycle and rigorous validation of) Tj
+0 -13 Td
+/F1 9 Tf
+(the assertions crossing the trust boundary. The trust agreement establishes who must) Tj
+0 -13 Td
+/F1 9 Tf
+(provision, disable, notify, and respond, while signature, issuer, audience, and time) Tj
+0 -13 Td
+/F1 9 Tf
+(validation prevents acceptance of forged or misdirected assertions. Broad administrative) Tj
+0 -13 Td
+/F1 9 Tf
+(access, indefinite active accounts, and undefined claim mappings undermine least privilege) Tj
+0 -13 Td
+/F1 9 Tf
+(and reliable authorization.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP1-088\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Resilient identity services reduce availability risk, and narrowly scoped, monitored break-) Tj
+0 -13 Td
+/F1 9 Tf
+(glass access supports continuity when federation is unavailable. Shared emergency accounts) Tj
+0 -13 Td
+/F1 9 Tf
+(weaken accountability. Distributing reusable passwords expands credential exposure, and) Tj
+0 -13 Td
+/F1 9 Tf
+(disabling centralized logging removes detection evidence rather than containing identity-) Tj
+0 -13 Td
+/F1 9 Tf
+(provider risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP1-089\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(ABAC evaluates policies using subject, resource, action, and environmental attributes,) Tj
+0 -13 Td
+/F1 9 Tf
+(making it well suited to dynamic combinations such as project, contract, location, and time.) Tj
+0 -13 Td
+/F1 9 Tf
+(DAC places decisions with resource owners and may be inconsistent. Label-based MAC does not) Tj
+0 -13 Td
+/F1 9 Tf
+(naturally express all listed conditions, while encoding every combination as an RBAC role) Tj
+0 -13 Td
+/F1 9 Tf
+(creates role explosion.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP1-090\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(The policy decision point evaluates applicable policy and returns an authorization decision.) Tj
+0 -13 Td
+/F1 9 Tf
+(The policy enforcement point intercepts the access request and enforces that decision at the) Tj
+0 -13 Td
+/F1 9 Tf
+(resource boundary. Participation in one authorization flow does not make both components the) Tj
+0 -13 Td
+/F1 9 Tf
+(same, and authentication is separate from these authorization roles.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP1-091\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Mandatory access control uses centrally administered labels and rules, preventing resource) Tj
+0 -13 Td
+/F1 9 Tf
+(owners from independently changing access to classified information. DAC explicitly gives) Tj
+0 -13 Td
+/F1 9 Tf
+(owners discretion. RBAC organizes permissions around job functions but does not inherently) Tj
+0 -13 Td
+/F1 9 Tf
+(enforce clearance and classification labels, while risk-based access changes decisions) Tj
+0 -13 Td
+/F1 9 Tf
+(according to assessed contextual risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP1-092\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A centrally applied rule can evaluate time and connection context for every request) Tj
+0 -13 Td
+/F1 9 Tf
+(independently of the user's role. Owner-maintained discretionary lists would fragment) Tj
+0 -13 Td
+/F1 9 Tf
+(enforcement. Creating permanent roles for a changing time condition misuses RBAC and) Tj
+0 -13 Td
+/F1 9 Tf
+(increases administration, while a classification label is not the appropriate representation) Tj
+0 -13 Td
+/F1 9 Tf
+(of time-based access.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP1-093\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Risk-based access can combine baseline entitlement with signals such as device posture,) Tj
+0 -13 Td
+/F1 9 Tf
+(behavior, location, and transaction sensitivity, then allow, challenge, or deny the request.) Tj
+0 -13 Td
+/F1 9 Tf
+(Owner discretion does not provide consistent adaptive decisions. Permanent elevation rewards) Tj
+0 -13 Td
+/F1 9 Tf
+(risky patterns and violates least privilege, while relying only on a label ignores the) Tj
+0 -13 Td
+/F1 9 Tf
+(requested contextual analysis.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 2970 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 10 Tf
+(Question 16 \(CISSP1-094\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Revocation aligned with the effective termination time closes the access window while) Tj
+0 -13 Td
+/F1 9 Tf
+(respecting the coordinated personnel process, and propagation addresses downstream services) Tj
+0 -13 Td
+/F1 9 Tf
+(and sessions. A monthly review is too late. Directory removal alone may not revoke) Tj
+0 -13 Td
+/F1 9 Tf
+(application access, and transferring a personal password breaks accountability and proper) Tj
+0 -13 Td
+/F1 9 Tf
+(credential handling.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP1-095\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A role transfer should trigger removal of access no longer required and addition of access) Tj
+0 -13 Td
+/F1 9 Tf
+(approved for the new role, avoiding entitlement accumulation. Copying another employee can) Tj
+0 -13 Td
+/F1 9 Tf
+(reproduce excessive or exceptional privileges. Keeping old access by default and letting the) Tj
+0 -13 Td
+/F1 9 Tf
+(user choose both bypass business ownership, least privilege, and separation-of-duties) Tj
+0 -13 Td
+/F1 9 Tf
+(review.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP1-096\) - Correct: A, B) Tj
+0 -13 Td
+/F1 9 Tf
+(An individually attributable approval and automatic expiration provide the essential) Tj
+0 -13 Td
+/F1 9 Tf
+(governance and time boundary for just-in-time privilege. A shared password weakens) Tj
+0 -13 Td
+/F1 9 Tf
+(accountability. Permanent elevation defeats the objective, and unlimited self-renewal can) Tj
+0 -13 Td
+/F1 9 Tf
+(turn temporary access into standing privilege without renewed business authorization.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP1-097\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Reviewers need intelligible entitlement descriptions, relevant user and role context,) Tj
+0 -13 Td
+/F1 9 Tf
+(accountable ownership, and risk information to decide whether access remains justified.) Tj
+0 -13 Td
+/F1 9 Tf
+(Identity operations usually cannot attest to each user's business need. Default retention) Tj
+0 -13 Td
+/F1 9 Tf
+(for nonresponse preserves potentially inappropriate access, and group-creation dates do not) Tj
+0 -13 Td
+/F1 9 Tf
+(explain permissions or current necessity.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 20 \(CISSP1-098\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(The team must first understand dependencies and establish ownership before safely) Tj
+0 -13 Td
+/F1 9 Tf
+(remediating nonhuman identities; it can then remove unused accounts, reduce privileges,) Tj
+0 -13 Td
+/F1 9 Tf
+(rotate exposed credentials, and define review and retirement controls. Immediate deletion) Tj
+0 -13 Td
+/F1 9 Tf
+(could disrupt critical services. A common broad role increases exposure, and service) Tj
+0 -13 Td
+/F1 9 Tf
+(accounts require lifecycle governance precisely because unmanaged nonhuman access can) Tj
+0 -13 Td
+/F1 9 Tf
+(persist unnoticed.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] /Count 8 >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 19 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004214 00000 n 
+0000004351 00000 n 
+0000008667 00000 n 
+0000008804 00000 n 
+0000012854 00000 n 
+0000012991 00000 n 
+0000017082 00000 n 
+0000017220 00000 n 
+0000020805 00000 n 
+0000020944 00000 n 
+0000025470 00000 n 
+0000025609 00000 n 
+0000030142 00000 n 
+0000030281 00000 n 
+0000033304 00000 n 
+0000033443 00000 n 
+0000033548 00000 n 
+trailer
+<< /Size 21 /Root 20 0 R >>
+startxref
+33599
+%%EOF
