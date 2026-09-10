@@ -1,0 +1,109 @@
+{
+  "examId": "cissp",
+  "brandName": "CISSP Certification Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/cissp/assets/logo.png?v=1",
+  "accessPassword": "CISSPREADY",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams",
+    "Flashcards"
+  ],
+  "sections": [
+    {
+      "id": "domain1",
+      "label": "Security and Risk Management",
+      "timeMin": 29,
+      "timeLabel": "Recommended exam time: 29 minutes",
+      "examQuestions": 24,
+      "type": "mcq",
+      "examFiles": [],
+      "domain": "Security and Risk Management"
+    },
+    {
+      "id": "domain2",
+      "label": "Asset Security",
+      "timeMin": 18,
+      "timeLabel": "Recommended exam time: 18 minutes",
+      "examQuestions": 15,
+      "type": "mcq",
+      "examFiles": [],
+      "domain": "Asset Security"
+    },
+    {
+      "id": "domain3",
+      "label": "Security Architecture and Engineering",
+      "timeMin": 24,
+      "timeLabel": "Recommended exam time: 24 minutes",
+      "examQuestions": 20,
+      "type": "mcq",
+      "examFiles": [],
+      "domain": "Security Architecture and Engineering"
+    },
+    {
+      "id": "domain4",
+      "label": "Communication and Network Security",
+      "timeMin": 23,
+      "timeLabel": "Recommended exam time: 23 minutes",
+      "examQuestions": 19,
+      "type": "mcq",
+      "examFiles": [],
+      "domain": "Communication and Network Security"
+    },
+    {
+      "id": "domain5",
+      "label": "Identity and Access Management (IAM)",
+      "timeMin": 24,
+      "timeLabel": "Recommended exam time: 24 minutes",
+      "examQuestions": 20,
+      "type": "mcq",
+      "examFiles": [],
+      "domain": "Identity and Access Management (IAM)"
+    },
+    {
+      "id": "domain6",
+      "label": "Security Assessment and Testing",
+      "timeMin": 22,
+      "timeLabel": "Recommended exam time: 22 minutes",
+      "examQuestions": 18,
+      "type": "mcq",
+      "examFiles": [],
+      "domain": "Security Assessment and Testing"
+    },
+    {
+      "id": "domain7",
+      "label": "Security Operations",
+      "timeMin": 23,
+      "timeLabel": "Recommended exam time: 23 minutes",
+      "examQuestions": 19,
+      "type": "mcq",
+      "examFiles": [],
+      "domain": "Security Operations"
+    },
+    {
+      "id": "domain8",
+      "label": "Software Development Security",
+      "timeMin": 17,
+      "timeLabel": "Recommended exam time: 17 minutes",
+      "examQuestions": 15,
+      "type": "mcq",
+      "examFiles": [],
+      "domain": "Software Development Security"
+    },
+    {
+      "id": "full",
+      "label": "Full-Length Practice Test",
+      "timeMin": 180,
+      "timeLabel": "Recommended practice time: 180 minutes",
+      "examQuestions": 150,
+      "type": "mcq",
+      "examFiles": []
+    }
+  ],
+  "printables": [],
+  "homeText": "CISSP certification exam preparation platform with full-length practice exams, domain-focused practice, realistic scenario-based questions, detailed explanations, progress tracking, and printable practice materials.",
+  "disclaimer": "This practice platform uses original preparation materials and is not affiliated with or endorsed by ISC2.",
+  "examFiles": []
+}
