@@ -493,16 +493,22 @@ if (mode === "practice") {
   );
 
   if (section.id === "full") {
-    if (chosen.questions.length !== 100) {
+    const expectedFullLengthQuestions =
+      Number(section.examQuestions || 0);
+
+    if (
+      expectedFullLengthQuestions > 0 &&
+      chosen.questions.length !== expectedFullLengthQuestions
+    ) {
       throw new Error(
-        `${chosen.file} must contain exactly 100 questions for Full-Length Exam Mode; found ${chosen.questions.length}.`
+        `${chosen.file} must contain exactly ${expectedFullLengthQuestions} questions for Full-Length Exam Mode; found ${chosen.questions.length}.`
       );
     }
 
     sessionQs = chosen.questions;
 
     metaText =
-      `Full-Length Practice Test — ${chosen.file} — 100 questions`;
+      `Full-Length Practice Test — ${chosen.file} — ${sessionQs.length} questions`;
   } else {
     sessionQs = chosen.questions;
 
