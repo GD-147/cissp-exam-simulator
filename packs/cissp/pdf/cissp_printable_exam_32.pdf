@@ -1,0 +1,1109 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4085 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 32 - Domain 8 - Software Development Security) Tj
+0 -13 Td
+/F2 11 Tf
+(Practice Exam 04 - Domain 8) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP4-136\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: After an acquisition, a telecommunications company has one team using a phase-) Tj
+0 -13 Td
+/F1 9 Tf
+(gated Waterfall process and another releasing through short Agile iterations. Leadership) Tj
+0 -13 Td
+/F1 9 Tf
+(wants a single secure development policy without forcing both teams into the same workflow.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which approach would BEST meet this objective?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Require both teams to use identical security documents and approval dates) Tj
+0 -13 Td
+/F1 9 Tf
+(   regardless of their delivery method.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Let each team define its own security objectives because methodology determines) Tj
+0 -13 Td
+/F1 9 Tf
+(   acceptable risk.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Define common security outcomes and required evidence, then map activities and) Tj
+0 -13 Td
+/F1 9 Tf
+(   decision points to each methodology's lifecycle.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Apply security requirements only to the Waterfall team because iterative) Tj
+0 -13 Td
+/F1 9 Tf
+(   development cannot support formal assurance.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP4-137\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A multinational retailer has too few application security specialists to attend) Tj
+0 -13 Td
+/F1 9 Tf
+(every development meeting. Engineering leaders propose naming a security champion within) Tj
+0 -13 Td
+/F1 9 Tf
+(each product team.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the MOST important condition for the program to succeed?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Provide champions with defined responsibilities, training, protected time, central) Tj
+0 -13 Td
+/F1 9 Tf
+(   guidance, and an escalation path to security specialists.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Transfer full risk acceptance authority to champions so central security review is) Tj
+0 -13 Td
+/F1 9 Tf
+(   no longer required.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Select only the most senior developer on each team, regardless of interest or) Tj
+0 -13 Td
+/F1 9 Tf
+(   available time.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Measure the program solely by the number of security messages champions send to) Tj
+0 -13 Td
+/F1 9 Tf
+(   their teams.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP4-138\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regional bank will hire an external firm to build a customer onboarding) Tj
+0 -13 Td
+/F1 9 Tf
+(application. The business sponsor assumes the supplier's standard development process will) Tj
+0 -13 Td
+/F1 9 Tf
+(transfer responsibility for software security to the supplier.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security manager recommend FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Accept the supplier's process without review because contractual outsourcing) Tj
+0 -13 Td
+/F1 9 Tf
+(   transfers security accountability.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Wait until final delivery and use a penetration test as the only software security) Tj
+0 -13 Td
+/F1 9 Tf
+(   acceptance criterion.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Give the supplier unrestricted access to production data so functional testing) Tj
+0 -13 Td
+/F1 9 Tf
+(   matches real operations.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Define security requirements, development practices, evidence, defect remediation,) Tj
+0 -13 Td
+/F1 9 Tf
+(   data handling, and acceptance rights in the agreement and governance plan.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP4-139\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A software director wants metrics that show whether secure development practices) Tj
+0 -13 Td
+/F1 9 Tf
+(are reducing material risk across several product teams. Current reports show only the total) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4079 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(number of scanner findings generated each month.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO metrics would provide the MOST useful improvement evidence? Select 2 of the 5) Tj
+0 -13 Td
+/F1 10 Tf
+(options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. The raw number of findings produced by every tool without validation or) Tj
+0 -13 Td
+/F1 9 Tf
+(   normalization.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The rate and severity of vulnerabilities escaping to later lifecycle stages or) Tj
+0 -13 Td
+/F1 9 Tf
+(   production, normalized to meaningful delivery units.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. The number of source-code lines added by each team during the reporting period.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. The percentage of developers who opened the annual training invitation email.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Risk-tiered remediation time and recurrence trends for validated vulnerability) Tj
+0 -13 Td
+/F1 9 Tf
+(   classes.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP4-140\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A mortgage company lets developers troubleshoot in a test environment that shares) Tj
+0 -13 Td
+/F1 9 Tf
+(production service credentials and receives nightly copies of unmasked customer data. The) Tj
+0 -13 Td
+/F1 9 Tf
+(team says this arrangement is necessary to reproduce defects accurately.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which remediation BEST balances testing needs with lifecycle security?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Keep the shared credentials but rotate them whenever a developer leaves the) Tj
+0 -13 Td
+/F1 9 Tf
+(   company.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Segregate the environments, issue separate least-privilege credentials, and use) Tj
+0 -13 Td
+/F1 9 Tf
+(   masked, minimized, or synthetic test data with controlled exceptions.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Continue copying production data but require developers to acknowledge its) Tj
+0 -13 Td
+/F1 9 Tf
+(   sensitivity each month.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Eliminate the test environment and require all defect reproduction to occur in) Tj
+0 -13 Td
+/F1 9 Tf
+(   production under supervision.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP4-141\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A media conversion service constructs a shell command by concatenating a user-) Tj
+0 -13 Td
+/F1 9 Tf
+(supplied output filename. Character filtering is applied, but reviewers demonstrate several) Tj
+0 -13 Td
+/F1 9 Tf
+(encoding techniques that still alter the command.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST corrective action?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Replace shell invocation with a safe library interface that passes validated allow-) Tj
+0 -13 Td
+/F1 9 Tf
+(   listed values as distinct arguments under least privilege.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Expand the deny list whenever a new command separator is discovered during testing.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Run the existing shell command with additional logging so suspicious filenames can) Tj
+0 -13 Td
+/F1 9 Tf
+(   be investigated.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Encode the completed command before execution and decode it inside the shell) Tj
+0 -13 Td
+/F1 9 Tf
+(   process.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP4-142\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A print service verifies that a temporary file belongs to the requesting user,) Tj
+0 -13 Td
+/F1 9 Tf
+(closes it, and later reopens the same path for processing. An attacker can replace the path) Tj
+0 -13 Td
+/F1 9 Tf
+(between the ownership check and the reopen operation.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which design change MOST directly addresses the vulnerability?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Repeat the ownership check once per hour and retain the existing open sequence.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Choose longer temporary filenames so an attacker is less likely to predict the) Tj
+0 -13 Td
+/F1 9 Tf
+(   path.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Log the path before and after processing to support investigation of replaced) Tj
+0 -13 Td
+/F1 9 Tf
+(   files.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4016 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   D. Open and validate the resource through an atomic, secure operation and continue) Tj
+0 -13 Td
+/F1 9 Tf
+(   using the validated handle rather than reopening by path.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP4-143\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A payroll portal uses session cookies and accepts a state-changing request that) Tj
+0 -13 Td
+/F1 9 Tf
+(updates direct-deposit details. A user who is logged in can be induced by another website to) Tj
+0 -13 Td
+/F1 9 Tf
+(submit the request without realizing it.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which control is the BEST primary defense?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Increase the session cookie length while leaving the request workflow unchanged.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Hide the direct-deposit form URL from users who have not recently visited the) Tj
+0 -13 Td
+/F1 9 Tf
+(   payroll home page.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Require a validated anti-forgery token for state-changing requests and use) Tj
+0 -13 Td
+/F1 9 Tf
+(   appropriate cookie protections as defense in depth.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Encrypt the employee database so forged requests cannot modify stored account) Tj
+0 -13 Td
+/F1 9 Tf
+(   information.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP4-144\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A scientific computing company allows project teams to select arbitrary public) Tj
+0 -13 Td
+/F1 9 Tf
+(container base images. Scans show inconsistent operating system packages, outdated) Tj
+0 -13 Td
+/F1 9 Tf
+(components, and images whose maintainers cannot be identified.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which program would BEST reduce this recurring risk?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Permit any public image if the project team records its download date in the) Tj
+0 -13 Td
+/F1 9 Tf
+(   repository.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Provide approved minimal base images from a controlled registry, verify provenance,) Tj
+0 -13 Td
+/F1 9 Tf
+(   scan and rebuild them regularly, and track dependent applications.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Scan finished application code while excluding base image packages from the) Tj
+0 -13 Td
+/F1 9 Tf
+(   component inventory.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow teams to retain outdated images when the container starts successfully in a) Tj
+0 -13 Td
+/F1 9 Tf
+(   development environment.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP4-145\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A telehealth application records complete request bodies to help support staff) Tj
+0 -13 Td
+/F1 9 Tf
+(diagnose errors. The logs now contain authentication tokens and patient details, and they) Tj
+0 -13 Td
+/F1 9 Tf
+(are retained in a broadly accessible analytics platform.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST remediation strategy?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Encrypt the existing logs but continue collecting complete request bodies for every) Tj
+0 -13 Td
+/F1 9 Tf
+(   transaction.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Obtain user consent for diagnostic logging and leave access and retention) Tj
+0 -13 Td
+/F1 9 Tf
+(   unchanged.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Move the same logs to a separate storage account while preserving broad support) Tj
+0 -13 Td
+/F1 9 Tf
+(   access.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Define an allow-listed logging schema, redact or exclude sensitive fields, restrict) Tj
+0 -13 Td
+/F1 9 Tf
+(   access, set risk-based retention, and test logging behavior.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP4-146\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A tax preparation software team receives thousands of static analysis alerts.) Tj
+0 -13 Td
+/F1 9 Tf
+(Developers have begun ignoring the reports because many findings are not exploitable in the) Tj
+0 -13 Td
+/F1 9 Tf
+(application's context, yet some high-risk defects have also been missed during triage.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the application security manager do?) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4193 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   A. Validate representative findings, tune rules using contextual evidence, prioritize) Tj
+0 -13 Td
+/F1 9 Tf
+(   by risk, and govern suppressions with owners, rationale, and review dates.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Disable static analysis until the tool can produce a report with no false) Tj
+0 -13 Td
+/F1 9 Tf
+(   positives.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Require developers to remediate every alert in the order generated, regardless of) Tj
+0 -13 Td
+/F1 9 Tf
+(   exploitability or severity.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Automatically suppress any rule that generated more findings than the team closed) Tj
+0 -13 Td
+/F1 9 Tf
+(   during the previous release.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP4-147\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A university scans its student services application dynamically without) Tj
+0 -13 Td
+/F1 9 Tf
+(authentication. The scan reports few findings, but most functions are available only after) Tj
+0 -13 Td
+/F1 9 Tf
+(login and behavior differs among student, instructor, and administrator roles.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which change would MOST improve the assessment's coverage?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Increase the unauthenticated scan rate so the public login page receives more) Tj
+0 -13 Td
+/F1 9 Tf
+(   requests.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Treat the small finding count as evidence that protected functions are secure.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Provide controlled test identities for relevant roles, map authenticated workflows) Tj
+0 -13 Td
+/F1 9 Tf
+(   and states, and supplement runtime testing where coverage gaps remain.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Disable role separation in the test environment so one account can access every) Tj
+0 -13 Td
+/F1 9 Tf
+(   function.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP4-148\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A fitness application team wants to add a third-party analytics software) Tj
+0 -13 Td
+/F1 9 Tf
+(development kit. The package requests device identifiers and location permissions that) Tj
+0 -13 Td
+/F1 9 Tf
+(exceed the team's stated measurement needs, and its data destinations are not fully) Tj
+0 -13 Td
+/F1 9 Tf
+(documented.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security and privacy reviewers recommend FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Integrate the package because mobile operating system permissions provide) Tj
+0 -13 Td
+/F1 9 Tf
+(   sufficient supplier assurance.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Map and test the SDK's data collection and destinations, challenge unnecessary) Tj
+0 -13 Td
+/F1 9 Tf
+(   permissions, assess the supplier, and establish enforceable data-handling terms before) Tj
+0 -13 Td
+/F1 9 Tf
+(   approval.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Publish a broad privacy notice after release without changing the SDK configuration) Tj
+0 -13 Td
+/F1 9 Tf
+(   or integration decision.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow the SDK to collect all requested data and delete the application's local copy) Tj
+0 -13 Td
+/F1 9 Tf
+(   immediately afterward.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP4-149\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An online marketplace has released a new API version with stronger validation and) Tj
+0 -13 Td
+/F1 9 Tf
+(authorization controls. Several partners still use the older version, which remains) Tj
+0 -13 Td
+/F1 9 Tf
+(internet-accessible and cannot support the new controls.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST risk treatment?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Keep both versions available indefinitely because partner compatibility has) Tj
+0 -13 Td
+/F1 9 Tf
+(   priority over control consistency.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Hide the older version from public documentation while continuing to accept) Tj
+0 -13 Td
+/F1 9 Tf
+(   requests to it.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Apply the new controls only at the client side for partners that cannot migrate.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Inventory consumers, communicate a supported migration path and deadline, monitor) Tj
+0 -13 Td
+/F1 9 Tf
+(   adoption, apply interim restrictions, and decommission the legacy version.) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 1532 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP4-150\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A food processing company depends on proprietary software from a small supplier) Tj
+0 -13 Td
+/F1 9 Tf
+(for plant scheduling. Replacement would take many months, and executives are concerned that) Tj
+0 -13 Td
+/F1 9 Tf
+(supplier failure could leave the company without security updates or maintenance capability.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO provisions would make source-code escrow MOST effective? Select 2 of the 5 options) Tj
+0 -13 Td
+/F1 10 Tf
+(below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Define objective release triggers and require current source, dependencies, build) Tj
+0 -13 Td
+/F1 9 Tf
+(   instructions, and necessary documentation to be deposited on a recurring basis.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Store only the original installation binary because compiled software is sufficient) Tj
+0 -13 Td
+/F1 9 Tf
+(   for future maintenance.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Allow the supplier to decide after a business failure whether the customer) Tj
+0 -13 Td
+/F1 9 Tf
+(   qualifies to receive the deposit.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Treat the existence of an escrow agreement as proof that deposited materials can) Tj
+0 -13 Td
+/F1 9 Tf
+(   produce a maintainable application.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Arrange independent periodic verification that deposits are complete, retrievable,) Tj
+0 -13 Td
+/F1 9 Tf
+(   and capable of producing the agreed software.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4502 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP4-136\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Common security outcomes establish consistent expectations, while methodology-specific) Tj
+0 -13 Td
+/F1 9 Tf
+(mappings place reviews, testing, and evidence where they work in each lifecycle. Identical) Tj
+0 -13 Td
+/F1 9 Tf
+(schedules can disrupt delivery without improving assurance. Teams should not independently) Tj
+0 -13 Td
+/F1 9 Tf
+(redefine risk objectives, and iterative development can support formal controls through) Tj
+0 -13 Td
+/F1 9 Tf
+(recurring, automated, and risk-based activities.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP4-137\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Champions need clear duties, competence, time, support, and escalation so they can embed) Tj
+0 -13 Td
+/F1 9 Tf
+(security without becoming isolated substitutes for specialists or management. Risk) Tj
+0 -13 Td
+/F1 9 Tf
+(acceptance remains with authorized management. Seniority alone does not ensure engagement or) Tj
+0 -13 Td
+/F1 9 Tf
+(capacity, and message volume does not demonstrate improved software outcomes.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP4-138\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(The bank retains accountability and should establish enforceable expectations, evidence,) Tj
+0 -13 Td
+/F1 9 Tf
+(remediation duties, data controls, and acceptance criteria before development begins.) Tj
+0 -13 Td
+/F1 9 Tf
+(Outsourcing work does not outsource risk ownership. A final penetration test is useful but) Tj
+0 -13 Td
+/F1 9 Tf
+(too narrow as the sole control, and unrestricted production data creates unnecessary) Tj
+0 -13 Td
+/F1 9 Tf
+(exposure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP4-139\) - Correct: B, E) Tj
+0 -13 Td
+/F1 9 Tf
+(Escaped-vulnerability trends show whether controls detect problems early, while risk-tiered) Tj
+0 -13 Td
+/F1 9 Tf
+(remediation and recurrence reveal responsiveness and whether root causes are being) Tj
+0 -13 Td
+/F1 9 Tf
+(addressed. Raw tool output is distorted by false positives and scan coverage. Code volume is) Tj
+0 -13 Td
+/F1 9 Tf
+(not a risk measure, and opening a training invitation does not demonstrate learning or) Tj
+0 -13 Td
+/F1 9 Tf
+(improved behavior.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP4-140\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Environment separation, distinct credentials, and safe representative data reduce the chance) Tj
+0 -13 Td
+/F1 9 Tf
+(that development activity compromises production or exposes customers. Rotation on departure) Tj
+0 -13 Td
+/F1 9 Tf
+(does not correct shared privilege. Acknowledgment is not a data protection control, and) Tj
+0 -13 Td
+/F1 9 Tf
+(production troubleshooting increases operational and security risk rather than containing) Tj
+0 -13 Td
+/F1 9 Tf
+(it.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP4-141\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Avoiding the shell removes command interpretation from the data path, while allow-listed) Tj
+0 -13 Td
+/F1 9 Tf
+(arguments and least privilege provide additional protection. A deny list is difficult to) Tj
+0 -13 Td
+/F1 9 Tf
+(make complete across encodings and shell behavior. Logging is detective, and encoding the) Tj
+0 -13 Td
+/F1 9 Tf
+(same command does not prevent the shell from interpreting malicious content after decoding.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP4-142\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(An atomic secure open and continued use of the validated handle remove the gap in which the) Tj
+0 -13 Td
+/F1 9 Tf
+(path can be redirected between check and use. Periodic checking does not protect an) Tj
+0 -13 Td
+/F1 9 Tf
+(individual operation. Less predictable names can help but do not eliminate the race, and) Tj
+0 -13 Td
+/F1 9 Tf
+(logging detects evidence after the unsafe access may have occurred.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP4-143\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(An unpredictable request-bound anti-forgery token demonstrates that the action originated) Tj
+0 -13 Td
+/F1 9 Tf
+(through the legitimate application flow; suitable SameSite and other cookie settings add) Tj
+0 -13 Td
+/F1 9 Tf
+(defense in depth. Cookie length protects against guessing, not cross-site submission. Hidden) Tj
+0 -13 Td
+/F1 9 Tf
+(URLs do not enforce origin, and database encryption does not stop the authenticated) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4035 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(application from processing a forged request.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP4-144\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Controlled minimal images with verified provenance, recurring maintenance, and dependency) Tj
+0 -13 Td
+/F1 9 Tf
+(tracking reduce unknown components and make affected applications identifiable when an image) Tj
+0 -13 Td
+/F1 9 Tf
+(changes. A download date does not establish trust. Application-only scanning misses) Tj
+0 -13 Td
+/F1 9 Tf
+(operating system packages, and successful startup provides no evidence that an old image is) Tj
+0 -13 Td
+/F1 9 Tf
+(secure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP4-145\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Data minimization at the source prevents unnecessary secrets and health information from) Tj
+0 -13 Td
+/F1 9 Tf
+(entering logs, while access, retention, and testing provide layered protection. Encryption) Tj
+0 -13 Td
+/F1 9 Tf
+(does not justify excessive collection. Consent alone does not correct insecure design, and) Tj
+0 -13 Td
+/F1 9 Tf
+(moving the data without reducing content or access preserves the underlying exposure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP4-146\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Evidence-based tuning and risk prioritization improve signal quality, while governed) Tj
+0 -13 Td
+/F1 9 Tf
+(suppressions preserve accountability for accepted or context-dependent findings. Eliminating) Tj
+0 -13 Td
+/F1 9 Tf
+(the technique forfeits early detection. Treating every alert equally wastes effort, and) Tj
+0 -13 Td
+/F1 9 Tf
+(volume-based suppression can conceal important weaknesses without considering exploitability) Tj
+0 -13 Td
+/F1 9 Tf
+(or impact.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP4-147\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Role-specific test identities and mapped workflows allow runtime assessment of the) Tj
+0 -13 Td
+/F1 9 Tf
+(functions, authorization paths, and application states users actually reach. Faster requests) Tj
+0 -13 Td
+/F1 9 Tf
+(to the public surface do not add authenticated coverage. A low finding count may reflect) Tj
+0 -13 Td
+/F1 9 Tf
+(limited reach, and removing role separation changes the behavior that must be assessed.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP4-148\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Reviewers need evidence about actual data flows, necessity, supplier controls, and) Tj
+0 -13 Td
+/F1 9 Tf
+(enforceable obligations before embedding third-party code. Operating system permissions) Tj
+0 -13 Td
+/F1 9 Tf
+(expose capabilities but do not prove appropriate use. Notice alone does not minimize) Tj
+0 -13 Td
+/F1 9 Tf
+(collection, and deleting a local copy does not control data already transmitted to the) Tj
+0 -13 Td
+/F1 9 Tf
+(supplier.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP4-149\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(A governed deprecation process balances partner transition with a defined end to the) Tj
+0 -13 Td
+/F1 9 Tf
+(insecure exposure, using visibility and interim safeguards while migration occurs.) Tj
+0 -13 Td
+/F1 9 Tf
+(Indefinite support preserves the weakness. Removing documentation is obscurity, and client-) Tj
+0 -13 Td
+/F1 9 Tf
+(side controls cannot reliably compensate for missing server-side validation and) Tj
+0 -13 Td
+/F1 9 Tf
+(authorization.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP4-150\) - Correct: A, E) Tj
+0 -13 Td
+/F1 9 Tf
+(Objective triggers and recurring complete deposits establish when and what can be released,) Tj
+0 -13 Td
+/F1 9 Tf
+(while independent verification demonstrates that the materials are usable rather than merely) Tj
+0 -13 Td
+/F1 9 Tf
+(present. A binary alone does not enable source maintenance. Supplier discretion can defeat) Tj
+0 -13 Td
+/F1 9 Tf
+(access when the supplier is unavailable, and an untested agreement does not prove) Tj
+0 -13 Td
+/F1 9 Tf
+(buildability or completeness.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 17 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 7 >>
+endobj
+18 0 obj
+<< /Type /Catalog /Pages 17 0 R >>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004351 00000 n 
+0000004488 00000 n 
+0000008619 00000 n 
+0000008756 00000 n 
+0000012824 00000 n 
+0000012961 00000 n 
+0000017206 00000 n 
+0000017344 00000 n 
+0000018929 00000 n 
+0000019068 00000 n 
+0000023623 00000 n 
+0000023762 00000 n 
+0000027850 00000 n 
+0000027989 00000 n 
+0000028087 00000 n 
+trailer
+<< /Size 19 /Root 18 0 R >>
+startxref
+28138
+%%EOF

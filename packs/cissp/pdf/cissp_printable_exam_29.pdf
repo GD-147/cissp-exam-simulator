@@ -1,0 +1,1301 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4081 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 29 - Domain 5 - Identity and Access Management \(IAM\)) Tj
+0 -13 Td
+/F2 11 Tf
+(Practice Exam 04 - Domain 5) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP4-079\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A transportation authority detects low-rate sign-in attempts against hundreds of) Tj
+0 -13 Td
+/F1 9 Tf
+(employee accounts. Each account receives only a few failures, so the current fixed lockout) Tj
+0 -13 Td
+/F1 9 Tf
+(threshold is not reached. Lowering the threshold would let an attacker lock out large) Tj
+0 -13 Td
+/F1 9 Tf
+(portions of the workforce.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which response BEST addresses the attack while preserving availability?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Remove all failed-sign-in limits so legitimate users cannot be locked out) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Apply the same permanent lockout after one failure to every employee account) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use adaptive throttling and detection across accounts, sources, and authentication) Tj
+0 -13 Td
+/F1 9 Tf
+(   patterns) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Increase the password expiration frequency without changing failure monitoring) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP4-080\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A customer may remain signed in to an investment portal for routine portfolio) Tj
+0 -13 Td
+/F1 9 Tf
+(viewing. Changing the destination bank account for withdrawals creates substantially greater) Tj
+0 -13 Td
+/F1 9 Tf
+(risk than ordinary viewing activity.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the portal require immediately before accepting the bank-account change?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Fresh authentication appropriate to the transaction's risk, even if the existing) Tj
+0 -13 Td
+/F1 9 Tf
+(   session is active) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A longer remaining session lifetime so the change is not interrupted) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A copy of the session identifier displayed back to the customer) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Authorization based solely on the device having accessed the portfolio previously) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP4-081\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A hospitality company learns that protected fingerprint templates used for) Tj
+0 -13 Td
+/F1 9 Tf
+(workforce authentication may have been exposed. Unlike passwords, the underlying biometric) Tj
+0 -13 Td
+/F1 9 Tf
+(characteristic cannot simply be changed by affected employees.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which response is MOST appropriate?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Continue accepting the same biometric alone because the stored values were) Tj
+0 -13 Td
+/F1 9 Tf
+(   templates rather than images) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Ask employees to reenroll the same fingerprint and treat it as a newly issued) Tj
+0 -13 Td
+/F1 9 Tf
+(   secret) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Lower the biometric match threshold so legitimate employees encounter fewer) Tj
+0 -13 Td
+/F1 9 Tf
+(   failures) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Revoke the affected enrollment, use an independent factor, and replace the) Tj
+0 -13 Td
+/F1 9 Tf
+(   compromised template protection before reenrollment) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP4-082\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: At a records facility, an employee enters a unique identifier, proves possession) Tj
+0 -13 Td
+/F1 9 Tf
+(of a smart card with a personal identification number, and then requests entry to an archive) Tj
+0 -13 Td
+/F1 9 Tf
+(room. The system checks the employee's assigned clearance before unlocking the door.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which event represents authorization?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. The employee presents the unique identifier) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The system evaluates the assigned clearance before unlocking the archive) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4242 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   C. The employee proves possession of the smart card) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. The employee enters the personal identification number) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP4-083\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: Analysts in a shared operations room frequently leave authenticated workstations) Tj
+0 -13 Td
+/F1 9 Tf
+(unattended for short periods. Authorized staff and escorted maintenance personnel may both) Tj
+0 -13 Td
+/F1 9 Tf
+(be present in the room.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO controls would MOST directly reduce unauthorized use of unattended sessions?) Tj
+0 -13 Td
+/F1 10 Tf
+(Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Require analysts to acknowledge a policy against leaving sessions unattended) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Automatically lock the workstation after a short period of inactivity and require) Tj
+0 -13 Td
+/F1 9 Tf
+(   reauthentication) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Expand video monitoring and review footage after suspected misuse) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Require analysts to change their passwords every thirty days) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Enforce escort and physical-access boundaries that keep maintenance personnel under) Tj
+0 -13 Td
+/F1 9 Tf
+(   authorized supervision) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP4-084\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A benefits provider receives signed SAML assertions containing sensitive) Tj
+0 -13 Td
+/F1 9 Tf
+(employment attributes. The signature lets the provider detect modification, but the security) Tj
+0 -13 Td
+/F1 9 Tf
+(architect also wants only the intended provider to read the assertion contents if an) Tj
+0 -13 Td
+/F1 9 Tf
+(intermediary captures them.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which additional control BEST meets the confidentiality requirement?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Increase the assertion validity period so decryption can be retried) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Add more attributes to make the signed assertion harder to reproduce) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Replace the identity provider's signature with an unsigned checksum) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Encrypt the assertion for the intended service provider in addition to signing it) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP4-085\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A scheduled billing service must call an internal tax-calculation API. No employee) Tj
+0 -13 Td
+/F1 9 Tf
+(is present during the transaction, and the billing service needs only a narrowly defined) Tj
+0 -13 Td
+/F1 9 Tf
+(machine-to-machine permission.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which authorization approach is MOST appropriate?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Use an employee's interactive session and renew it whenever the job runs) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Authenticate the billing service as a confidential client and issue a scoped access) Tj
+0 -13 Td
+/F1 9 Tf
+(   token for its own identity) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Create a shared human username and store its password in the billing database) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Issue an identity token for a fictional employee and use it as API authorization) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP4-086\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A collaboration portal accepts OpenID Connect sign-ins from several partner) Tj
+0 -13 Td
+/F1 9 Tf
+(identity providers. It currently links users to local accounts by email address alone, even) Tj
+0 -13 Td
+/F1 9 Tf
+(though two issuers could assert the same address or an address could later be reassigned.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which account-correlation method BEST reduces the risk of linking the wrong identity?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Use the validated combination of issuer and subject identifier as the federated) Tj
+0 -13 Td
+/F1 9 Tf
+(   identity key) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Use the displayed name because users can recognize it more easily) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use email alone but ignore which identity provider issued the claim) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Create one local account for every email domain and share it among that partner's) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4166 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   users) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP4-087\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A securities portal accepts federated identities from multiple corporate partners.) Tj
+0 -13 Td
+/F1 9 Tf
+(Some partners authenticate users with strong multifactor methods, while others use passwords) Tj
+0 -13 Td
+/F1 9 Tf
+(only. The portal requires higher assurance before allowing trade approval.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO controls BEST support the portal's requirement? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Accept assurance information only from validated, approved issuers and map it to) Tj
+0 -13 Td
+/F1 9 Tf
+(   the portal's defined requirement) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Assume every assertion has the same assurance because all partners have signed) Tj
+0 -13 Td
+/F1 9 Tf
+(   agreements) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Require step-up authentication when the federated session does not meet the trade-) Tj
+0 -13 Td
+/F1 9 Tf
+(   approval assurance level) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow each partner's assurance labels to pass through without an agreed) Tj
+0 -13 Td
+/F1 9 Tf
+(   interpretation) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Treat a recent authentication timestamp as proof that multifactor authentication) Tj
+0 -13 Td
+/F1 9 Tf
+(   was used) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP4-088\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A shipping marketplace ends its business relationship with a regional broker. The) Tj
+0 -13 Td
+/F1 9 Tf
+(broker's identity provider can still issue assertions, and previously federated broker users) Tj
+0 -13 Td
+/F1 9 Tf
+(retain mapped local roles in the marketplace.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the marketplace do FIRST to end federated access reliably?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Retain the trust until every broker user confirms that access is no longer needed) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Shorten the names of the broker's mapped roles while leaving assignments active) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Disable the broker issuer's trust, terminate active sessions, and remove or suspend) Tj
+0 -13 Td
+/F1 9 Tf
+(   associated local access) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Ask the broker to stop sending assertions without changing marketplace) Tj
+0 -13 Td
+/F1 9 Tf
+(   configuration) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP4-089\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A customer-support organization has three specialist roles. All specialists need) Tj
+0 -13 Td
+/F1 9 Tf
+(the permissions of a general support agent, and each specialist group also needs a small set) Tj
+0 -13 Td
+/F1 9 Tf
+(of distinct functions. Administrators currently duplicate the general permissions in every) Tj
+0 -13 Td
+/F1 9 Tf
+(role.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which RBAC design BEST simplifies administration?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Create a general role with common permissions and let specialist roles inherit it) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Give each specialist discretionary ownership of the support application) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Create one individual role for every employee and copy all permissions into it) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Replace job roles with a rule based only on the time of day) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP4-090\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A clinical-research platform permits dataset access when a user's project-) Tj
+0 -13 Td
+/F1 9 Tf
+(assignment attribute matches the dataset. Employees removed from projects sometimes retain) Tj
+0 -13 Td
+/F1 9 Tf
+(access for days because the authorization service relies on a stale directory cache.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which improvement MOST directly addresses the authorization weakness?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Add more project roles while continuing to use the same stale attribute source) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Let users edit their own project-assignment attributes when work changes) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Treat a missing project attribute as permission to access all datasets) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4108 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   D. Obtain the attribute from an authoritative source with timely updates and fail) Tj
+0 -13 Td
+/F1 9 Tf
+(   securely when it is unavailable) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP4-091\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An employee who created a classified engineering document wants to lower its label) Tj
+0 -13 Td
+/F1 9 Tf
+(so a wider project team can read it. The organization uses mandatory access control, and) Tj
+0 -13 Td
+/F1 9 Tf
+(document creators are not classification authorities.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(How should the request be handled?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Allow the creator to lower the label because ownership includes classification) Tj
+0 -13 Td
+/F1 9 Tf
+(   authority) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Require an authorized classification decision before changing the centrally) Tj
+0 -13 Td
+/F1 9 Tf
+(   enforced label) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Remove the label and rely on the creator's discretionary access list) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Permit the downgrade if every intended reader has authenticated successfully) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP4-092\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A product manager owns several shared planning folders and controls their) Tj
+0 -13 Td
+/F1 9 Tf
+(discretionary access lists. The manager leaves the company, but the folders remain active) Tj
+0 -13 Td
+/F1 9 Tf
+(and must continue supporting the product team.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST authorization action?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Leave the departed manager as owner so existing permissions remain unchanged) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Make every current folder user a co-owner automatically) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Transfer ownership to an accountable successor and review the existing grants) Tj
+0 -13 Td
+/F1 9 Tf
+(   against current business need) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Remove all access controls because the original owner is no longer available) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP4-093\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A financial-reporting application sends each access request to a remote policy) Tj
+0 -13 Td
+/F1 9 Tf
+(decision point and receives an allow-or-deny response at its policy enforcement point. The) Tj
+0 -13 Td
+/F1 9 Tf
+(architect is concerned about forged responses and interrupted communication.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO controls are MOST important for this design? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Retry an unreadable decision indefinitely while keeping the protected request open) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Authenticate and protect the integrity of decision traffic between the two) Tj
+0 -13 Td
+/F1 9 Tf
+(   components) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Record each returned decision without verifying which component produced it) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Define fail-secure behavior when a valid authorization decision cannot be obtained) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Cache approvals for the entire user session even when relevant policy or attributes) Tj
+0 -13 Td
+/F1 9 Tf
+(   change) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP4-094\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A former employee returns to an airline after two years in a different job. The) Tj
+0 -13 Td
+/F1 9 Tf
+(identity platform can reconnect the worker to the historical identity record, which still) Tj
+0 -13 Td
+/F1 9 Tf
+(lists entitlements from the prior position.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which approach is BEST for the rehire?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Create an unrelated duplicate identity and discard the historical record) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Reactivate every former entitlement because it was previously approved) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Let the returning worker choose which legacy access to restore) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Reconnect the identity history but provision access from the current role and fresh) Tj
+0 -13 Td
+/F1 9 Tf
+(   approvals) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 3877 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP4-095\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: New laboratory employees need access to a hazardous-materials ordering system only) Tj
+0 -13 Td
+/F1 9 Tf
+(after completing required training and receiving supervisor approval. The current onboarding) Tj
+0 -13 Td
+/F1 9 Tf
+(process grants the entitlement on the employee's first day regardless of training status.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which provisioning change BEST enforces the requirement?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Activate the entitlement only after authoritative training completion and) Tj
+0 -13 Td
+/F1 9 Tf
+(   supervisor approval are both recorded) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Grant access immediately and rely on users not to order materials before training) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Provide one trained employee's account to the entire new-hire group) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Assign the entitlement permanently to every laboratory job title) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP4-096\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A departing data scientist used interactive credentials, personal API tokens, and) Tj
+0 -13 Td
+/F1 9 Tf
+(a client certificate to access analytics services. The central directory account has been) Tj
+0 -13 Td
+/F1 9 Tf
+(disabled, but some services validate the token or certificate without checking the directory) Tj
+0 -13 Td
+/F1 9 Tf
+(on every request.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What additional action is MOST important?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Keep the tokens active so completed analyses remain reproducible) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Change only the departed user's directory display name) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Inventory and revoke the user's active tokens, certificates, and downstream) Tj
+0 -13 Td
+/F1 9 Tf
+(   sessions) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Wait for each credential to expire even when immediate revocation is supported) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP4-097\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A database engineer can request temporary production-administrator access and) Tj
+0 -13 Td
+/F1 9 Tf
+(approve the same request using a second workflow role. The access is time-limited and fully) Tj
+0 -13 Td
+/F1 9 Tf
+(logged, but no independent person confirms the business need.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which change would MOST improve governance of the elevation?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Extend the privilege duration so fewer requests require approval) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Require approval by an independent authorized party who cannot be the requester) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Keep self-approval but rename the approval role) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Replace individual elevation with one standing shared administrator account) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 20 \(CISSP4-098\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: After an acquisition, an organization inherits an application with hundreds of) Tj
+0 -13 Td
+/F1 9 Tf
+(poorly described entitlements and no current business owner. The identity team is asked to) Tj
+0 -13 Td
+/F1 9 Tf
+(launch an access review immediately, but reviewers cannot determine what the permissions) Tj
+0 -13 Td
+/F1 9 Tf
+(allow or who may approve them.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should occur FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Retain all entitlements because ownership information is unavailable) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Ask each user to approve that user's own access) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Delete every entitlement before determining application dependencies) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Assign accountable application and entitlement owners, document access meaning, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   then route review decisions) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4512 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP4-079\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Password spraying is distributed across many accounts, so controls should correlate activity) Tj
+0 -13 Td
+/F1 9 Tf
+(broadly and apply proportionate delays, challenges, or blocking without creating an easy) Tj
+0 -13 Td
+/F1 9 Tf
+(mass-lockout mechanism. Removing limits enables guessing, while one-failure permanent) Tj
+0 -13 Td
+/F1 9 Tf
+(lockout creates a denial-of-service opportunity. More frequent expiration does not directly) Tj
+0 -13 Td
+/F1 9 Tf
+(detect or throttle the active pattern.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP4-080\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Fresh, risk-appropriate authentication before a sensitive change limits damage from an) Tj
+0 -13 Td
+/F1 9 Tf
+(unattended or hijacked session. Extending the session increases exposure, and displaying an) Tj
+0 -13 Td
+/F1 9 Tf
+(identifier does not prove the legitimate user is present. Prior device use may be a useful) Tj
+0 -13 Td
+/F1 9 Tf
+(signal but is insufficient by itself for a high-impact destination change.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP4-081\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Because an inherence characteristic has limited revocability, the organization should stop) Tj
+0 -13 Td
+/F1 9 Tf
+(relying on the affected enrollment, require an independent factor, and correct the template-) Tj
+0 -13 Td
+/F1 9 Tf
+(protection weakness before any controlled reenrollment. The fact that templates were exposed) Tj
+0 -13 Td
+/F1 9 Tf
+(does not eliminate risk. Reenrolling the same characteristic without changing protection is) Tj
+0 -13 Td
+/F1 9 Tf
+(not equivalent to issuing a new secret, and a lower threshold increases false acceptance) Tj
+0 -13 Td
+/F1 9 Tf
+(risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP4-082\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Authorization is the decision about whether the authenticated employee may enter the) Tj
+0 -13 Td
+/F1 9 Tf
+(specific archive. The unique identifier supports identification, while the smart card and) Tj
+0 -13 Td
+/F1 9 Tf
+(personal identification number contribute to authentication. Those steps establish identity) Tj
+0 -13 Td
+/F1 9 Tf
+(confidence but do not themselves grant permission to the room.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP4-083\) - Correct: B, E) Tj
+0 -13 Td
+/F1 9 Tf
+(Automatic locking limits use of an unattended authenticated session, while enforced escort) Tj
+0 -13 Td
+/F1 9 Tf
+(and physical boundaries reduce the opportunity for nonanalysts to approach workstations) Tj
+0 -13 Td
+/F1 9 Tf
+(without supervision. Policy acknowledgment relies on behavior, video review is primarily) Tj
+0 -13 Td
+/F1 9 Tf
+(detective, and routine password changes do not stop someone from using a session that is) Tj
+0 -13 Td
+/F1 9 Tf
+(already authenticated.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP4-084\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(A digital signature protects integrity and source authenticity, while encryption for the) Tj
+0 -13 Td
+/F1 9 Tf
+(service provider protects assertion confidentiality from intermediaries. A longer validity) Tj
+0 -13 Td
+/F1 9 Tf
+(period increases exposure. Additional attributes do not provide secrecy, and an unsigned) Tj
+0 -13 Td
+/F1 9 Tf
+(checksum does not establish trustworthy integrity or origin.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP4-085\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A service acting on its own behalf should authenticate as a confidential client and receive) Tj
+0 -13 Td
+/F1 9 Tf
+(an access token scoped to the required API operation. Reusing a human session or shared user) Tj
+0 -13 Td
+/F1 9 Tf
+(credential creates improper dependency and weak attribution. An identity token describes) Tj
+0 -13 Td
+/F1 9 Tf
+(authentication to a client and is not a substitute for an API access token.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP4-086\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(The subject identifier is defined within an issuer's namespace, so the validated issuer-and-) Tj
+0 -13 Td
+/F1 9 Tf
+(subject pair provides the appropriate stable key for federated identity correlation. Display) Tj
+0 -13 Td
+/F1 9 Tf
+(names and email addresses may change or collide. A domain-level shared account would also) Tj
+0 -13 Td
+/F1 9 Tf
+(eliminate individual accountability.) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4472 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP4-087\) - Correct: A, C) Tj
+0 -13 Td
+/F1 9 Tf
+(The portal must trust assurance claims only from approved issuers and map them to its own) Tj
+0 -13 Td
+/F1 9 Tf
+(access requirement; when the achieved assurance is insufficient, step-up authentication) Tj
+0 -13 Td
+/F1 9 Tf
+(closes the gap. A contract alone does not make all authentication methods equivalent.) Tj
+0 -13 Td
+/F1 9 Tf
+(Unmapped partner labels can carry inconsistent meanings, and authentication time does not) Tj
+0 -13 Td
+/F1 9 Tf
+(establish which factors were used.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP4-088\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Ending the technical trust prevents new assertions from being accepted, while session) Tj
+0 -13 Td
+/F1 9 Tf
+(termination and local-access removal address access already established at the relying) Tj
+0 -13 Td
+/F1 9 Tf
+(service. Waiting for users or merely renaming roles leaves access active. A request to the) Tj
+0 -13 Td
+/F1 9 Tf
+(former partner is not an enforcement control within the marketplace.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP4-089\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A role hierarchy centralizes common permissions in the general role and lets specialist) Tj
+0 -13 Td
+/F1 9 Tf
+(roles add only their distinct needs, reducing duplication and inconsistent updates. Resource) Tj
+0 -13 Td
+/F1 9 Tf
+(ownership is not a substitute for job-based authorization. Per-user roles increase) Tj
+0 -13 Td
+/F1 9 Tf
+(administration, and a time rule cannot represent the required job functions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP4-090\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(ABAC decisions are only as reliable as the attributes they evaluate. Timely authoritative) Tj
+0 -13 Td
+/F1 9 Tf
+(updates and secure handling of unavailable attributes prevent removed users from retaining) Tj
+0 -13 Td
+/F1 9 Tf
+(access through stale data. More roles do not correct the source, self-editing undermines) Tj
+0 -13 Td
+/F1 9 Tf
+(trust, and permissive treatment of missing attributes fails open.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP4-091\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Under mandatory access control, security labels and permitted changes are governed by) Tj
+0 -13 Td
+/F1 9 Tf
+(central policy and designated authority, not by the resource creator's discretion. An access) Tj
+0 -13 Td
+/F1 9 Tf
+(list cannot replace the classification decision, and successful authentication does not) Tj
+0 -13 Td
+/F1 9 Tf
+(establish authorization to receive downgraded information.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP4-092\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Discretionary resources still require an active, accountable owner. Transferring ownership) Tj
+0 -13 Td
+/F1 9 Tf
+(and reviewing grants preserves business continuity while removing stale or unjustified) Tj
+0 -13 Td
+/F1 9 Tf
+(access. Retaining a departed owner leaves no responsible decision-maker, and automatic co-) Tj
+0 -13 Td
+/F1 9 Tf
+(ownership broadens authority. Removing controls exposes the folders indiscriminately.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP4-093\) - Correct: B, D) Tj
+0 -13 Td
+/F1 9 Tf
+(Protected, authenticated decision traffic prevents an attacker from forging or altering) Tj
+0 -13 Td
+/F1 9 Tf
+(authorization results, while fail-secure behavior defines a safe outcome when no valid) Tj
+0 -13 Td
+/F1 9 Tf
+(decision is available. Indefinite retry leaves the request unresolved, and logging an) Tj
+0 -13 Td
+/F1 9 Tf
+(unverified result does not make it trustworthy. Unconditional session-long caching can) Tj
+0 -13 Td
+/F1 9 Tf
+(preserve access after a relevant policy or attribute change.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP4-094\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Linking the returning worker to the historical identity preserves attribution and record) Tj
+0 -13 Td
+/F1 9 Tf
+(continuity, while current-role provisioning prevents stale access from being restored) Tj
+0 -13 Td
+/F1 9 Tf
+(automatically. A duplicate identity fragments history. Previous approvals may no longer) Tj
+0 -13 Td
+/F1 9 Tf
+(reflect business need, and the worker is not the accountable approver for legacy) Tj
+0 -13 Td
+/F1 9 Tf
+(entitlements.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP4-095\) - Correct: A) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 2138 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(Provisioning should evaluate the verified prerequisites and activate access only when both) Tj
+0 -13 Td
+/F1 9 Tf
+(are satisfied. User promises do not enforce the condition, and account sharing eliminates) Tj
+0 -13 Td
+/F1 9 Tf
+(individual accountability. Permanent birthright access based only on job title ignores the) Tj
+0 -13 Td
+/F1 9 Tf
+(required training and explicit approval.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP4-096\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Deprovisioning must address every credential and session that can continue operating) Tj
+0 -13 Td
+/F1 9 Tf
+(independently of the disabled directory account. Revoking personal tokens, certificates, and) Tj
+0 -13 Td
+/F1 9 Tf
+(downstream sessions closes those alternate paths. Historical reproducibility does not) Tj
+0 -13 Td
+/F1 9 Tf
+(require active credentials, a display-name change has no revocation effect, and waiting) Tj
+0 -13 Td
+/F1 9 Tf
+(unnecessarily extends exposure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP4-097\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Independent approval provides separation of duties and verifies the stated need before) Tj
+0 -13 Td
+/F1 9 Tf
+(privileged access is granted. Time limits and logging remain valuable but do not compensate) Tj
+0 -13 Td
+/F1 9 Tf
+(for self-authorization. Longer elevation increases exposure, renaming the role changes) Tj
+0 -13 Td
+/F1 9 Tf
+(nothing, and a shared administrator account weakens least privilege and accountability.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 20 \(CISSP4-098\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(A meaningful review requires accountable owners and understandable entitlement information) Tj
+0 -13 Td
+/F1 9 Tf
+(so reviewers can evaluate business need and risk. Default retention preserves potentially) Tj
+0 -13 Td
+/F1 9 Tf
+(excessive access, while self-approval lacks independence. Deleting everything without) Tj
+0 -13 Td
+/F1 9 Tf
+(understanding dependencies can disrupt essential operations and is not an informed access) Tj
+0 -13 Td
+/F1 9 Tf
+(decision.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] /Count 8 >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 19 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004347 00000 n 
+0000004484 00000 n 
+0000008778 00000 n 
+0000008915 00000 n 
+0000013133 00000 n 
+0000013270 00000 n 
+0000017430 00000 n 
+0000017568 00000 n 
+0000021498 00000 n 
+0000021637 00000 n 
+0000026202 00000 n 
+0000026341 00000 n 
+0000030866 00000 n 
+0000031005 00000 n 
+0000033196 00000 n 
+0000033335 00000 n 
+0000033440 00000 n 
+trailer
+<< /Size 21 /Root 20 0 R >>
+startxref
+33491
+%%EOF

@@ -1,0 +1,1022 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4175 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 18 - Domain 2 - Asset Security) Tj
+0 -13 Td
+/F2 11 Tf
+(Practice Exam 03 - Domain 2) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP3-025\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A consumer-lending company builds a forecasting model from several internal) Tj
+0 -13 Td
+/F1 9 Tf
+(datasets. The model does not contain complete source records, but its parameters and outputs) Tj
+0 -13 Td
+/F1 9 Tf
+(can reveal confidential pricing strategy and patterns about high-value customer segments.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(How should the model be classified?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. As public, because the model does not contain complete source records) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. According to the sensitivity and business impact of what the model and its outputs) Tj
+0 -13 Td
+/F1 9 Tf
+(   can reveal) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. At the same level as the least sensitive source dataset used for training) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Only after an external party demonstrates that confidential information can be) Tj
+0 -13 Td
+/F1 9 Tf
+(   inferred) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP3-026\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: Executives at a food-distribution company plan to discuss a confidential) Tj
+0 -13 Td
+/F1 9 Tf
+(acquisition during a conference. The reserved room has thin partitions, visitors use the) Tj
+0 -13 Td
+/F1 9 Tf
+(adjacent space, and notes from prior meetings remain on a whiteboard.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which action BEST satisfies the handling requirement?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Proceed because classification labels apply only to recorded information.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Ask attendees to speak quietly and erase the whiteboard after the discussion.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Hold the meeting as planned but prohibit attendees from taking written notes.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Move the discussion to an approved private location and clear residual information) Tj
+0 -13 Td
+/F1 9 Tf
+(   before and after use.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP3-027\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: During an inventory review, a cloud operations team finds a repository containing) Tj
+0 -13 Td
+/F1 9 Tf
+(years of partner performance data. The original business unit was dissolved, no successor) Tj
+0 -13 Td
+/F1 9 Tf
+(owner is documented, and the operations team cannot determine whether a new analytics) Tj
+0 -13 Td
+/F1 9 Tf
+(request is an authorized use.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the cloud custodian do FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Escalate the ownership gap so an accountable business owner can be assigned before) Tj
+0 -13 Td
+/F1 9 Tf
+(   use and classification decisions are made.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Approve the analytics request because custodians control the repository.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Delete the repository immediately because every asset must have a current owner.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow read-only access while waiting for a future organizational restructuring.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP3-028\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A mining company uses four information classifications, but departments display) Tj
+0 -13 Td
+/F1 9 Tf
+(different abbreviations and colors for the same level. Employees transferring between sites) Tj
+0 -13 Td
+/F1 9 Tf
+(frequently misinterpret which sharing and storage rules apply.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which improvement would MOST directly reduce the handling errors?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Allow each site to keep local markings and publish a yearly comparison chart.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Replace classification markings with the name of the department that created the) Tj
+0 -13 Td
+/F1 9 Tf
+(   information.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Standardize labels and associate each label with centrally defined handling) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 15 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4165 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   requirements.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Remove visible labels and rely on users to determine sensitivity from context.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP3-029\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A medical-device manufacturer is reviewing information assets after selling one) Tj
+0 -13 Td
+/F1 9 Tf
+(product line and entering a new jurisdiction. Some records have lost operational value,) Tj
+0 -13 Td
+/F1 9 Tf
+(while others are now subject to additional disclosure and handling obligations.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO actions are most appropriate? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Keep every existing classification unchanged to preserve consistency over time.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Have accountable owners reassess affected assets against current sensitivity,) Tj
+0 -13 Td
+/F1 9 Tf
+(   criticality, and obligations.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Let custodians lower classifications whenever storage costs increase.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Update handling requirements and labels when the approved reassessment changes an) Tj
+0 -13 Td
+/F1 9 Tf
+(   asset's classification.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Apply the highest classification to every record associated with both product) Tj
+0 -13 Td
+/F1 9 Tf
+(   lines.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP3-030\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A software company allows development teams to create temporary cloud environments) Tj
+0 -13 Td
+/F1 9 Tf
+(for testing. Many environments lack an owner tag, use inconsistent configurations, and) Tj
+0 -13 Td
+/F1 9 Tf
+(continue running months after the associated projects end.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which control would BEST address the lifecycle weakness?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Provision environments through approved templates that require ownership, inventory) Tj
+0 -13 Td
+/F1 9 Tf
+(   registration, and expiration metadata.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Allow unrestricted creation but ask teams to review their resources once a year.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Increase the cloud budget so abandoned environments do not affect active projects.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Exclude temporary resources from asset management because they are not physical) Tj
+0 -13 Td
+/F1 9 Tf
+(   devices.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP3-031\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A news organization must return a malfunctioning workstation under warranty. The) Tj
+0 -13 Td
+/F1 9 Tf
+(device contains nonremovable storage that held embargoed investigative material, and the) Tj
+0 -13 Td
+/F1 9 Tf
+(vendor may replace rather than return the original unit.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the MOST appropriate action before releasing the workstation?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Send the workstation immediately because the warranty agreement establishes vendor) Tj
+0 -13 Td
+/F1 9 Tf
+(   ownership during repair.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Delete visible files and rely on the vendor's standard intake process.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Apply the approved media-handling procedure, including verified sanitization when) Tj
+0 -13 Td
+/F1 9 Tf
+(   feasible or an authorized exception with controlled custody.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Ask the reporter who used the workstation to decide whether the remaining) Tj
+0 -13 Td
+/F1 9 Tf
+(   information is sensitive.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP3-032\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A biotechnology startup frequently prepares new employees by copying the access) Tj
+0 -13 Td
+/F1 9 Tf
+(and equipment assignments of whoever previously held a similar title. Managers do not) Tj
+0 -13 Td
+/F1 9 Tf
+(confirm current duties, and accounts sometimes become active days before the employee's) Tj
+0 -13 Td
+/F1 9 Tf
+(start date.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which change would provide the STRONGEST provisioning control?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Continue copying prior assignments but require the new employee to report) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 15 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4059 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   unnecessary access.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Activate every account early so managers can test the employee's access before) Tj
+0 -13 Td
+/F1 9 Tf
+(   arrival.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use job titles as the sole basis for all access and equipment decisions.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Require manager-approved role needs, effective dates, least-privilege access, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   documented receipt of assigned assets.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP3-033\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An international shipping company finds that a contract requires certain) Tj
+0 -13 Td
+/F1 9 Tf
+(transaction records to be kept for four years, while an applicable regulation requires the) Tj
+0 -13 Td
+/F1 9 Tf
+(same records for seven years. The business unit would prefer two years to reduce storage) Tj
+0 -13 Td
+/F1 9 Tf
+(cost.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which retention period should the records owner adopt?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Two years, because the business unit owns the operational budget) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Seven years, after confirming applicability and documenting the controlling) Tj
+0 -13 Td
+/F1 9 Tf
+(   requirement) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Four years, because a signed contract is more specific than a regulation) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Indefinitely, because conflicting periods make scheduled disposition unsafe) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP3-034\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A public utility is migrating records to a new document platform. The migration) Tj
+0 -13 Td
+/F1 9 Tf
+(team has copied the files but omitted creation dates, owner assignments, legal-hold) Tj
+0 -13 Td
+/F1 9 Tf
+(indicators, and scheduled disposition dates from its test conversion.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should happen before the legacy platform is retired?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Validate and migrate the governance metadata needed to preserve retention,) Tj
+0 -13 Td
+/F1 9 Tf
+(   ownership, and hold requirements.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Reset every migrated record to a new full retention period beginning on the) Tj
+0 -13 Td
+/F1 9 Tf
+(   migration date.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Retain the legacy platform permanently as the only source of recordkeeping) Tj
+0 -13 Td
+/F1 9 Tf
+(   metadata.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Let users recreate metadata only when they next open a migrated record.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP3-035\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A property-management company regularly clones production databases for) Tj
+0 -13 Td
+/F1 9 Tf
+(troubleshooting. The temporary environments are deleted, but their storage snapshots remain) Tj
+0 -13 Td
+/F1 9 Tf
+(for years, retain production classifications, and are accessible to a larger administrator) Tj
+0 -13 Td
+/F1 9 Tf
+(group than the source systems.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST corrective action?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Keep the snapshots because deleting the temporary environments removes the primary) Tj
+0 -13 Td
+/F1 9 Tf
+(   exposure.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Rename the snapshots so administrators understand that they are no longer active.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Inventory the snapshots as data copies, restrict access, and apply approved) Tj
+0 -13 Td
+/F1 9 Tf
+(   retention and secure disposition requirements.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Transfer all snapshots to lower-cost storage without changing permissions or) Tj
+0 -13 Td
+/F1 9 Tf
+(   retention.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP3-036\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A global agricultural company is selecting a data protection standard for research) Tj
+0 -13 Td
+/F1 9 Tf
+(data used in laboratories, shared with universities, stored in cloud services, and archived) Tj
+0 -13 Td
+/F1 9 Tf
+(for patent support. One team recommends adopting whichever standard is easiest for its) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 15 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 3997 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(current tools to implement.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which selection approach is MOST appropriate?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Select the least costly standard and address uncovered risks after incidents occur.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Derive requirements from classification, lifecycle uses, applicable obligations,) Tj
+0 -13 Td
+/F1 9 Tf
+(   and risk, then scope and tailor the selected controls.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use the laboratory team's preferred controls for every environment without) Tj
+0 -13 Td
+/F1 9 Tf
+(   modification.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow each external university to define the company's protection standard.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP3-037\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A recording studio is retiring write-once optical discs containing unreleased) Tj
+0 -13 Td
+/F1 9 Tf
+(material and reusable magnetic tapes containing restricted project backups. Both media sets) Tj
+0 -13 Td
+/F1 9 Tf
+(will leave organizational custody; the tapes support an approved purge technique and will be) Tj
+0 -13 Td
+/F1 9 Tf
+(resold.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO disposition decisions are most appropriate? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Physically destroy the optical discs with an approved process that renders their) Tj
+0 -13 Td
+/F1 9 Tf
+(   data unrecoverable.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Clear the optical discs by deleting their directory entries before recycling.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Relabel the magnetic tapes as blank without performing sanitization.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Purge and verify the magnetic tapes using the approved technique before resale.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Retain both media sets indefinitely because external disposition cannot be made) Tj
+0 -13 Td
+/F1 9 Tf
+(   risk-free.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP3-038\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A benefits administrator wants to strengthen protection for enrollment data.) Tj
+0 -13 Td
+/F1 9 Tf
+(Interviews reveal that information moves from a web form to a processing service, reporting) Tj
+0 -13 Td
+/F1 9 Tf
+(warehouse, support queue, partner feed, and archive, but no complete flow or copy inventory) Tj
+0 -13 Td
+/F1 9 Tf
+(exists.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security architect do FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Purchase a data protection product that covers the web form and expand it later.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Protect only the archive because it contains the longest-lived copy.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Ask each system administrator to select controls independently for the local copy.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Map the end-to-end data lifecycle, including copies, transfers, ownership, access,) Tj
+0 -13 Td
+/F1 9 Tf
+(   retention, and destruction points.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP3-039\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A university's application team copies complete student records into a testing) Tj
+0 -13 Td
+/F1 9 Tf
+(environment to reproduce software defects. Testers need realistic formats and relationships,) Tj
+0 -13 Td
+/F1 9 Tf
+(but they do not need actual student identities or contact details.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which control BEST supports the testing requirement while reducing exposure?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Continue using complete records because the testers are employees.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Move the testing environment to a separate network while leaving the data) Tj
+0 -13 Td
+/F1 9 Tf
+(   unchanged.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Use appropriately de-identified, tokenized, or synthetic test data that preserves) Tj
+0 -13 Td
+/F1 9 Tf
+(   required formats and relationships.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Archive the production records immediately after each test cycle.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 15 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 4423 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP3-025\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A derived analytical asset should be classified according to the information it exposes and) Tj
+0 -13 Td
+/F1 9 Tf
+(the impact of unauthorized disclosure, alteration, or loss. The absence of complete source) Tj
+0 -13 Td
+/F1 9 Tf
+(records does not make the model public. Using the least sensitive input understates risk,) Tj
+0 -13 Td
+/F1 9 Tf
+(and waiting for demonstrated external inference is reactive rather than risk-based.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP3-026\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Handling obligations follow confidential information regardless of whether it is digital,) Tj
+0 -13 Td
+/F1 9 Tf
+(printed, written on a board, or spoken. An approved private location and removal of residual) Tj
+0 -13 Td
+/F1 9 Tf
+(information address both eavesdropping and visual exposure. Speaking quietly or restricting) Tj
+0 -13 Td
+/F1 9 Tf
+(notes does not adequately control the environment.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP3-027\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(The custodian should preserve the asset and escalate the missing accountability so an) Tj
+0 -13 Td
+/F1 9 Tf
+(authorized business owner can determine classification, permitted use, and disposition.) Tj
+0 -13 Td
+/F1 9 Tf
+(Operating the repository does not grant business decision authority. Immediate deletion may) Tj
+0 -13 Td
+/F1 9 Tf
+(violate retention needs, while provisional access could enable an unauthorized secondary) Tj
+0 -13 Td
+/F1 9 Tf
+(use.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP3-028\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Consistent labels tied to defined handling rules give users a common, actionable indication) Tj
+0 -13 Td
+/F1 9 Tf
+(of how assets must be protected. Local variations preserve ambiguity, department names do) Tj
+0 -13 Td
+/F1 9 Tf
+(not express sensitivity, and removing labels forces subjective decisions that increase) Tj
+0 -13 Td
+/F1 9 Tf
+(inconsistent handling.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP3-029\) - Correct: B, D) Tj
+0 -13 Td
+/F1 9 Tf
+(Material changes in business use and legal context warrant an owner-led reassessment,) Tj
+0 -13 Td
+/F1 9 Tf
+(followed by updated labels and handling rules when the classification changes. Freezing all) Tj
+0 -13 Td
+/F1 9 Tf
+(classifications ignores current risk, custodians should not downgrade assets for cost) Tj
+0 -13 Td
+/F1 9 Tf
+(reasons, and classifying everything at the highest level creates unnecessary restrictions) Tj
+0 -13 Td
+/F1 9 Tf
+(without a risk-based basis.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP3-030\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Temporary virtual resources remain organizational assets and need secure, accountable) Tj
+0 -13 Td
+/F1 9 Tf
+(provisioning. Approved templates combined with required ownership, inventory, and expiration) Tj
+0 -13 Td
+/F1 9 Tf
+(data enable consistent deployment and timely retirement. Annual review is too slow,) Tj
+0 -13 Td
+/F1 9 Tf
+(additional budget does not reduce exposure, and excluding virtual assets creates unmanaged) Tj
+0 -13 Td
+/F1 9 Tf
+(infrastructure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP3-031\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(An asset leaving organizational control requires treatment based on its data sensitivity and) Tj
+0 -13 Td
+/F1 9 Tf
+(the ability to sanitize the media. Verified sanitization is preferred; if it is infeasible,) Tj
+0 -13 Td
+/F1 9 Tf
+(an authorized exception and controlled custody are needed. Warranty status does not transfer) Tj
+0 -13 Td
+/F1 9 Tf
+(accountability, ordinary deletion may leave remanent data, and the individual user should) Tj
+0 -13 Td
+/F1 9 Tf
+(not replace the approved process.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP3-032\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Secure onboarding begins with current, approved job needs and coordinates activation timing,) Tj
+0 -13 Td
+/F1 9 Tf
+(least privilege, and accountable asset assignment. Copying another person's profile can) Tj
+0 -13 Td
+/F1 9 Tf
+(reproduce obsolete or excessive permissions. Early activation creates avoidable exposure,) Tj
+0 -13 Td
+/F1 9 Tf
+(and job titles alone may not reflect actual responsibilities.) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 15 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 3802 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP3-033\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(After confirming that both requirements apply, the organization must satisfy the longer) Tj
+0 -13 Td
+/F1 9 Tf
+(mandatory period and document the basis for the schedule. Cost preference cannot shorten a) Tj
+0 -13 Td
+/F1 9 Tf
+(binding obligation, the contract does not negate the regulation, and indefinite retention) Tj
+0 -13 Td
+/F1 9 Tf
+(adds risk beyond the stated requirements without justification.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP3-034\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A records migration must preserve the metadata that makes retention, ownership, holds, and) Tj
+0 -13 Td
+/F1 9 Tf
+(defensible disposition enforceable. Restarting every retention period creates unnecessary) Tj
+0 -13 Td
+/F1 9 Tf
+(over-retention, preserving the old platform indefinitely avoids rather than solves the) Tj
+0 -13 Td
+/F1 9 Tf
+(migration problem, and user reconstruction would be incomplete and inconsistent.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP3-035\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Snapshots remain data assets even after the associated environment is removed. They must be) Tj
+0 -13 Td
+/F1 9 Tf
+(inventoried, protected according to classification, retained only as required, and securely) Tj
+0 -13 Td
+/F1 9 Tf
+(disposed of when no longer needed. Renaming or moving them does not reduce unauthorized) Tj
+0 -13 Td
+/F1 9 Tf
+(access or over-retention, and environment deletion does not eliminate the copied data.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP3-036\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(The standard should be driven by the information's classification, lifecycle, legal and) Tj
+0 -13 Td
+/F1 9 Tf
+(contractual obligations, operating environments, and risk. Scoping and tailoring then adapt) Tj
+0 -13 Td
+/F1 9 Tf
+(controls while preserving required outcomes. Tool convenience, one environment's) Tj
+0 -13 Td
+/F1 9 Tf
+(preferences, or external recipients alone should not define enterprise protection) Tj
+0 -13 Td
+/F1 9 Tf
+(requirements.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP3-037\) - Correct: A, D) Tj
+0 -13 Td
+/F1 9 Tf
+(Write-once optical media intended for disposal should be physically destroyed using an) Tj
+0 -13 Td
+/F1 9 Tf
+(approved process. Reusable magnetic tapes leaving custody may be purged with a supported,) Tj
+0 -13 Td
+/F1 9 Tf
+(approved technique and verified before resale. Deleting directory entries or relabeling) Tj
+0 -13 Td
+/F1 9 Tf
+(media does not address remanence, while indefinite retention creates continuing exposure) Tj
+0 -13 Td
+/F1 9 Tf
+(without a business need.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP3-038\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(A complete lifecycle and data-flow map establishes where the information exists, how it) Tj
+0 -13 Td
+/F1 9 Tf
+(moves, who is accountable, and where controls and disposition must apply. Product selection) Tj
+0 -13 Td
+/F1 9 Tf
+(before understanding scope may leave major gaps. Focusing on one copy or delegating) Tj
+0 -13 Td
+/F1 9 Tf
+(disconnected local decisions cannot provide consistent end-to-end protection.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP3-039\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Protected or synthetic test data can preserve the structure needed for testing without) Tj
+0 -13 Td
+/F1 9 Tf
+(exposing unnecessary real identities. Employment status does not create a need for complete) Tj
+0 -13 Td
+/F1 9 Tf
+(records. Network separation is useful but does not minimize the copied data, and archiving) Tj
+0 -13 Td
+/F1 9 Tf
+(after use does not prevent exposure during the test cycle.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 15 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R] /Count 6 >>
+endobj
+16 0 obj
+<< /Type /Catalog /Pages 15 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004441 00000 n 
+0000004578 00000 n 
+0000008795 00000 n 
+0000008932 00000 n 
+0000013043 00000 n 
+0000013180 00000 n 
+0000017229 00000 n 
+0000017367 00000 n 
+0000021843 00000 n 
+0000021982 00000 n 
+0000025837 00000 n 
+0000025976 00000 n 
+0000026067 00000 n 
+trailer
+<< /Size 17 /Root 16 0 R >>
+startxref
+26118
+%%EOF

@@ -1,0 +1,1181 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4022 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 30 - Domain 6 - Security Assessment and Testing) Tj
+0 -13 Td
+/F2 11 Tf
+(Practice Exam 04 - Domain 6) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP4-099\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A global publisher has separate security, compliance, risk, and internal audit) Tj
+0 -13 Td
+/F1 9 Tf
+(teams. Each team reviews access controls independently, while no team assesses the security) Tj
+0 -13 Td
+/F1 9 Tf
+(of several critical data exchanges between business units.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the chief audit executive recommend FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Assign every oversight team to repeat the same access-control tests each quarter.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Create an assurance map linking risks and control objectives to responsible) Tj
+0 -13 Td
+/F1 9 Tf
+(   reviewers, then address overlaps and uncovered areas.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Remove the data exchanges from the audit universe because no team currently owns) Tj
+0 -13 Td
+/F1 9 Tf
+(   them.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Allow each team to define assurance solely from its existing checklist.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP4-100\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A brokerage operates in a jurisdiction where a regulatory retention requirement is) Tj
+0 -13 Td
+/F1 9 Tf
+(stricter than the organization's global security baseline. An assessor is planning a) Tj
+0 -13 Td
+/F1 9 Tf
+(compliance audit of records generated in that jurisdiction.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which criterion should govern the assessment conclusion?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. The less demanding requirement because it is easier to apply consistently.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The global baseline only, because internal documents supersede external) Tj
+0 -13 Td
+/F1 9 Tf
+(   obligations.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. The preference of the system owner, documented after testing is complete.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. The applicable regulatory requirement, with the internal baseline also assessed) Tj
+0 -13 Td
+/F1 9 Tf
+(   where relevant.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP4-101\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A benefits platform relies on a subcontracted data center for physical and) Tj
+0 -13 Td
+/F1 9 Tf
+(environmental controls. The platform provider's independent assurance report excludes the) Tj
+0 -13 Td
+/F1 9 Tf
+(data center's controls and states that customers must evaluate that subservice organization) Tj
+0 -13 Td
+/F1 9 Tf
+(separately.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the customer's BEST next action?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Obtain and evaluate appropriate assurance for the excluded data center controls) Tj
+0 -13 Td
+/F1 9 Tf
+(   before concluding on the full service risk.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Assume the excluded controls are effective because the platform provider selected) Tj
+0 -13 Td
+/F1 9 Tf
+(   the subcontractor.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Treat the platform report as if it included every control performed by the data) Tj
+0 -13 Td
+/F1 9 Tf
+(   center.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Ignore physical and environmental controls because they are operated by a third) Tj
+0 -13 Td
+/F1 9 Tf
+(   party.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP4-102\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regional water authority is preparing an internal assessment of administrative) Tj
+0 -13 Td
+/F1 9 Tf
+(access to operational support systems. Previous reviews were delayed because control owners) Tj
+0 -13 Td
+/F1 9 Tf
+(disputed evidence requests and test responsibilities after fieldwork began.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO planning actions would BEST prevent the same problem? Select 2 of the 5 options) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4153 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+(below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Obtain approval of the scope, objectives, authority, and escalation path before) Tj
+0 -13 Td
+/F1 9 Tf
+(   fieldwork.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Agree on evidence owners, required artifacts, and delivery timelines with) Tj
+0 -13 Td
+/F1 9 Tf
+(   responsible stakeholders.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Allow each control owner to remove unfavorable samples after testing begins.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Avoid documenting test procedures so assessors can change conclusions freely.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Assign remediation decisions to the assessors before any findings exist.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP4-103\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A construction company continuously collects configuration status from managed) Tj
+0 -13 Td
+/F1 9 Tf
+(endpoints. During a scheduled audit, the assessor wants to use the dashboard history as) Tj
+0 -13 Td
+/F1 9 Tf
+(evidence that endpoint controls operated throughout the review period.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the assessor do BEFORE relying on the dashboard history?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Accept the dashboard because continuous collection eliminates the need to validate) Tj
+0 -13 Td
+/F1 9 Tf
+(   evidence quality.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Use only the current dashboard screen and disregard the defined audit period.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Verify data sources, population coverage, collection logic, integrity, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   exception handling for the period under review.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Convert the audit into a continuous monitoring function operated by the assessor.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP4-104\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: During an internal security audit, management refuses access to records for a) Tj
+0 -13 Td
+/F1 9 Tf
+(high-risk subsidiary that is explicitly included in the approved scope. Alternative) Tj
+0 -13 Td
+/F1 9 Tf
+(procedures cannot provide equivalent evidence.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the auditor's BEST course of action?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Issue an unqualified conclusion because most other business units were tested.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Document and escalate the scope limitation, then modify the conclusion to reflect) Tj
+0 -13 Td
+/F1 9 Tf
+(   the missing evidence.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Remove the subsidiary from the approved scope without informing governance) Tj
+0 -13 Td
+/F1 9 Tf
+(   stakeholders.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Assume the subsidiary's controls match those of the tested business units.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP4-105\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A travel marketplace allows users to reset passwords through a support-assisted) Tj
+0 -13 Td
+/F1 9 Tf
+(recovery process. The assessment objective is to determine whether an attacker can take over) Tj
+0 -13 Td
+/F1 9 Tf
+(an account using publicly available information and repeated support contacts.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which test would BEST address the objective?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Confirm that legitimate users can reset their passwords when all verification data) Tj
+0 -13 Td
+/F1 9 Tf
+(   is correct.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Review only the written support procedure for required identity checks.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Measure the average time required for a normal password reset.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Attempt authorized recovery misuse scenarios using incomplete, guessed, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   inconsistent identity evidence across repeated contacts.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP4-106\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A securities firm is testing whether authentication events from an application,) Tj
+0 -13 Td
+/F1 9 Tf
+(identity service, and central repository can support reliable investigations. Reviewers) Tj
+0 -13 Td
+/F1 9 Tf
+(suspect that clock differences and dropped records may distort event sequences.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 3996 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+(Which procedure provides the STRONGEST evidence?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Generate controlled authentication events, trace them through all three sources,) Tj
+0 -13 Td
+/F1 9 Tf
+(   and compare record completeness and normalized timestamps.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Confirm that each system has a written logging standard.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Count repository events without identifying expected source records.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Ask system owners whether their clocks are usually accurate.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP4-107\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A code review of an internal automation service finds a database password stored) Tj
+0 -13 Td
+/F1 9 Tf
+(in a configuration constant committed to the source repository. Developers state that the) Tj
+0 -13 Td
+/F1 9 Tf
+(repository is private.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the MOST appropriate assessment conclusion?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. The password is adequately protected because only employees can access the) Tj
+0 -13 Td
+/F1 9 Tf
+(   repository.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The issue is limited to code style and has no security effect.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. The embedded secret should be removed, rotated, and managed through an approved) Tj
+0 -13 Td
+/F1 9 Tf
+(   protected mechanism with access logging.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. The password may remain if the source file is renamed.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP4-108\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An insurance portal lets customers upload supporting documents. The security test) Tj
+0 -13 Td
+/F1 9 Tf
+(must determine whether validation can be bypassed and whether uploaded content can escape) Tj
+0 -13 Td
+/F1 9 Tf
+(its intended storage location.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO tests are MOST relevant? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Submit files with misleading extensions, mismatched content types, and prohibited) Tj
+0 -13 Td
+/F1 9 Tf
+(   executable content.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Test crafted filenames and paths to verify normalization and storage-boundary) Tj
+0 -13 Td
+/F1 9 Tf
+(   enforcement.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Compare the portal's colors with the organization's branding guide.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Measure how quickly a valid small document appears in the user's history.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Count the number of words in the upload instructions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP4-109\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A penetration tester gains authorized access to a production database containing) Tj
+0 -13 Td
+/F1 9 Tf
+(customer records. The engagement requires proof that restricted data is reachable but) Tj
+0 -13 Td
+/F1 9 Tf
+(prohibits unnecessary collection of personal information.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the tester do NEXT?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Export the entire database so management can see the maximum possible impact.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Capture the minimum approved evidence needed to demonstrate access, protect it, and) Tj
+0 -13 Td
+/F1 9 Tf
+(   follow the notification procedure.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Modify several customer records to prove write access even though that objective) Tj
+0 -13 Td
+/F1 9 Tf
+(   was not approved.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Publish a screenshot to the assessment team before applying evidence-handling) Tj
+0 -13 Td
+/F1 9 Tf
+(   controls.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP4-110\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A research company deploys servers from an approved hardened image. Months later,) Tj
+0 -13 Td
+/F1 9 Tf
+(the assurance team must determine whether operational changes have caused the active servers) Tj
+0 -13 Td
+/F1 9 Tf
+(to drift from the required configuration.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4129 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+(Which test is MOST appropriate?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Confirm that the original image passed review and assume all derived servers remain) Tj
+0 -13 Td
+/F1 9 Tf
+(   compliant.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Review purchase records for the physical hosts supporting the servers.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Ask administrators whether they remember changing security settings.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Compare current server configurations with the approved baseline and validate) Tj
+0 -13 Td
+/F1 9 Tf
+(   authorized exceptions.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP4-111\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An auditor is assessing service-account governance after several application teams) Tj
+0 -13 Td
+/F1 9 Tf
+(were reorganized. The directory lists account names and last-use dates, but many ownership) Tj
+0 -13 Td
+/F1 9 Tf
+(fields are blank or refer to former departments.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which analysis would provide the MOST useful evidence?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Reconcile service accounts to current applications and accountable owners, then) Tj
+0 -13 Td
+/F1 9 Tf
+(   investigate active accounts without valid ownership or purpose.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Count all directory accounts and compare the total with the previous year.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Review only accounts whose names include the word service.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Assume recently used accounts are authorized because they support active processes.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP4-112\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A monthly report shows that the total number of overdue high-risk findings remains) Tj
+0 -13 Td
+/F1 9 Tf
+(below the enterprise threshold. However, overdue findings affecting internet-facing services) Tj
+0 -13 Td
+/F1 9 Tf
+(have increased for four consecutive months.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST interpretation?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. No risk escalation is needed because the enterprise total remains below its) Tj
+0 -13 Td
+/F1 9 Tf
+(   threshold.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The trend is irrelevant until the total exceeds the enterprise threshold.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. The segment trend may indicate increasing exposure and should be analyzed against) Tj
+0 -13 Td
+/F1 9 Tf
+(   an appropriate risk threshold.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. The report proves that remediation performance is improving across all systems.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP4-113\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: During a scheduled assessment, an automated test reports that a web security) Tj
+0 -13 Td
+/F1 9 Tf
+(control failed for one request. Application records show the request was denied, while the) Tj
+0 -13 Td
+/F1 9 Tf
+(test tool recorded an unexpected response code.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the assessor do FIRST?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Report a confirmed control failure based solely on the automated result.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Reproduce the test and correlate application, intermediary, and tool records to) Tj
+0 -13 Td
+/F1 9 Tf
+(   determine the actual outcome.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Discard the result because the application record shows a denial.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Change the assessment criteria so the unexpected response is considered successful.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP4-114\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A medical device manufacturer allows temporary exceptions to its secure) Tj
+0 -13 Td
+/F1 9 Tf
+(configuration standard. The auditor must determine whether exceptions remain controlled) Tj
+0 -13 Td
+/F1 9 Tf
+(rather than becoming permanent undocumented deviations.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO data elements are MOST important to test? Select 2 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Documented risk approval, business justification, and accountable owner for each) Tj
+0 -13 Td
+/F1 9 Tf
+(   sampled exception.) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 2497 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   B. Expiration, periodic review, and closure or renewal records for each sampled) Tj
+0 -13 Td
+/F1 9 Tf
+(   exception.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. The preferred font used in the exception request form.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. The total number of words in the secure configuration standard.) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. The job titles of employees who never requested an exception.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP4-115\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A data archival failure destroyed three months of records needed to test a control) Tj
+0 -13 Td
+/F1 9 Tf
+(across the full audit period. Available evidence supports only the remaining nine months,) Tj
+0 -13 Td
+/F1 9 Tf
+(and no equivalent source exists.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(How should the final report address this condition?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. State that the control was effective for the full year because no failure was) Tj
+0 -13 Td
+/F1 9 Tf
+(   reported during the missing period.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Omit the missing period so readers are not distracted from the available results.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Treat absent records as proof that the control failed in every case.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Describe the evidence limitation, the period affected, and its impact on the) Tj
+0 -13 Td
+/F1 9 Tf
+(   assurance conclusion.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP4-116\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An external auditor requests configuration records that contain secrets and) Tj
+0 -13 Td
+/F1 9 Tf
+(personal data not relevant to the test objective. The auditor needs the remaining fields to) Tj
+0 -13 Td
+/F1 9 Tf
+(verify control operation.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST way to facilitate the request?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Provide a controlled, traceable copy with irrelevant sensitive fields appropriately) Tj
+0 -13 Td
+/F1 9 Tf
+(   redacted while preserving the evidence needed for testing.) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Send the unfiltered records through ordinary email because the auditor is) Tj
+0 -13 Td
+/F1 9 Tf
+(   independent.) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Refuse to provide any evidence containing sensitive information, even when) Tj
+0 -13 Td
+/F1 9 Tf
+(   protected alternatives exist.) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Replace the requested records with a verbal statement from the control owner.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 4290 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP4-099\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(An assurance map shows which risks and controls receive independent review, where work is) Tj
+0 -13 Td
+/F1 9 Tf
+(duplicated, and where material gaps remain. Repeating identical tests wastes resources,) Tj
+0 -13 Td
+/F1 9 Tf
+(excluding ownerless interfaces preserves the gap, and isolated checklists do not provide) Tj
+0 -13 Td
+/F1 9 Tf
+(enterprise-wide coverage visibility.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP4-100\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Applicable legal or regulatory criteria cannot be displaced by a weaker internal baseline.) Tj
+0 -13 Td
+/F1 9 Tf
+(The assessor should evaluate the mandatory requirement and may also report performance) Tj
+0 -13 Td
+/F1 9 Tf
+(against relevant internal criteria. Convenience or owner preference does not determine) Tj
+0 -13 Td
+/F1 9 Tf
+(compliance obligations.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP4-101\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(When a critical subservice organization is excluded, the customer needs separate evidence) Tj
+0 -13 Td
+/F1 9 Tf
+(for the controls on which it relies. Provider selection is not assurance, the report's) Tj
+0 -13 Td
+/F1 9 Tf
+(boundary cannot be expanded by assumption, and outsourcing a control does not remove the) Tj
+0 -13 Td
+/F1 9 Tf
+(customer's need to evaluate associated risk.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP4-102\) - Correct: A, B) Tj
+0 -13 Td
+/F1 9 Tf
+(Approved authority and escalation provisions resolve governance questions, while named) Tj
+0 -13 Td
+/F1 9 Tf
+(evidence owners and timelines make responsibilities clear before testing. Selective sample) Tj
+0 -13 Td
+/F1 9 Tf
+(removal undermines completeness, undocumented procedures weaken reproducibility, and) Tj
+0 -13 Td
+/F1 9 Tf
+(remediation remains a management responsibility after findings are evaluated.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP4-103\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(Automated history can support a point-in-time audit conclusion only after the assessor) Tj
+0 -13 Td
+/F1 9 Tf
+(establishes that its sources, coverage, logic, integrity, and exceptions are reliable.) Tj
+0 -13 Td
+/F1 9 Tf
+(Continuous collection does not make evidence self-validating, a current view omits) Tj
+0 -13 Td
+/F1 9 Tf
+(historical operation, and the assessor need not assume operational monitoring ownership.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP4-104\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(A material restriction that prevents sufficient evidence must be documented, escalated, and) Tj
+0 -13 Td
+/F1 9 Tf
+(reflected in the audit conclusion. Coverage elsewhere does not cure the limitation, silent) Tj
+0 -13 Td
+/F1 9 Tf
+(scope changes undermine governance, and control effectiveness cannot be inferred across an) Tj
+0 -13 Td
+/F1 9 Tf
+(untested subsidiary.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP4-105\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(Authorized misuse cases should exercise how the workflow responds to incomplete, guessed,) Tj
+0 -13 Td
+/F1 9 Tf
+(and inconsistent evidence, including repeated attempts that may exploit different support) Tj
+0 -13 Td
+/F1 9 Tf
+(agents. Normal-path testing, procedure review, and timing data do not demonstrate resistance) Tj
+0 -13 Td
+/F1 9 Tf
+(to account-recovery abuse.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP4-106\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Known test events provide an expected population that can be traced across sources,) Tj
+0 -13 Td
+/F1 9 Tf
+(revealing missing records and timestamp misalignment. Policies and owner statements describe) Tj
+0 -13 Td
+/F1 9 Tf
+(expectations, while an uncorrelated count cannot establish end-to-end completeness or) Tj
+0 -13 Td
+/F1 9 Tf
+(sequencing accuracy.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP4-107\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(A private repository still exposes embedded credentials to cloning, history, backups, and) Tj
+0 -13 Td
+/F1 9 Tf
+(users with repository access. The secret should be removed and rotated because earlier) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4285 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(versions may retain it, then stored through an approved protected mechanism. Renaming a file) Tj
+0 -13 Td
+/F1 9 Tf
+(does not change exposure.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP4-108\) - Correct: A, B) Tj
+0 -13 Td
+/F1 9 Tf
+(Content-type deception and prohibited files test validation controls, while crafted names) Tj
+0 -13 Td
+/F1 9 Tf
+(and paths test whether storage boundaries can be escaped. Branding, ordinary display speed,) Tj
+0 -13 Td
+/F1 9 Tf
+(and instruction length do not address the identified interface-security risks.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP4-109\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Penetration testing should prove the authorized objective with the least harmful evidence) Tj
+0 -13 Td
+/F1 9 Tf
+(necessary. Bulk export, unapproved modification, or uncontrolled sharing increases privacy) Tj
+0 -13 Td
+/F1 9 Tf
+(and operational risk without adding proportionate assurance. Evidence must remain protected) Tj
+0 -13 Td
+/F1 9 Tf
+(and handled under the engagement rules.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP4-110\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(A current-state comparison detects drift after deployment, and exception validation) Tj
+0 -13 Td
+/F1 9 Tf
+(distinguishes approved deviations from control failures. Original image approval proves only) Tj
+0 -13 Td
+/F1 9 Tf
+(the starting state, while purchase records and administrator recollection do not establish) Tj
+0 -13 Td
+/F1 9 Tf
+(present configuration compliance.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP4-111\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Service-account assurance requires a valid business purpose, current accountable ownership,) Tj
+0 -13 Td
+/F1 9 Tf
+(and appropriate activity. Reconciliation exposes orphaned or unexplained active accounts.) Tj
+0 -13 Td
+/F1 9 Tf
+(Totals and naming conventions are incomplete indicators, while recent use does not prove) Tj
+0 -13 Td
+/F1 9 Tf
+(authorization.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP4-112\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(An aggregate threshold can conceal a deteriorating high-risk segment. The sustained rise in) Tj
+0 -13 Td
+/F1 9 Tf
+(overdue internet-facing findings warrants analysis and potentially a segment-specific) Tj
+0 -13 Td
+/F1 9 Tf
+(trigger. Remaining below an enterprise total does not establish that all risk concentrations) Tj
+0 -13 Td
+/F1 9 Tf
+(are acceptable or improving.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP4-113\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Conflicting output requires reproduction and correlation across the relevant components) Tj
+0 -13 Td
+/F1 9 Tf
+(before classification. Neither the tool nor one application record is conclusive by itself.) Tj
+0 -13 Td
+/F1 9 Tf
+(Immediate confirmation, dismissal, or retroactive criteria changes would produce an) Tj
+0 -13 Td
+/F1 9 Tf
+(unsupported conclusion.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP4-114\) - Correct: A, B) Tj
+0 -13 Td
+/F1 9 Tf
+(Controlled exceptions require authorized risk acceptance, justification, ownership, and time) Tj
+0 -13 Td
+/F1 9 Tf
+(limits supported by review and closure or renewal evidence. Form appearance, document) Tj
+0 -13 Td
+/F1 9 Tf
+(length, and unrelated employee titles do not demonstrate that deviations are governed) Tj
+0 -13 Td
+/F1 9 Tf
+(effectively.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP4-115\) - Correct: D) Tj
+0 -13 Td
+/F1 9 Tf
+(The report must disclose the unavailable evidence and explain how it limits the conclusion.) Tj
+0 -13 Td
+/F1 9 Tf
+(Silence is not evidence of effectiveness, omission misleads readers, and missing records) Tj
+0 -13 Td
+/F1 9 Tf
+(alone do not prove that every underlying control action failed.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP4-116\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Scoped redaction and controlled, traceable delivery protect irrelevant sensitive data while) Tj
+0 -13 Td
+/F1 9 Tf
+(preserving sufficient audit evidence. Independence does not remove confidentiality) Tj
+0 -13 Td
+/F1 9 Tf
+(obligations, blanket refusal may prevent valid testing, and an unsupported verbal statement) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 110 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(is weaker than appropriately protected records.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] /Count 8 >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 19 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004288 00000 n 
+0000004425 00000 n 
+0000008630 00000 n 
+0000008767 00000 n 
+0000012815 00000 n 
+0000012952 00000 n 
+0000017133 00000 n 
+0000017271 00000 n 
+0000019821 00000 n 
+0000019960 00000 n 
+0000024303 00000 n 
+0000024442 00000 n 
+0000028780 00000 n 
+0000028919 00000 n 
+0000029081 00000 n 
+0000029220 00000 n 
+0000029325 00000 n 
+trailer
+<< /Size 21 /Root 20 0 R >>
+startxref
+29376
+%%EOF

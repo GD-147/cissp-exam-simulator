@@ -1,0 +1,1379 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4156 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(CISSP Printable Practice Exam 31 - Domain 7 - Security Operations) Tj
+0 -13 Td
+/F2 11 Tf
+(Practice Exam 04 - Domain 7) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 9 Tf
+(Choose the best answer for each question. For multi-select items, select all required answers.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP4-117\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regional airline's internal security team has imaged several servers after) Tj
+0 -13 Td
+/F1 9 Tf
+(detecting unauthorized access to crew scheduling data. Outside counsel has engaged an) Tj
+0 -13 Td
+/F1 9 Tf
+(external digital forensics firm to complete the analysis, and the imaged drives must now) Tj
+0 -13 Td
+/F1 9 Tf
+(leave the airline's custody.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security team do BEFORE releasing the evidence to the external firm?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Document the transfer with signed custody records, verification hashes, and a) Tj
+0 -13 Td
+/F1 9 Tf
+(   description of handling conditions) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Send the drives by standard mail without recording who packaged or received them) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Allow the forensics firm to begin analysis before any transfer documentation is) Tj
+0 -13 Td
+/F1 9 Tf
+(   completed) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Retain only a summary of findings and discard the original images once copies are) Tj
+0 -13 Td
+/F1 9 Tf
+(   made) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP4-118\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A semiconductor manufacturer's forensic analyst has completed a full disk image of) Tj
+0 -13 Td
+/F1 9 Tf
+(a workstation involved in a suspected intellectual property theft. Before beginning) Tj
+0 -13 Td
+/F1 9 Tf
+(analysis, the analyst must confirm the image accurately represents the original drive.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the analyst do to confirm the image's integrity?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Compare cryptographic hash values calculated from the source drive and the acquired) Tj
+0 -13 Td
+/F1 9 Tf
+(   image) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Open several files on the image and visually confirm they look correct) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Assume integrity because the imaging software did not report an error) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Recalculate the drive's file count and compare it to the image's file count) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP4-119\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A metropolitan transit authority is investigating unusual activity tied to a) Tj
+0 -13 Td
+/F1 9 Tf
+(systems administrator's privileged account. The same administrators who manage the affected) Tj
+0 -13 Td
+/F1 9 Tf
+(servers currently have full read, write, and delete access to the central log repository.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which THREE controls would MOST effectively reduce the risk that logs relevant to this) Tj
+0 -13 Td
+/F1 10 Tf
+(investigation could be altered or destroyed? Select 3 of the 5 options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Restrict write and delete access on the central log repository to a team) Tj
+0 -13 Td
+/F1 9 Tf
+(   independent of server administration) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Grant the administrator under investigation temporary log-management rights to) Tj
+0 -13 Td
+/F1 9 Tf
+(   assist with the review) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Forward logs in near real time to a separately controlled repository outside the) Tj
+0 -13 Td
+/F1 9 Tf
+(   administrators' reach) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Apply integrity controls, such as hashing or write-once storage, so past entries) Tj
+0 -13 Td
+/F1 9 Tf
+(   cannot be silently altered) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Merge log administration into the same role as server administration to simplify) Tj
+0 -13 Td
+/F1 9 Tf
+(   support) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP4-120\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An automotive parts manufacturer repeatedly finds that production servers) Tj
+0 -13 Td
+/F1 9 Tf
+(accumulate undocumented configuration changes between deployments, despite an established) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 21 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 4131 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(baseline. Engineering is redesigning the deployment process for a new application tier.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which approach would MOST directly eliminate the opportunity for undocumented configuration) Tj
+0 -13 Td
+/F1 10 Tf
+(drift?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Continue in-place patching and rely on more frequent manual configuration audits) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Deploy servers from a version-controlled golden image and replace, rather than) Tj
+0 -13 Td
+/F1 9 Tf
+(   modify, instances when updates are needed) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Grant additional administrators standing access so changes can be applied faster) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Extend the interval between configuration audits to reduce administrative workload) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP4-121\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An investment bank's identity team is provisioning system access for a newly hired) Tj
+0 -13 Td
+/F1 9 Tf
+(trade settlement analyst. The standard onboarding template for the settlement department) Tj
+0 -13 Td
+/F1 9 Tf
+(includes access to several systems the new analyst's specific duties will not require.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the identity team do?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Grant the full departmental template so the analyst never has to request additional) Tj
+0 -13 Td
+/F1 9 Tf
+(   access later) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Provision only the access required for the analyst's specific assigned duties,) Tj
+0 -13 Td
+/F1 9 Tf
+(   adding more only if justified later) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Delay provisioning any access until the analyst has worked in the role for several) Tj
+0 -13 Td
+/F1 9 Tf
+(   months) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Copy the exact access profile of the most senior analyst on the team) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP4-122\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A grocery retail chain's asset inventory shows that several point-of-sale servers) Tj
+0 -13 Td
+/F1 9 Tf
+(have reached the end of their supported life and are scheduled for replacement next quarter.) Tj
+0 -13 Td
+/F1 9 Tf
+(The servers currently continue to process daily transaction data.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the asset management process require before the servers are removed from) Tj
+0 -13 Td
+/F1 10 Tf
+(service?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Confirm data migration or backup, verify successor systems are ready, and schedule) Tj
+0 -13 Td
+/F1 9 Tf
+(   sanitization or destruction of the retired hardware) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Power off the servers immediately once the replacement date arrives, regardless of) Tj
+0 -13 Td
+/F1 9 Tf
+(   data status) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Leave the retired servers connected as an informal backup with no further tracking) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Transfer the servers to another department without updating asset or data-handling) Tj
+0 -13 Td
+/F1 9 Tf
+(   records) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP4-123\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A telecommunications carrier's security operations center receives three alerts) Tj
+0 -13 Td
+/F1 9 Tf
+(within minutes of each other: an employee-reported phishing email, indicators of active data) Tj
+0 -13 Td
+/F1 9 Tf
+(exfiltration from a customer billing server, and a spike in failed logins on a test system) Tj
+0 -13 Td
+/F1 9 Tf
+(that was decommissioned months ago.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which THREE practices should the team apply when triaging these alerts? Select 3 of the 5) Tj
+0 -13 Td
+/F1 10 Tf
+(options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Rank the alerts using business impact, asset criticality, and evidence of active) Tj
+0 -13 Td
+/F1 9 Tf
+(   compromise) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Investigate each alert strictly in the order it arrived, regardless of apparent) Tj
+0 -13 Td
+/F1 9 Tf
+(   severity) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Escalate the exfiltration indicator immediately while queuing the lower-risk items) Tj
+0 -13 Td
+/F1 9 Tf
+(   for scheduled review) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 21 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4167 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   D. Close alerts that lack an obvious technical indicator without recording the) Tj
+0 -13 Td
+/F1 9 Tf
+(   reasoning) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Document the triage decisions and supporting rationale for later review) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 8 \(CISSP4-124\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A pharmacy chain's field auditor reports that a company-issued removable drive) Tj
+0 -13 Td
+/F1 9 Tf
+(containing patient prescription records is missing after a site visit. The drive was) Tj
+0 -13 Td
+/F1 9 Tf
+(provisioned with full-disk encryption, and the encryption key was never stored with the) Tj
+0 -13 Td
+/F1 9 Tf
+(device.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(How should the security team approach this event?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Treat it identically to loss of unencrypted data, since any missing device is) Tj
+0 -13 Td
+/F1 9 Tf
+(   automatically reportable regardless of controls) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Assume no risk exists and close the matter without further review because the drive) Tj
+0 -13 Td
+/F1 9 Tf
+(   was encrypted) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Investigate the encryption configuration and key management, then determine) Tj
+0 -13 Td
+/F1 9 Tf
+(   reporting obligations based on the confirmed control effectiveness) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Wait to see whether the data appears publicly before taking any action) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP4-125\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An aerospace parts manufacturer's firewall rule base has grown over several years) Tj
+0 -13 Td
+/F1 9 Tf
+(with rules added for projects that have since ended. A recent review finds multiple broad) Tj
+0 -13 Td
+/F1 9 Tf
+(rules with no documented owner or current business justification.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the security team do with the unjustified broad rules?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Leave the rules in place in case a project resumes at an undetermined future date) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Validate current business need with rule owners, then remove or narrow rules that) Tj
+0 -13 Td
+/F1 9 Tf
+(   are no longer justified) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Widen the rules further so future projects will not require new firewall requests) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Disable the entire firewall rule base and rebuild it during the next scheduled) Tj
+0 -13 Td
+/F1 9 Tf
+(   outage window) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP4-126\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An online gaming platform's signature-based anti-malware tool did not flag a) Tj
+0 -13 Td
+/F1 9 Tf
+(workstation later found to be communicating with a known malicious infrastructure address.) Tj
+0 -13 Td
+/F1 9 Tf
+(Endpoint detection and response tooling is available but not yet configured for this) Tj
+0 -13 Td
+/F1 9 Tf
+(workstation class.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What is the BEST way to address this detection gap?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Rely solely on periodic signature updates and wait for vendor coverage to improve) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Extend behavioral endpoint detection and response coverage to this workstation) Tj
+0 -13 Td
+/F1 9 Tf
+(   class and investigate the affected host) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Remove anti-malware tooling from this workstation class since it did not detect the) Tj
+0 -13 Td
+/F1 9 Tf
+(   activity) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Disable outbound network access for all workstations of this class indefinitely) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP4-127\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A pediatric specialty clinic network's IT team receives a routine vendor security) Tj
+0 -13 Td
+/F1 9 Tf
+(patch for its electronic health record application. The patch has not yet been evaluated) Tj
+0 -13 Td
+/F1 9 Tf
+(against the clinic's specific configuration.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the team do BEFORE deploying the patch to all production systems?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Apply the patch to all systems simultaneously to close the vulnerability as quickly) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 21 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4304 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   as possible) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Test the patch in a representative non-production environment and confirm) Tj
+0 -13 Td
+/F1 9 Tf
+(   compatibility before broader deployment) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Skip testing because the vendor has already validated the patch internally) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Delay the patch indefinitely until the next major version upgrade) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP4-128\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A public library system's change management program allows certain well-) Tj
+0 -13 Td
+/F1 9 Tf
+(understood, low-risk, repeatable changes to follow a lighter pre-approved process rather) Tj
+0 -13 Td
+/F1 9 Tf
+(than full change advisory board review. IT staff are unsure whether a routine, previously) Tj
+0 -13 Td
+/F1 9 Tf
+(validated configuration update qualifies.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which characteristic BEST qualifies a change for the pre-approved standard change process?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. The change is well understood, low risk, follows a documented and previously) Tj
+0 -13 Td
+/F1 9 Tf
+(   validated procedure, and has a known rollback method) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. The change has never been performed before but appears simple to implement) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. The change affects a critical system, so expedited handling is appropriate) Tj
+0 -13 Td
+/F1 9 Tf
+(   regardless of documentation) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. The requester is confident the change will not cause any problems) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP4-129\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A national parcel shipping company must restore its package-routing system within) Tj
+0 -13 Td
+/F1 9 Tf
+(a small number of minutes after losing its primary data center. The organization can accept) Tj
+0 -13 Td
+/F1 9 Tf
+(installing and starting pre-configured, ready standby equipment but cannot tolerate the cost) Tj
+0 -13 Td
+/F1 9 Tf
+(of continuously mirrored, real-time synchronized processing.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which recovery site BEST fits this requirement?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A cold site with space and utilities but no installed processing equipment) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A warm site requiring several hours of configuration and data restoration) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A hot site with installed, largely configured systems that can be brought into) Tj
+0 -13 Td
+/F1 9 Tf
+(   service within minutes) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A mirrored site with continuous real-time synchronization and immediate failover) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP4-130\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An agricultural cooperative's nightly backup window has become too short for a) Tj
+0 -13 Td
+/F1 9 Tf
+(full backup of its growing inventory and shipment database, and available backup storage is) Tj
+0 -13 Td
+/F1 9 Tf
+(limited. Management wants backups to complete reliably within the window without exceeding) Tj
+0 -13 Td
+/F1 9 Tf
+(storage capacity.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which approach would BEST address the described constraint?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Continue full backups every night regardless of the time and storage required) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Combine periodic full backups with more frequent incremental or differential) Tj
+0 -13 Td
+/F1 9 Tf
+(   backups between them) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Stop backing up the database until additional storage budget is approved) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Back up the database only once a month to reduce storage consumption) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP4-131\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: An online brokerage platform currently runs its order-entry application on a) Tj
+0 -13 Td
+/F1 9 Tf
+(single server. A hardware or software failure on that server currently takes the entire) Tj
+0 -13 Td
+/F1 9 Tf
+(order-entry function offline until a replacement is brought up manually.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(How should the platform improve the availability of the order-entry function?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Deploy the application across a load-balanced cluster of servers so a single) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 21 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 4263 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(   failure does not remove the service) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Increase the memory allocated to the existing single server) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Move the application to a different single server with newer hardware) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Schedule more frequent manual health checks on the existing server) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP4-132\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A regional airport authority is conducting the first review of a newly drafted) Tj
+0 -13 Td
+/F1 9 Tf
+(disaster recovery plan. Each plan owner is asked to individually read their assigned) Tj
+0 -13 Td
+/F1 9 Tf
+(sections and confirm they are accurate and current, without any group discussion or system) Tj
+0 -13 Td
+/F1 9 Tf
+(activity.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which TWO characteristics describe this type of disaster recovery test? Select 2 of the 5) Tj
+0 -13 Td
+/F1 10 Tf
+(options below.) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Each plan owner independently reviews their assigned sections for accuracy and) Tj
+0 -13 Td
+/F1 9 Tf
+(   currency) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Cross-functional teams gather to discuss the plan and talk through a sample) Tj
+0 -13 Td
+/F1 9 Tf
+(   scenario together) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. No recovery systems or production services are activated at any point during the) Tj
+0 -13 Td
+/F1 9 Tf
+(   review) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Recovered systems operate in parallel with production so results can be compared) Tj
+0 -13 Td
+/F1 9 Tf
+(   E. Completing this review alone satisfies the organization's requirement for a full) Tj
+0 -13 Td
+/F1 9 Tf
+(   interruption test) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP4-133\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A ride-sharing company is beginning formal business continuity planning for the) Tj
+0 -13 Td
+/F1 9 Tf
+(first time. Leadership has drafted a recovery strategy based on which systems the technology) Tj
+0 -13 Td
+/F1 9 Tf
+(team believes are most important, without input from the business units that depend on them.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the organization do BEFORE finalizing recovery priorities?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Conduct a business impact analysis with business units to identify critical) Tj
+0 -13 Td
+/F1 9 Tf
+(   processes, dependencies, and recovery objectives) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Finalize the plan as drafted since the technology team understands the systems best) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Set identical recovery time objectives for every system to avoid the analysis) Tj
+0 -13 Td
+/F1 9 Tf
+(   effort) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Wait until after the next actual disruption to learn which systems matter most) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP4-134\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A colocation data center provider is finalizing fire protection for a new) Tj
+0 -13 Td
+/F1 9 Tf
+(equipment room housing customer servers and storage arrays. Water-based suppression could) Tj
+0 -13 Td
+/F1 9 Tf
+(protect the building structure but risks damaging the electronic equipment it is meant to) Tj
+0 -13 Td
+/F1 9 Tf
+(save.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(Which approach BEST balances equipment protection and personnel safety in this environment?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. Install a clean-agent suppression system suited to electronic equipment, supported) Tj
+0 -13 Td
+/F1 9 Tf
+(   by appropriate detection and evacuation procedures) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. Rely on a standard water sprinkler system because it is the least expensive option) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. Install no fire suppression system to avoid any risk of equipment damage) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. Use a suppression agent chosen without regard to occupant safety during discharge) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP4-135\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Scenario: A large K-12 school district currently relies on individual office staff making) Tj
+0 -13 Td
+/F1 9 Tf
+(phone calls to notify each school during an emergency. A recent drill showed that some) Tj
+0 -13 Td
+/F1 9 Tf
+(schools received notification many minutes after others, delaying protective actions.) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 21 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 734 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F1 10 Tf
+(What should the district implement to improve emergency communication?) Tj
+0 -13 Td
+/F1 9 Tf
+(   A. A mass notification system that can reach all schools simultaneously through) Tj
+0 -13 Td
+/F1 9 Tf
+(   multiple channels) Tj
+0 -13 Td
+/F1 9 Tf
+(   B. A requirement that only the superintendent's office may originate any emergency) Tj
+0 -13 Td
+/F1 9 Tf
+(   call) Tj
+0 -13 Td
+/F1 9 Tf
+(   C. A single shared phone line that each school must call in sequence to receive) Tj
+0 -13 Td
+/F1 9 Tf
+(   updates) Tj
+0 -13 Td
+/F1 9 Tf
+(   D. A policy directing schools to wait for a printed bulletin before taking protective) Tj
+0 -13 Td
+/F1 9 Tf
+(   action) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 21 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 4546 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 14 Tf
+(ANSWER KEY AND EXPLANATIONS) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 1 \(CISSP4-117\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A documented, signed transfer with verification hashes and handling details preserves the) Tj
+0 -13 Td
+/F1 9 Tf
+(chain of custody and supports the evidence's later admissibility and credibility. Unrecorded) Tj
+0 -13 Td
+/F1 9 Tf
+(shipping breaks the custody record needed to show the evidence was not altered. Beginning) Tj
+0 -13 Td
+/F1 9 Tf
+(analysis before documentation creates gaps in accountability, and discarding original images) Tj
+0 -13 Td
+/F1 9 Tf
+(removes the authoritative source that verification depends on.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 2 \(CISSP4-118\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(Matching cryptographic hash values computed from the source and the image provide strong,) Tj
+0 -13 Td
+/F1 9 Tf
+(verifiable evidence that the copy is bit-for-bit identical to the original. Visual) Tj
+0 -13 Td
+/F1 9 Tf
+(inspection of a few files does not confirm the entire image. Absence of a software error) Tj
+0 -13 Td
+/F1 9 Tf
+(message does not by itself prove integrity, and comparing file counts can miss subtle) Tj
+0 -13 Td
+/F1 9 Tf
+(alteration that leaves the count unchanged.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 3 \(CISSP4-119\) - Correct: A, C, D) Tj
+0 -13 Td
+/F1 9 Tf
+(Restricting log-repository control to an independent team, forwarding logs promptly to a) Tj
+0 -13 Td
+/F1 9 Tf
+(separately controlled destination, and applying integrity protections together reduce a) Tj
+0 -13 Td
+/F1 9 Tf
+(privileged administrator's ability to alter evidence of their own actions. Granting the) Tj
+0 -13 Td
+/F1 9 Tf
+(investigated administrator additional log access creates a direct conflict of interest.) Tj
+0 -13 Td
+/F1 9 Tf
+(Merging the two roles removes the separation the investigation depends on.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 4 \(CISSP4-120\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Replacing instances built from a version-controlled golden image, rather than modifying) Tj
+0 -13 Td
+/F1 9 Tf
+(servers in place, removes the opportunity for undocumented changes to accumulate between) Tj
+0 -13 Td
+/F1 9 Tf
+(deployments. Continuing in-place patching preserves the same drift risk regardless of audit) Tj
+0 -13 Td
+/F1 9 Tf
+(frequency. Additional standing administrative access increases the number of people who can) Tj
+0 -13 Td
+/F1 9 Tf
+(introduce undocumented changes, and a longer audit interval only delays detection rather) Tj
+0 -13 Td
+/F1 9 Tf
+(than preventing drift.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 5 \(CISSP4-121\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Least privilege calls for provisioning only the access the new analyst's actual duties) Tj
+0 -13 Td
+/F1 9 Tf
+(require, with additional access added later if a specific, justified need arises. Granting) Tj
+0 -13 Td
+/F1 9 Tf
+(the full template regardless of need creates unnecessary exposure. Withholding all access) Tj
+0 -13 Td
+/F1 9 Tf
+(delays legitimate work, and copying a senior analyst's profile typically grants far more) Tj
+0 -13 Td
+/F1 9 Tf
+(access than a new hire's duties warrant.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 6 \(CISSP4-122\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A controlled decommissioning process confirms that data has been migrated or preserved, that) Tj
+0 -13 Td
+/F1 9 Tf
+(replacement systems are ready to take over processing, and that retired hardware is) Tj
+0 -13 Td
+/F1 9 Tf
+(sanitized or destroyed according to its data sensitivity. Powering off servers without) Tj
+0 -13 Td
+/F1 9 Tf
+(confirming data status risks loss of unprocessed transactions. Leaving retired systems) Tj
+0 -13 Td
+/F1 9 Tf
+(connected without tracking, or transferring them without updated records, both undermine) Tj
+0 -13 Td
+/F1 9 Tf
+(asset accountability.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 7 \(CISSP4-123\) - Correct: A, C, E) Tj
+0 -13 Td
+/F1 9 Tf
+(Risk-based ranking, immediate escalation of the highest-impact indicator, and documented) Tj
+0 -13 Td
+/F1 9 Tf
+(triage decisions together support a defensible and effective response when multiple alerts) Tj
+0 -13 Td
+/F1 9 Tf
+(compete for attention. Strict arrival-order handling could delay response to the active) Tj
+0 -13 Td
+/F1 9 Tf
+(exfiltration. Closing alerts without recorded justification removes the ability to review or) Tj
+0 -13 Td
+/F1 9 Tf
+(revisit a triage decision later.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 21 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 4743 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F2 10 Tf
+(Question 8 \(CISSP4-124\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(The appropriate response confirms whether the encryption was properly configured and the key) Tj
+0 -13 Td
+/F1 9 Tf
+(remained protected, since verified strong encryption can materially reduce or eliminate) Tj
+0 -13 Td
+/F1 9 Tf
+(breach notification obligations depending on applicable requirements. Treating every loss) Tj
+0 -13 Td
+/F1 9 Tf
+(identically ignores the risk-reducing effect of verified encryption. Assuming safety without) Tj
+0 -13 Td
+/F1 9 Tf
+(verification is premature, and waiting for public exposure abandons timely incident) Tj
+0 -13 Td
+/F1 9 Tf
+(handling.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 9 \(CISSP4-125\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Validating current need with accountable owners and then removing or narrowing unjustified) Tj
+0 -13 Td
+/F1 9 Tf
+(rules keeps the rule base aligned with actual business requirements and reduces unnecessary) Tj
+0 -13 Td
+/F1 9 Tf
+(exposure. Leaving speculative rules in place preserves avoidable risk. Widening rules) Tj
+0 -13 Td
+/F1 9 Tf
+(further increases exposure, and disabling the entire rule base is disruptive and unnecessary) Tj
+0 -13 Td
+/F1 9 Tf
+(when a targeted review can address the specific stale entries.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 10 \(CISSP4-126\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Extending behavioral endpoint detection and response coverage addresses threats that) Tj
+0 -13 Td
+/F1 9 Tf
+(signature-based tools miss, while investigating the affected host determines the scope of) Tj
+0 -13 Td
+/F1 9 Tf
+(this specific compromise. Waiting on signature updates alone leaves the same detection gap) Tj
+0 -13 Td
+/F1 9 Tf
+(unaddressed. Removing the existing tool eliminates a layer that still has value, and an) Tj
+0 -13 Td
+/F1 9 Tf
+(indefinite blanket network restriction is disproportionate to a targeted detection gap.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 11 \(CISSP4-127\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Testing the patch in a representative non-production environment confirms compatibility with) Tj
+0 -13 Td
+/F1 9 Tf
+(the clinic's specific configuration before it reaches every production system, reducing the) Tj
+0 -13 Td
+/F1 9 Tf
+(risk of unexpected disruption. Deploying everywhere at once skips that verification. Vendor) Tj
+0 -13 Td
+/F1 9 Tf
+(testing does not account for site-specific configurations, and indefinite delay leaves a) Tj
+0 -13 Td
+/F1 9 Tf
+(known vulnerability unaddressed longer than necessary.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 12 \(CISSP4-128\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A pre-approved standard change is one that is well understood, low risk, follows a) Tj
+0 -13 Td
+/F1 9 Tf
+(documented and previously validated procedure, and has a known way to reverse it if needed.) Tj
+0 -13 Td
+/F1 9 Tf
+(An unperformed change lacks the track record standard classification requires. Criticality) Tj
+0 -13 Td
+/F1 9 Tf
+(alone does not justify skipping appropriate review, and a requester's confidence is not a) Tj
+0 -13 Td
+/F1 9 Tf
+(substitute for documented, validated criteria.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 13 \(CISSP4-129\) - Correct: C) Tj
+0 -13 Td
+/F1 9 Tf
+(A hot site provides installed, largely configured systems that can be activated within) Tj
+0 -13 Td
+/F1 9 Tf
+(minutes, meeting a stringent recovery time objective without the continuous synchronization) Tj
+0 -13 Td
+/F1 9 Tf
+(cost of a mirrored site. A cold site requires far more time to become operational. A warm) Tj
+0 -13 Td
+/F1 9 Tf
+(site's multi-hour restoration window does not meet a near-immediate requirement, and a) Tj
+0 -13 Td
+/F1 9 Tf
+(mirrored site exceeds both the stated need and the accepted budget.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 14 \(CISSP4-130\) - Correct: B) Tj
+0 -13 Td
+/F1 9 Tf
+(Combining periodic full backups with more frequent incremental or differential backups) Tj
+0 -13 Td
+/F1 9 Tf
+(reduces the time and storage each nightly job requires while still supporting restoration to) Tj
+0 -13 Td
+/F1 9 Tf
+(a recent point. Continuing nightly full backups preserves the same window and storage) Tj
+0 -13 Td
+/F1 9 Tf
+(pressure. Suspending backups leaves data unprotected, and monthly-only backups would allow) Tj
+0 -13 Td
+/F1 9 Tf
+(far more data loss than the organization likely intends.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 15 \(CISSP4-131\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A load-balanced cluster removes the single point of failure by distributing the order-entry) Tj
+0 -13 Td
+/F1 9 Tf
+(function across multiple servers, so one failure does not take the service offline. Adding) Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 21 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 2942 >>
+stream
+BT
+1 0 0 1 45 755 Tm
+/F1 9 Tf
+(memory or moving to newer hardware still leaves a single point of failure. More frequent) Tj
+0 -13 Td
+/F1 9 Tf
+(manual health checks can shorten detection time but do not prevent an outage when the sole) Tj
+0 -13 Td
+/F1 9 Tf
+(server fails.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 16 \(CISSP4-132\) - Correct: A, C) Tj
+0 -13 Td
+/F1 9 Tf
+(A read-through test involves individual review of the plan for accuracy and currency, with) Tj
+0 -13 Td
+/F1 9 Tf
+(no systems activated and no group exercise conducted. Group discussion of a sample scenario) Tj
+0 -13 Td
+/F1 9 Tf
+(describes a walkthrough rather than a read-through. Parallel operation of recovered systems) Tj
+0 -13 Td
+/F1 9 Tf
+(describes a different, more advanced test type, and an individual read-through does not) Tj
+0 -13 Td
+/F1 9 Tf
+(substitute for the operational assurance a full interruption test provides.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 17 \(CISSP4-133\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A business impact analysis conducted with the business units that depend on each process) Tj
+0 -13 Td
+/F1 9 Tf
+(produces defensible, evidence-based recovery priorities and objectives, rather than) Tj
+0 -13 Td
+/F1 9 Tf
+(assumptions made by the technology team alone. Finalizing the draft without that input risks) Tj
+0 -13 Td
+/F1 9 Tf
+(misaligned priorities. Treating every system as equally critical ignores real differences in) Tj
+0 -13 Td
+/F1 9 Tf
+(impact, and waiting for an actual disruption forfeits the chance to plan proactively.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 18 \(CISSP4-134\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A clean-agent suppression system is designed to control fire in equipment-dense environments) Tj
+0 -13 Td
+/F1 9 Tf
+(while limiting damage to electronics, and pairing it with proper detection and evacuation) Tj
+0 -13 Td
+/F1 9 Tf
+(procedures addresses personnel safety. Standard water sprinklers risk significant equipment) Tj
+0 -13 Td
+/F1 9 Tf
+(damage. Omitting suppression entirely leaves both life safety and equipment at risk, and) Tj
+0 -13 Td
+/F1 9 Tf
+(selecting an agent without regard to occupant safety during discharge disregards a core) Tj
+0 -13 Td
+/F1 9 Tf
+(requirement of the decision.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+0 -13 Td
+/F2 10 Tf
+(Question 19 \(CISSP4-135\) - Correct: A) Tj
+0 -13 Td
+/F1 9 Tf
+(A mass notification system that reaches all schools simultaneously through multiple channels) Tj
+0 -13 Td
+/F1 9 Tf
+(closes the timing gap that sequential manual calling creates. Centralizing origination in) Tj
+0 -13 Td
+/F1 9 Tf
+(one office does not by itself solve the delay in reaching recipients. A single shared line) Tj
+0 -13 Td
+/F1 9 Tf
+(that each school must call in sequence recreates the same delay, and waiting for a printed) Tj
+0 -13 Td
+/F1 9 Tf
+(bulletin is far too slow for protective action during an emergency.) Tj
+0 -13 Td
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 21 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R] /Count 9 >>
+endobj
+22 0 obj
+<< /Type /Catalog /Pages 21 0 R >>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000004422 00000 n 
+0000004559 00000 n 
+0000008742 00000 n 
+0000008879 00000 n 
+0000013098 00000 n 
+0000013235 00000 n 
+0000017591 00000 n 
+0000017729 00000 n 
+0000022045 00000 n 
+0000022184 00000 n 
+0000022970 00000 n 
+0000023109 00000 n 
+0000027708 00000 n 
+0000027847 00000 n 
+0000032643 00000 n 
+0000032782 00000 n 
+0000035777 00000 n 
+0000035916 00000 n 
+0000036028 00000 n 
+trailer
+<< /Size 23 /Root 22 0 R >>
+startxref
+36079
+%%EOF
